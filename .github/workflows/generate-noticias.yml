@@ -1,20 +1,24 @@
+# .github/workflows/generate-noticias.yml
+
+permissions:
+    contents: write
+
 name: Generate noticias.json
 
-# Roda a cada hora (ou ajuste a cron como quiser)
 on:
     schedule:
-        - cron: '0 * * * *'
-    workflow_dispatch: # permite rodar manualmente na aba Actions
+        - cron: '0 * * * *' # roda a cada hora
+    workflow_dispatch: # permite trigger manual
 
 jobs:
     build:
         runs-on: ubuntu-latest
 
         steps:
-            - name: Checkout repo
+            - name: Checkout repository
               uses: actions/checkout@v3
 
-            - name: Use Node.js
+            - name: Setup Node.js
               uses: actions/setup-node@v3
               with:
                   node-version: '18'
@@ -22,7 +26,7 @@ jobs:
             - name: Install dependencies
               run: npm install
 
-            - name: Generate noticias.json
+            - name: Run scraper to generate JSON
               run: npm run generate-json
 
             - name: Commit and push noticias.json
@@ -32,3 +36,4 @@ jobs:
                   author_email: actions@github.com
                   message: 'chore: update noticias.json'
                   add: 'noticias.json'
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
