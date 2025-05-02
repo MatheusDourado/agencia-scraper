@@ -10,13 +10,13 @@ const PORT = process.env.PORT || 3000;
 const BASE_URL = 'https://www.agenciabrasilia.df.gov.br';
 const URL = `${BASE_URL}/noticias`;
 
-// cache in-memory: guarda 5 minutos
+// In‐memory cache: guarda por 5 minutos
 const cache = new NodeCache({ stdTTL: 60 * 5, checkperiod: 60 });
 
-// variável que armazena o batch gerado pelo cron
+// Guarda o batch gerado pelo cron
 let noticiasCache = [];
 
-// Função que faz o scraping e retorna o array de notícias
+// Função de scraping
 async function fetchNoticias() {
 	const { data } = await axios.get(URL);
 	const $ = cheerio.load(data);
@@ -36,12 +36,28 @@ async function fetchNoticias() {
 	return lista;
 }
 
+// 🚀 [boot] Faz pré‐scraping inicial
+(async () => {
+	try {
+		console.log('🚀 [boot] Fazendo pré-scraping inicial…');
+		noticiasCache = await fetchNoticias();
+		cache.set('noticias', noticiasCache);
+		console.log(
+			'✅ [boot] Cache inicial OK:',
+			noticiasCache.length,
+			'notícias',
+		);
+	} catch (e) {
+		console.error('[boot] falha no cache inicial:', e.message);
+	}
+})();
+
 // Cron job: atualiza o cache a cada 10 minutos
 cron.schedule('*/10 * * * *', async () => {
 	try {
 		console.log('🕒 [cron] Atualizando cache de notícias…');
 		noticiasCache = await fetchNoticias();
-		cache.set('noticias', noticiasCache); // opcional: duplica no node-cache
+		cache.set('noticias', noticiasCache);
 		console.log(
 			'✅ [cron] Cache atualizado com',
 			noticiasCache.length,
@@ -52,21 +68,19 @@ cron.schedule('*/10 * * * *', async () => {
 	}
 });
 
-// Endpoint: serve JSON já pronto
+// Endpoint: serve JSON rapidinho
 app.get('/noticias', (req, res) => {
-	// se tiver no node-cache e for recente, serve direto
 	const hit = cache.get('noticias');
 	if (hit) {
 		console.log('🔁 Servindo do cache in-memory');
 		return res.json(hit);
 	}
-	// senão, serve o batch do cron (se existir)
 	if (noticiasCache.length) {
 		console.log('🔁 Servindo do cache pré-bitado pelo cron');
 		cache.set('noticias', noticiasCache);
 		return res.json(noticiasCache);
 	}
-	// última alternativa: faz scraping na hora
+	// fallback: scraping on-the-fly
 	fetchNoticias()
 		.then((lista) => {
 			cache.set('noticias', lista);
