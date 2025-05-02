@@ -6,13 +6,14 @@ O **agência-scraper** é uma aplicação backend desenvolvida com Node.js, dest
 
 ## Funcionalidades
 
-* **Extração de dados**: Captura de título, data e hora de publicação e atualização, descrição e URL da imagem de cada notícia.
-* **Endpoint único**: Disponibilização da rota HTTP GET `/noticias` que retorna um vetor de objetos JSON, contendo os seguintes campos:
+* **Extração de dados**: Captura de título, data e hora de publicação/atualização, descrição, URL da imagem e URL da notícia (campo `link`).
+* **Endpoint único**: rota HTTP GET `/noticias` que retorna um vetor de objetos JSON, contendo os seguintes campos:
 
   * `titulo` (string): título da notícia.
   * `label` (string): informação de data e hora de publicação e atualização.
   * `descricao` (string): resumo ou subtítulo da notícia.
   * `imagem` (string): URL absoluta da imagem associada.
+  * `link` (string): URL absoluta para leitura completa da notícia no site da Agência Brasília.
 
 ## Tecnologias Utilizadas
 
@@ -54,7 +55,7 @@ O **agência-scraper** é uma aplicação backend desenvolvida com Node.js, dest
 * **Inicie** o servidor:
 
   ```bash
-  node index.js
+  npm start
   ```
 
 Ao iniciar, a aplicação exibirá uma mensagem indicando a porta em que está escutando.
@@ -75,7 +76,8 @@ GET http://localhost:3000/noticias
     "titulo": "Renova DF já capacitou 727 pessoas em situação de rua",
     "label": "01/05/2025 às 18h27 - Atualizado em 01/05/2025 às 18h27",
     "descricao": "Iniciativa conta com uma reserva de vagas para essa população; Censo Distrital da População em Situação de Rua mostra impacto de políticas deste GDF para esse público",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-01-at-15-47-02-jpeg?imageThumbnail=4"
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-01-at-15-47-02-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/renova-df-ja-capacitou-727-pessoas-em-situacao-de-rua?redirect=%2Fnoticias"
   },
   ...
 ]
@@ -85,14 +87,67 @@ GET http://localhost:3000/noticias
 
 ```
 agencia-scraper/
-├── index.js        # Ponto de entrada da API
-├── package.json    # Metadados e dependências
-└── .gitignore      # Arquivos e pastas ignorados pelo Git
+├── index.js                # Ponto de entrada da API (lê JSON estático)
+├── scripts/
+│   └── fetchNoticias.js    # Scraper que gera o noticias.json
+├── noticias.json           # JSON estático com dados de notícias
+├── package.json            # Metadados e dependências
+└── .github/
+    └── workflows/
+        └── generate-noticias.yml   # Workflow Action para regenerar JSON
 ```
 
 ## Considerações Finais
 
-Este projeto foi concebido para fornecer uma solução leve, de fácil manutenção e de rápida integração a outros sistemas que exijam informações de notícias da Agência Brasília.
+Este projeto foi concebido para fornecer uma solução leve, de fácil manutenção e de rápida integração a outros sistemas que exijam informações de notícias da Agência Brasília. O campo `link` permite navegação direta até a matéria original, podendo ser aberto em nova aba (`target="_blank"`).
+
+---
+
+## Workflow GitHub Actions
+
+A cada hora (ou manualmente via trigger), um workflow do GitHub Actions executa o script de scraping, gera o `noticias.json` e faz commit automático. Segue a configuração em `.github/workflows/generate-noticias.yml`:
+
+```yaml
+permissions:
+  contents: write
+
+name: Generate noticias.json
+
+on:
+  schedule:
+    - cron: '0 * * * *'     # roda a cada hora
+  workflow_dispatch:       # permite disparo manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper to generate JSON
+        run: npm run generate-json
+
+      - name: Commit and push noticias.json
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: 'chore: update noticias.json'
+          add: 'noticias.json'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+```
+
+As permissões de conteúdo (`permissions.contents: write`) e `GITHUB_TOKEN` garantem que o workflow tenha autorização para commitar e enviar o arquivo atualizado ao repositório.
 
 ## Contribuição
 
