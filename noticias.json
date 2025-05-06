@@ -1,7 +1,28 @@
 [
   {
+    "titulo": "DF vai ampliar rede de saúde mental infantojuvenil com novo CAPSi no Recanto das Emas",
+    "label": "06/05/2025 às 12h12 - Atualizado em 06/05/2025 às 12h22",
+    "descricao": "Cerca de 850 mil moradores serão beneficiados com a nova unidade, que prestará atendimentos com foco em crianças e adolescentes em sofrimento psíquico grave",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa_1-4-jpg-20?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/df-vai-ampliar-rede-de-saude-mental-infantojuvenil-com-novo-capsi-no-recanto-das-emas?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Mulheres com medida protetiva no DF terão acesso ao Passe Livre no transporte público",
+    "label": "06/05/2025 às 11h59 - Atualizado em 06/05/2025 às 12h21",
+    "descricao": "Medida foi anunciada pelo governador Ibaneis Rocha durante a inauguração do Centro de Referência da Mulher Brasileira no Recanto das Emas nesta terça-feira (6)",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-geovana-albuquerque-3-jpg-5?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/mulheres-com-medida-protetiva-no-df-terao-acesso-ao-passe-livre-no-transporte-publico?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF inaugura Centro de Referência da Mulher no Recanto das Emas para fortalecer rede de proteção no DF",
+    "label": "06/05/2025 às 11h57 - Atualizado em 06/05/2025 às 12h25",
+    "descricao": "Unidade oferece atendimento gratuito, capacitação e apoio psicossocial a mulheres em situação de violência",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa_1-3-jpg-19?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-inaugura-centro-de-referencia-da-mulher-no-recanto-das-emas-para-fortalecer-rede-de-protecao-no-df?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Projeto leva cultura por meio do rock and roll para estudantes da rede pública do DF",
-    "label": "06/05/2025 às 10h35 - Atualizado em 06/05/2025 às 10h37",
+    "label": "06/05/2025 às 10h35 - Atualizado em 06/05/2025 às 11h48",
     "descricao": "Durante as ações que ocorrem nesta semana, cada escola receberá duas palestras temáticas com abordagem interdisciplinar que buscam promover reflexões sobre o papel da música na construção do pensamento crítico, da identidade cultural e da criatividade",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-3-jpg-73?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/projeto-leva-cultura-por-meio-do-rock-and-roll-para-estudantes-da-rede-p%C3%BAblica-do-df?redirect=%2Fnoticias"
@@ -47,26 +68,5 @@
     "descricao": "Promovida pela Defensoria Pública do DF, ação ocorreu nesta segunda-feira (5) e ofereceu diversos serviços às mulheres em situação de vulnerabilidade",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/5-5-dia-da-mulher-dpdf5-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/dia-da-mulher-registra-mais-de-2-mil-atendimentos-na-23-edicao?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Equipe do Hospital Regional de Santa Maria promove I Seminário do Método Canguru",
-    "label": "05/05/2025 às 18h24 - Atualizado em 05/05/2025 às 19h58",
-    "descricao": "Evento é voltado para a sensibilização e conscientização do método, que é benéfico para recém-nascidos, principalmente os prematuros",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-05-at-15-30-03-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/equipe-do-hospital-regional-de-santa-maria-promove-i-seminario-do-metodo-canguru?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Saúde do DF alerta para prevenção e diagnóstico precoce de AVC entre jovens",
-    "label": "05/05/2025 às 17h56 - Atualizado em 05/05/2025 às 19h56",
-    "descricao": "Sedentarismo, obesidade, tabagismo e exposição à poluição estão entre os principais fatores de risco; estilo de vida interfere nas chances de sofrer com a condição",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/jhonatan-cantarelle_agencia-saude-df_-5-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/estilo-de-vida-aumenta-risco-de-avc-entre-jovens?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF reforça importância da higienização das mãos para a segurança dos pacientes",
-    "label": "05/05/2025 às 17h29 - Atualizado em 05/05/2025 às 18h15",
-    "descricao": "Campanha do Dia Mundial da Higiene das Mãos é celebrada em 5 de maio",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-05-at-14-17-41-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-reforca-importancia-da-higienizacao-das-maos-para-a-seguranca-dos-pacientes?redirect=%2Fnoticias"
   }
 ]
