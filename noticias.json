@@ -1,17 +1,45 @@
 [
   {
+    "titulo": "Grupo do coletivo Distrito DRAG visita Hemocentro nesta quinta (8) em celebração à igualdade na doação de sangue",
+    "label": "07/05/2025 às 09h52 - Atualizado em 07/05/2025 às 10h26",
+    "descricao": "Ação marca cinco anos da decisão do STF que garantiu o direito de pessoas LGBTQIA+ doarem sangue",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/unnamed-jpg-39?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/grupo-do-coletivo-distrito-drag-visita-hemocentro-nesta-quinta-8-em-celebracao-a-igualdade-na-doacao-de-sangue?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Congresso reúne mais de mil gestores e especialistas no DF para fortalecer a governança pública",
+    "label": "07/05/2025 às 09h44 - Atualizado em 07/05/2025 às 10h18",
+    "descricao": "O I Congresso do Conselho Nacional de Secretários Estaduais de Planejamento (Conseplan) teve início nesta terça-feira (6), com a presença de autoridades do GDF, de outras unidades da Federação e do governo federal",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-07-at-09-19-44-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/congresso-reune-mais-de-mil-gestores-e-especialistas-no-df-para-fortalecer-a-governanca-publica?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Paciente recebe visita de seu animal de estimação na unidade oncológica do HRT",
+    "label": "07/05/2025 às 08h50 - Atualizado em 07/05/2025 às 09h59",
+    "descricao": "Equipe multiprofissional atendeu ao pedido do paciente, fortalecendo o atendimento humanizado e o cuidado integral por meio da iniciativa OncoPet",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/30-04-2025-oncopet-no-hospital-regional-de-taguatinga-fotos-sandro-araujo-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/paciente-recebe-visita-de-seu-animal-de-estimacao-na-unidade-oncologica-do-hrt?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Maio Laranja: Ações de combate ao abuso sexual contra crianças e adolescentes são intensificadas no DF",
+    "label": "07/05/2025 às 08h52 - Atualizado em 07/05/2025 às 09h54",
+    "descricao": "Com programação durante todo o mês, a Secretaria de Justiça e Cidadania promove palestras, ações nas ruas e exibição de filme com debate, reforçando a prevenção, o acolhimento e a proteção integral da infância e juventude",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-06-at-15-01-06-1-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/maio-laranja-acoes-de-combate-ao-abuso-sexual-contra-criancas-e-adolescentes-sao-intensificadas-no-df?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Consumidores devem se informar sobre direitos de troca e prazos nas compras do Dia das Mães",
+    "label": "07/05/2025 às 09h26 - Atualizado em 07/05/2025 às 09h48",
+    "descricao": "Procon-DF reforça atenção às políticas das empresas, devolução e segurança em compras online; pesquisa de confiabilidade e nota fiscal são os principais aliados para evitar dores de cabeça",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-paulo-h-carvalho-3-jpg-22?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/consumidores-devem-se-informar-sobre-direitos-de-troca-e-prazos-nas-compras-do-dia-das-maes?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Ginastas brasilienses se preparam para participar de campeonato nacional no Nilson Nelson",
     "label": "07/05/2025 às 08h04 - Atualizado em 07/05/2025 às 09h23",
     "descricao": "Atletas vão representar o DF no Torneio Brasil de Ginástica Artística 2025, que começa nesta sexta-feira (9) e vai até domingo (11), com entrada gratuita",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-fernando-caua-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/ginastas-brasilienses-se-preparam-para-participar-de-campeonato-nacional-no-nilson-nelson?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Paciente recebe visita de seu animal de estimação na unidade oncológica do HRT",
-    "label": "07/05/2025 às 08h50 - Atualizado em 07/05/2025 às 08h50",
-    "descricao": "Equipe multiprofissional atendeu ao pedido do paciente, fortalecendo o atendimento humanizado e o cuidado integral por meio da iniciativa OncoPet",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/30-04-2025-oncopet-no-hospital-regional-de-taguatinga-fotos-sandro-araujo-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/paciente-recebe-visita-de-seu-animal-de-estimacao-na-unidade-oncologica-do-hrt?redirect=%2Fnoticias"
   },
   {
     "titulo": "Em homenagem ao Dia das Mães, HRSM promove dia de beleza",
@@ -40,33 +68,5 @@
     "descricao": "Iniciativa da Secretaria de Justiça e Cidadania, em parceria com o Senac-DF, oferece qualificação gratuita para recém-formados",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/6-5-profissao-saude-foto-jhonatan-vieira-sejus-df-jpeg-2?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/ef-programa-profissao-saude-capacita-120-profissionais-de-enfermagem-para-o-mercado-de-trabalho?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF é finalista do World Police Summit 2025 com dois projetos inovadores",
-    "label": "06/05/2025 às 17h27 - Atualizado em 06/05/2025 às 18h19",
-    "descricao": "Iniciativas da Secretaria de Segurança Pública disputam categoria internacional de excelência no atendimento ao cidadão; cerimônia será em Dubai, com representantes de mais de 130 países",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-06-at-17-29-21-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-e-finalista-do-world-police-summit-2025-com-dois-projetos-inovadores?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Projeto da Biblioteca Escolar Comunitária de Planaltina valoriza a cultura indígena",
-    "label": "06/05/2025 às 17h57 - Atualizado em 06/05/2025 às 18h18",
-    "descricao": "A programação inclui exposição com objetos representativos dos povos originários do Brasil",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-capa-jpg-6?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/projeto-da-biblioteca-escolar-comunitaria-de-planaltina-valoriza-a-cultura-indigena?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Fiscalização apreende mercadorias irregulares na área central de Brasília",
-    "label": "06/05/2025 às 17h06 - Atualizado em 06/05/2025 às 18h18",
-    "descricao": "Mais de 15 toneladas de doces sem nota fiscal foram recolhidas; ação reuniu auditores fiscais, policiais militares, bombeiros e DF Legal",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-06-at-17-09-05-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/fiscalizacao-apreende-mercadorias-na-area-central-de-brasilia?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Escolas do campo do Núcleo Bandeirante celebram projetos de destaque",
-    "label": "06/05/2025 às 17h52 - Atualizado em 06/05/2025 às 18h16",
-    "descricao": "Unidades escolares comemoraram o Dia do Campo 2025 com formação, cultura e integração",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/6-5-dia-do-campo-foto-bruno-grossi-seedf3-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/escolas-do-campo-do-nucleo-bandeirante-celebram-projetos-de-destaque?redirect=%2Fnoticias"
   }
 ]
