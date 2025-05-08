@@ -1,10 +1,31 @@
 [
   {
+    "titulo": "População em situação de rua terá atendimento em Taguatinga, quinta e sexta-feiras",
+    "label": "08/05/2025 às 10h35 - Atualizado em 08/05/2025 às 11h13",
+    "descricao": "Abordagem está prevista para durar dois dias vai passar por 12 pontos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/8-5-acolhimento-foto-divulgacao-agencia-brasilia3-1-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/popula%C3%A7%C3%A3o-em-situa%C3%A7%C3%A3o-de-rua-ter%C3%A1-atendimento-em-taguatinga-quinta-e-sexta-feiras?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Acompanhe o lançamento do projeto Absorva o Bem",
     "label": "08/05/2025 às 10h14 - Atualizado em 08/05/2025 às 10h14",
     "descricao": "Iniciativa visa promover a dignidade menstrual e incentivar a participação comunitária de forma voluntária por meio de oferta acessível de absorventes em ambientes públicos",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/ao_vivo__lancamento-do-projeto-absorva-o-bem-png?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/acompanhe-o-lancamento-do-projeto-absorva-o-bem?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Protocolo Por Todas Elas completa um ano de avanços no combate à violência contra mulheres",
+    "label": "08/05/2025 às 09h59 - Atualizado em 08/05/2025 às 10h44",
+    "descricao": "Ao longo do último ano, a iniciativa alcançou resultados expressivos. Mais de 650 pessoas foram capacitadas em mais de 20 estabelecimentos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/screenshot_20250508-094736_photos-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/protocolo-por-todas-elas-completa-um-ano-de-avancos-no-combate-a-violencia-contra-mulheres?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Enfermeiros participam de curso de atualização em suporte básico e avançado de vida",
+    "label": "08/05/2025 às 09h16 - Atualizado em 08/05/2025 às 11h03",
+    "descricao": "Profissionais de 12 hospitais da Secretaria de Saúde que atuam em emergências passaram por treinamento em parceria com o Corpo de Bombeiros",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/8-5-capacitacao-para-enfermeiros-foto-sandro-araujo-agencia-saude2-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/enfermeiros-participam-de-curso-de-atualizacao-em-suporte-basico-e-avancado-de-vida?redirect=%2Fnoticias"
   },
   {
     "titulo": "Estudantes do Guará aprendem sobre ciência e tecnologia com autonomia e mão na massa",
@@ -47,26 +68,5 @@
     "descricao": "Codhab conseguirá atender moradores que passaram por alguma situação de urgência, como desastres climáticos, ou que vivem em estado de calamidade; valor aprovado é de R$ 15 mil para a aquisição de materiais básicos de construção",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/2412105cg-b-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/projeto-que-cria-assist%C3%AAncia-emergencial-para-obras-de-fam%C3%ADlias-de-baixa-renda-%C3%A9-aprovado?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Farmácia Hospitalar do IgesDF apresenta resultados e projeta inovações para 2025",
-    "label": "07/05/2025 às 18h06 - Atualizado em 07/05/2025 às 18h27",
-    "descricao": "Evento reuniu mais de 130 farmacêuticos hospitalares e debateu integração entre áreas, redução de desperdícios e avanços tecnológicos",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/7-5-farmacias-hospitalares-foto-alberto-ruy-igesdf-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/farmacia-hospitalar-do-igesdf-apresenta-resultados-e-projeta-inovacoes-para-2025?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Agências do trabalhador oferecem 663 vagas de emprego nesta quinta (8)",
-    "label": "07/05/2025 às 17h40 - Atualizado em 07/05/2025 às 18h25",
-    "descricao": "Oportunidades são destinadas a candidatos de diferentes níveis de escolaridade, com e sem experiência; salários chegam a R$ 4 mil",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/arquivo-agencia-brasilia-2-jpg-20?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/agencias-do-trabalhador-oferecem-663-vagas-de-emprego-nesta-quinta-8-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Campanha do GDF alerta sobre riscos do transporte pirata",
-    "label": "07/05/2025 às 16h58 - Atualizado em 07/05/2025 às 22h21",
-    "descricao": "Medida faz parte das ações de combate ao transporte ilegal de passageiros",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-07-at-17-03-42-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/campanha-do-gdf-alerta-sobre-riscos-do-transporte-pirata?redirect=%2Fnoticias"
   }
 ]
