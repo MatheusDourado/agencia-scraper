@@ -1,17 +1,17 @@
 [
   {
+    "titulo": "Estudantes do Guará aprendem sobre ciência e tecnologia com autonomia e mão na massa",
+    "label": "08/05/2025 às 07h42 - Atualizado em 08/05/2025 às 08h59",
+    "descricao": "Programa Steam Maker ensina os princípios fundamentais de elétrica e robótica, entre outras áreas, valorizando pensamento crítico e resolução de problemas; iniciativa está presente em 16 escolas públicas",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-11-jpg-42?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/estudantes-do-guara-aprendem-sobre-ciencia-e-tecnologia-com-autonomia-e-mao-na-massa?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Brasília é confirmada como cidade-sede da Copa do Mundo Feminina de 2027",
     "label": "07/05/2025 às 19h33 - Atualizado em 07/05/2025 às 20h12",
     "descricao": "Anúncio foi feito nesta quarta-feira (7), pelo presidente da Fifa, Gianni Infantino; decisão reforça vocação da cidade para ser a casa da Seleção Brasileira",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-07-at-19-07-21-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/brasilia-e-confirmada-como-cidade-sede-da-copa-do-mundo-feminina-de-2027?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Museu da Limpeza Urbana completa 29 anos",
-    "label": "07/05/2025 às 18h29 - Atualizado em 07/05/2025 às 19h25",
-    "descricao": "No local gerenciado pelo SLU, são mais de 600 peças encontradas no lixo ou de valor estimado que foram doadas para contar histórias desde a década de 1960",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-07-at-18-25-46-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/museu-da-limpeza-urbana-completa-29-anos?redirect=%2Fnoticias"
   },
   {
     "titulo": "Aberta seleção para analista de laboratório em anatomia patológica",
@@ -26,6 +26,13 @@
     "descricao": "Distrito Federal amplia imunização para adolescentes de 15 a 19 anos; ação vai até 14 de junho",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/envio-de-mensagens-para-vacinacao-do-hpv-jhonatan-cantarelle-agencia-saude-df-02-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/secretaria-de-saude-ja-enviou-130-mil-mensagens-para-incentivar-vacinacao-contra-hpv-em-jovens?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Museu da Limpeza Urbana completa 29 anos",
+    "label": "07/05/2025 às 18h29 - Atualizado em 07/05/2025 às 19h25",
+    "descricao": "No local gerenciado pelo SLU, são mais de 600 peças encontradas no lixo ou de valor estimado que foram doadas para contar histórias desde a década de 1960",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-07-at-18-25-46-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/museu-da-limpeza-urbana-completa-29-anos?redirect=%2Fnoticias"
   },
   {
     "titulo": "Projeto que cria assistência emergencial para obras de famílias de baixa renda é aprovado",
@@ -61,12 +68,5 @@
     "descricao": "Evento, nesta quarta-feira (7), promoveu planejamento do programa e orientou os gestores das instituições credenciadas sobre o funcionamento do cartão",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-jpg-78?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/semin%C3%A1rio-capacita-representantes-de-160-institui%C3%A7%C3%B5es-parceiras-do-cart%C3%A3o-creche?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Dia Internacional da Luta contra a Endometriose alerta para importância do diagnóstico precoce",
-    "label": "07/05/2025 às 16h35 - Atualizado em 07/05/2025 às 16h47",
-    "descricao": "Especialista do IgesDF esclarece sintomas e tratamentos da doença, que atinge uma em cada dez mulheres em idade fértil",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-07-at-15-49-21-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/dia-internacional-da-luta-contra-a-endometriose-alerta-para-importancia-do-diagnostico-precoce?redirect=%2Fnoticias"
   }
 ]
