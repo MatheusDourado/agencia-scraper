@@ -1,10 +1,38 @@
 [
   {
+    "titulo": "Retomada a licitação para construção do Hospital de São Sebastião",
+    "label": "12/05/2025 às 18h24 - Atualizado em 12/05/2025 às 18h24",
+    "descricao": "Com investimento de R$ 180 milhões, unidade terá capacidade para 100 leitos e ficará no Alto Mangueiral",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-12-at-14-39-00-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/retomada-a-licitacao-para-construcao-do-hospital-de-sao-sebastiao?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Mais de 272 mil doses de vacina contra a gripe já foram aplicadas no DF",
+    "label": "12/05/2025 às 18h23 - Atualizado em 12/05/2025 às 18h23",
+    "descricao": "No dia D de mobilização, 11.861 doses foram aplicadas",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/vacina-contra-a-gripe-foto-sandro-araujo_agencia-saude-df-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/mais-de-272-mil-doses-de-vacina-contra-a-gripe-j%C3%A1-foram-aplicadas-no-df?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Vagas de emprego: 850 oportunidades disponíveis nesta terça (13) nas agências do trabalhador",
+    "label": "12/05/2025 às 18h22 - Atualizado em 12/05/2025 às 18h22",
+    "descricao": "Há opções para candidatos de diferentes níveis de escolaridade, com e sem experiência; salários chegam a R$ 4 mil",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/jro_7145-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/vagas-de-emprego-850-oportunidades-disponiveis-nesta-terca-13-nas-agencias-do-trabalhador?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Maio Amarelo: GDF promove ação com conscientização e entrega de kits para motofretistas",
-    "label": "12/05/2025 às 18h12 - Atualizado em 12/05/2025 às 18h12",
+    "label": "12/05/2025 às 18h12 - Atualizado em 12/05/2025 às 18h21",
     "descricao": "Primeira parada foi em Sobradinho, nesta segunda-feira (12); profissionais recebem orientações sobre leis de trânsito e equipamentos de segurança, como colete refletivo",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-19-jpg-26?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/maio-amarelo-gdf-promove-acao-com-conscientizacao-e-entrega-de-kits-para-motofretistas?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Dia das Mães no Hospital de Ceilândia teve como foco saúde mental materna",
+    "label": "12/05/2025 às 17h59 - Atualizado em 12/05/2025 às 18h31",
+    "descricao": "Em alusão ao Maio Furta-Cor, evento reuniu pacientes para um momento de cuidado e escuta",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/dia-das-maes-hrc-foto-jhonatan-cantarelle_agencia-saude-df-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/dia-das-maes-no-hospital-de-ceilandia-teve-como-foco-saude-mental-materna?redirect=%2Fnoticias"
   },
   {
     "titulo": "Governador Ibaneis Rocha vai a Nova Iorque e participa de painel sobre relações Brasil-EUA",
@@ -40,33 +68,5 @@
     "descricao": "Comemorado nesta segunda-feira, o Dia Internacional da Enfermagem celebra profissionais essenciais em todas as áreas da saúde",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/enfermagem-foto-breno-esaki_arquivo-agencia-saude-df-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/enfermeiros-representam-40-da-for%C3%A7a-de-trabalho-da-secretaria-de-sa%C3%BAde-do-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Dia do Gari homenageia profissionais de limpeza urbana na próxima sexta (16)",
-    "label": "12/05/2025 às 17h21 - Atualizado em 12/05/2025 às 17h22",
-    "descricao": "Dia 16 de maio será o Dia Sem Lixo para conscientizar a população quanto ao descarte correto de resíduos e quanto à importância do trabalho dos garis",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-12-at-15-27-15-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/dia-do-gari-homenageia-profissionais-de-limpeza-urbana-na-pr%C3%B3xima-sexta-16-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Abertas inscrições para cirurgião vascular, nefrologista e psicólogo hospitalar",
-    "label": "12/05/2025 às 16h52 - Atualizado em 12/05/2025 às 16h53",
-    "descricao": "Inscrições podem ser feitas até o dia 18, pelo site do IgesDF",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/12-5-igesdf-contrata-foto-alberto-ruy-igesdf-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/abertas-inscricoes-para-cirurgiao-vascular-nefrologista-e-psicologo-hospitalar?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Evento discute meios de ficar mais fácil empreender no país",
-    "label": "12/05/2025 às 16h17 - Atualizado em 12/05/2025 às 16h19",
-    "descricao": "Encontro Redesim Conectada teve foco em inovação e desburocratização do ambiente de negócios",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/geral-do-evento-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/evento-discute-meios-de-ficar-mais-facil-empreender-no-pais?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Fórum do Ensino Fundamental abre chamadas para práticas exitosas",
-    "label": "12/05/2025 às 15h54 - Atualizado em 12/05/2025 às 15h54",
-    "descricao": "Trabalhos selecionados serão apresentados em evento realizado em outubro; inscrições podem ser feitas até o dia 19",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/12-5-forum-ensino-fundamental-forum-do-ensino-fundamental-foto-jotta-casttro-2-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/forum-do-ensino-fundamental-abre-chamadas-para-praticas-exitosas-1?redirect=%2Fnoticias"
   }
 ]
