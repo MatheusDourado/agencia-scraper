@@ -1,10 +1,24 @@
 [
   {
+    "titulo": "SEI será atualizado para a versão 4.1.5 nesta sexta-feira (16)",
+    "label": "13/05/2025 às 14h58 - Atualizado em 13/05/2025 às 14h59",
+    "descricao": "Nova versão corrige falhas no envio de e-mails e na visualização de processos. Atualização terá início às 18h e deve durar 24 horas, período em que o sistema ficará indisponível",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/390a5289-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/sei-sera-atualizado-para-a-versao-4.1.5-nesta-sexta-feira-16-?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Cursos gratuitos do QualificaDF Móvel 2025 têm 1.012 vagas",
     "label": "13/05/2025 às 14h18 - Atualizado em 13/05/2025 às 14h18",
     "descricao": "As inscrições estão abertas e vão até o dia 25 de maio",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/mg_8232-1620x1080-1-1536x1024-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/cursos-gratuitos-do-qualificadf-movel-2025-tem-1.012-vagas?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Solidariedade Salva: campanha arrecada 7 toneladas de alimentos em um único fim de semana",
+    "label": "13/05/2025 às 13h43 - Atualizado em 13/05/2025 às 14h50",
+    "descricao": "Números foram alcançados em eventos culturais que movimentaram a cidade na sexta (9) e no sábado (10); ação social continua junto a outras, como o Agasalho Solidário",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-13-at-13-51-30-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/solidariedade-salva-campanha-arrecada-7-toneladas-de-alimentos-em-um-unico-fim-de-semana?redirect=%2Fnoticias"
   },
   {
     "titulo": "Mais de 163 mil crianças e adolescentes já se vacinaram contra a dengue no DF",
@@ -15,9 +29,9 @@
   },
   {
     "titulo": "Ibaneis Rocha destaca potencial turístico e econômico do DF em fórum em Nova Iorque",
-    "label": "13/05/2025 às 13h32 - Atualizado em 13/05/2025 às 13h32",
+    "label": "13/05/2025 às 13h32 - Atualizado em 13/05/2025 às 14h42",
     "descricao": "Chefe do Executivo local lembrou crescimento de 40% do turismo na capital e a vocação logística durante evento nesta terça-feira (13)",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-13-at-13-22-02-jpeg?imageThumbnail=4",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-13-at-14-33-46-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/ibaneis-rocha-destaca-potencial-turistico-e-economico-do-df-em-forum-em-nova-iorque?redirect=%2Fnoticias"
   },
   {
@@ -50,23 +64,9 @@
   },
   {
     "titulo": "Sol Nascente ganha primeiro Centro de Referência da Mulher Brasileira",
-    "label": "13/05/2025 às 12h22 - Atualizado em 13/05/2025 às 12h42",
+    "label": "13/05/2025 às 12h22 - Atualizado em 13/05/2025 às 14h48",
     "descricao": "Esta é a quarta unidade de atendimento especializado no DF; equipamento amplia rede de enfrentamento à violência de gênero e reforça autonomia feminina na região",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-1-jpg-79?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/sol-nascente-ganha-primeiro-centro-de-referencia-da-mulher-brasileira?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "DPDF assegura retificação de registro civil e reconhecimento de dupla maternidade a casal homoafetivo",
-    "label": "13/05/2025 às 12h07 - Atualizado em 13/05/2025 às 12h34",
-    "descricao": "Decisão representa mais um importante avanço na efetivação dos direitos das famílias formadas por pessoas LGBTQIA+",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/sede-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/dpdf-assegura-retificacao-de-registro-civil-e-reconhecimento-de-dupla-maternidade-a-casal-homoafetivo?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Zoológico de Brasília recebe novas placas de identificação de recinto",
-    "label": "13/05/2025 às 11h53 - Atualizado em 13/05/2025 às 11h54",
-    "descricao": "Sistema de cores adotado facilita a visitação",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/amostra-placas-png?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/zoologico-de-brasilia-recebe-novas-placas-de-identificacao-de-recinto?redirect=%2Fnoticias"
   }
 ]
