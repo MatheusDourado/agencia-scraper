@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Mais de 600 vagas de emprego estão disponíveis nesta sexta-feira (16)",
+    "label": "15/05/2025 às 18h03 - Atualizado em 15/05/2025 às 18h05",
+    "descricao": "Agências do trabalhador contam com mais de 50 opções de áreas de atuação, que atendem diferentes regiões do DF",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/arquivo-agencia-brasilia-7-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/mais-de-600-vagas-de-emprego-estao-disponiveis-nesta-sexta-feira-16-?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Residente de ortopedia com deficiência auditiva recebe óculos de realidade aumentada",
+    "label": "15/05/2025 às 17h53 - Atualizado em 15/05/2025 às 17h54",
+    "descricao": "Tecnologia projeta legendas em tempo real, facilitando a comunicação durante procedimentos médicos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/15-5-doacao-de-oculos-de-realidade-aumentada-foto-alberto-ruy-igesdf-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/residente-de-ortopedia-com-deficiencia-auditiva-recebe-oculos-de-realidade-aumentada?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Ação de acolhimento atende 12 pessoas em situação de rua no Plano Piloto e em Ceilândia nesta semana",
+    "label": "15/05/2025 às 17h48 - Atualizado em 15/05/2025 às 17h48",
+    "descricao": "Operação coordenada pelo GDF oferece diversos serviços nas áreas de saúde, educação e assistência social",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/operacao-pop-rua-ceilandia-00_00_36_13-still008-1-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-de-acolhimento-atende-12-pessoas-em-situacao-de-rua-no-plano-piloto-e-em-ceilandia-nesta-semana?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Educação de Jovens e Adultos receberá livros didáticos por meio do PNLD",
     "label": "15/05/2025 às 17h13 - Atualizado em 15/05/2025 às 17h13",
     "descricao": "As escolas poderão escolher livros para o primeiro e segundo segmentos",
@@ -47,26 +68,5 @@
     "descricao": "Iniciativa Pequenos Gestores usa kits da Lego para desenvolver inteligência emocional, raciocínio lógico e habilidades de convivência entre crianças de 7 a 10 anos",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-8-jpg-53?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/escola-classe-708-norte-recebe-projeto-piloto-de-robotica-e-autogerenciamento?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Secretaria de Saúde abre contratação temporária e cadastro reserva de médicos generalistas",
-    "label": "15/05/2025 às 16h01 - Atualizado em 15/05/2025 às 16h01",
-    "descricao": "Candidatos convocados deverão apresentar a documentação até o dia 30 de maio",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/jhonatan-cantarelle-medico-generalista-02-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/secretaria-de-saude-abre-contratacao-temporaria-e-cadastro-reserva-de-medicos-generalistas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Governadora em exercício discute demandas e investimentos com diretores de escolas públicas",
-    "label": "15/05/2025 às 15h01 - Atualizado em 15/05/2025 às 15h40",
-    "descricao": "Encontro foi com 47 gestores da Regional de Ensino de Sobradinho, que levaram as necessidades ao conhecimento da equipe de governo; Celina Leão também visitou a Escola Classe 25 da cidade e o restaurante comunitário",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-15-at-15-36-06-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/governadora-em-exercicio-discute-demandas-e-investimentos-com-diretores-de-escolas-publicas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Hospital do DF é referência em alergologia e oferece atendimento especializado",
-    "label": "15/05/2025 às 14h22 - Atualizado em 15/05/2025 às 14h28",
-    "descricao": "Serviço do ambulatório do Hospital de Base cuida de pacientes com asma, rinite e outras doenças alérgicas, garantindo tratamento eficaz e acesso rápido",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/15-5-doencas-alergicas-foto-alberto-ruy-igesdf-hospital-de-base-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/hospital-do-df-e-referencia-em-alergologia-e-oferece-atendimento-especializado?redirect=%2Fnoticias"
   }
 ]
