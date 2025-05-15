@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "Linguagem simples ajuda a evitar esquecimentos e erros na hora de tomar remédios",
+    "label": "15/05/2025 às 10h25 - Atualizado em 15/05/2025 às 10h25",
+    "descricao": "Farmacêuticos da Secretaria de Saúde encontram novas formas para pacientes aderirem aos tratamentos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/15-5-orientacoes-sobre-medicamentos-foto-jhonatan-cantarelle-agencia-saude-1-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/linguagem-simples-ajuda-a-evitar-esquecimentos-e-erros-na-hora-de-tomar-remedios?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "AgroBrasília 2025 recebe o 1º Encontro da Cafeicultura do DF e Ride",
+    "label": "15/05/2025 às 10h09 - Atualizado em 15/05/2025 às 10h10",
+    "descricao": "As inscrições estão abertas. Evento destaca o crescimento da produção local e tem foco em tecnologia, sustentabilidade e empreendedorismo",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_2139-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/agrobras%C3%ADlia-2025-recebe-o-1%C2%BA-encontro-da-cafeicultura-do-df-e-ride?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Profissionais recebem homenagem pelo Dia da Enfermagem",
     "label": "15/05/2025 às 08h23 - Atualizado em 15/05/2025 às 08h41",
     "descricao": "Cerimônia celebrou a atuação de enfermeiros do Hospital de Base",
@@ -8,7 +22,7 @@
   },
   {
     "titulo": "Dia Internacional da Família destaca ações desenvolvidas pelo GDF",
-    "label": "15/05/2025 às 08h00 - Atualizado em 15/05/2025 às 08h39",
+    "label": "15/05/2025 às 08h00 - Atualizado em 15/05/2025 às 10h27",
     "descricao": "Iniciativas da Secretaria da Família e Juventude do DF são lembradas como ferramentas de fortalecimento",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/14-5-materia-sefj-df2-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/dia-internacional-da-fam%C3%ADlia-destaca-a%C3%A7%C3%B5es-desenvolvidas-pelo-gdf?redirect=%2Fnoticias"
@@ -54,19 +68,5 @@
     "descricao": "Evento vai ocorrer na próxima sexta, na Administração da cidade",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-14-at-15-02-35-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/cruzeiro-recebe-evento-em-apoio-ao-maio-laranja-mes-de-combate-a-exploracao-sexual-infantil?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "IgesDF abre vaga para técnico de segurança do trabalho",
-    "label": "14/05/2025 às 18h24 - Atualizado em 14/05/2025 às 18h25",
-    "descricao": "Processo seletivo oferece cadastro reserva com salário de R$ 2.943,13 e benefícios como auxílio transporte, abono semestral e folga no aniversário",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto1-sandro-araujo-agencia-saude-df-620x620-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/igesdf-abre-vaga-para-tecnico-de-seguranca-do-trabalho?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF amplia vacinação contra a gripe para todos os públicos a partir de segunda-feira (19)",
-    "label": "14/05/2025 às 18h11 - Atualizado em 14/05/2025 às 18h22",
-    "descricao": "Qualquer cidadão a partir de seis meses de idade poderá ser imunizado; objetivo é aumentar a cobertura vacinal e reduzir casos graves e internações por doenças respiratórias no Distrito Federal",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-lucio-bernardo-jr-8-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-amplia-vacinacao-contra-a-gripe-para-todos-os-publicos-a-partir-de-segunda-feira-19-?redirect=%2Fnoticias"
   }
 ]
