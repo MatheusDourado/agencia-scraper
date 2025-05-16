@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Novo módulo escolar no CED PAD-DF reforça educação no campo e valoriza comunidade rural",
+    "label": "16/05/2025 às 14h56 - Atualizado em 16/05/2025 às 15h18",
+    "descricao": "Instituição ganhou mais seis salas de aula com capacidade total para 180 alunos, que agora contam com turmas de ensino integral; governadora em exercício Celina Leão também cumpriu agenda na montagem da AgroBrasília 2025 e com os produtores rurais da região",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/01-capa-jpg-8?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/novo-modulo-escolar-no-ced-pad-df-reforca-educacao-no-campo-e-valoriza-comunidade-rural?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Projeto une realidade virtual e saberes indígenas em experiências imersivas",
+    "label": "16/05/2025 às 14h53 - Atualizado em 16/05/2025 às 14h53",
+    "descricao": "Iniciativa, que tem apoio do GDF, foi lançada na Universidade Católica de Brasília",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/16-6-materia-fapdf-samuel-paz-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/projeto-une-realidade-virtual-e-saberes-indigenas-em-experiencias-imersivas?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Ação coletiva do DER incentiva doação de sangue no Hemocentro de Brasília",
+    "label": "16/05/2025 às 14h25 - Atualizado em 16/05/2025 às 15h22",
+    "descricao": "Cerca de 60 servidores fizeram parte da campanha em apoio ao Maio Amarelo",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54523815204_2d252d2eb2_k-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-coletiva-do-der-incentiva-doacao-de-sangue-no-hemocentro-de-brasilia?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Brigadistas e técnicos de segurança da área de saúde são capacitados para resgate em áreas de alto risco",
     "label": "16/05/2025 às 14h03 - Atualizado em 16/05/2025 às 14h03",
     "descricao": "Treinamento intensivo promovido pelo IgesDF prepara profissionais para responder com agilidade e segurança em situações de emergência",
@@ -22,7 +43,7 @@
   },
   {
     "titulo": "Dia do Gari é celebrado com ponto facultativo e festa para os profissionais",
-    "label": "16/05/2025 às 12h54 - Atualizado em 16/05/2025 às 12h57",
+    "label": "16/05/2025 às 12h54 - Atualizado em 16/05/2025 às 14h40",
     "descricao": "Milhares de trabalhadores responsáveis por manter as cidades limpas diariamente participaram de festa promovida pelo GDF no Distrito de Limpeza Norte nesta sexta-feira (16)",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa_1-13-jpg-16?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/dia-do-gari-e-celebrado-com-ponto-facultativo-e-festa-para-os-profissionais?redirect=%2Fnoticias"
@@ -47,26 +68,5 @@
     "descricao": "Encontro no Palácio do Buriti definiu estratégias para registrar ações e obras entregues, em andamento e projetos de governo para os próximos anos",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa_1-12-jpg-11?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/celina-leao-reune-secretarios-e-administradores-para-tratar-de-acoes-e-projetos-do-governo?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Novos médicos generalistas reforçam o atendimento do Hran",
-    "label": "16/05/2025 às 10h18 - Atualizado em 16/05/2025 às 10h42",
-    "descricao": "Data também marca a abertura da nova sala de coleta de amostras patológicas da unidade",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/16-5-novos-medicos-foto-ualisson-noronha-agencia-saude2-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/novos-medicos-generalistas-reforcam-o-atendimento-do-hran?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Ação de acolhimento da população em situação de rua retorna a Brasília neste fim de semana",
-    "label": "16/05/2025 às 09h55 - Atualizado em 16/05/2025 às 10h12",
-    "descricao": "Abordagem está prevista para sábado (17) e domingo (18), percorrendo 14 pontos",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/16-5-acao-de-acolhimento-foto-divulgacao-df-legal2-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-de-acolhimento-da-populacao-em-situacao-de-rua-retorna-a-brasilia-neste-fim-de-semana-1?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF propõe criação de bolsa para residentes em medicina da família",
-    "label": "16/05/2025 às 09h01 - Atualizado em 16/05/2025 às 09h39",
-    "descricao": "Valor será de R$ 7.536, recurso complementar ao que já é pago pela residência; projeto de lei será encaminhado à Câmara Legislativa",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/16-5-medicina-de-familia-foto-matheus-h-souza-agencia-brasilia-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-propoe-criacao-de-bolsa-para-residentes-em-medicina-da-familia?redirect=%2Fnoticias"
   }
 ]
