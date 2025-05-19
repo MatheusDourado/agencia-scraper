@@ -1,5 +1,54 @@
 [
   {
+    "titulo": "Escolas podem agendar visita a exposição sobre história da construção de Brasília",
+    "label": "19/05/2025 às 17h21 - Atualizado em 19/05/2025 às 17h21",
+    "descricao": "Cerca de 300 estudantes conheceram, na última semana, a mostra 'Memórias Avulsas', em exibição na Novacap",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/mvimg_20250515_101722-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/escolas-podem-agendar-visita-a-exposicao-sobre-historia-da-construcao-de-brasilia?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Inscrições para a seleção estudantil da UnDF são prorrogadas até 25 de maio",
+    "label": "19/05/2025 às 16h56 - Atualizado em 19/05/2025 às 16h56",
+    "descricao": "Novo cronograma já está disponível, e candidatos têm mais esta semana para se inscrever, gratuitamente, em um dos 17 cursos da instituição; aulas começam no início de agosto",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/fachada-do-campus-norte-jpg-2?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/inscricoes-para-a-selecao-estudantil-da-undf-sao-prorrogadas-ate-25-de-maio?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Biotic e Saúde realizam Dia D de Vacinação no Parque Tecnológico de Brasília",
+    "label": "19/05/2025 às 16h36 - Atualizado em 19/05/2025 às 16h36",
+    "descricao": "A ação integra os esforços do GDF para aumentar os índices de vacinação e prevenir surtos de doenças transmissíveis na capital federal",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-19-at-16-21-34-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/biotic-e-saude-realizam-dia-d-de-vacinacao-no-parque-tecnologico-de-brasilia?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Estratégia: GDF organiza encontro para discutir gestão tributária e fiscal",
+    "label": "19/05/2025 às 16h31 - Atualizado em 19/05/2025 às 16h32",
+    "descricao": "Evento da Seec-DF reuniu mais de 100 servidores com objetivo de avaliar e revisar métodos de atuação em busca de melhor performance da administração",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-19-at-09-53-46-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/estrategia-gdf-organiza-encontro-para-discutir-gestao-tributaria-e-fiscal?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "PCDF cria comitê para o desenvolvimento de políticas públicas para as servidoras",
+    "label": "19/05/2025 às 16h28 - Atualizado em 19/05/2025 às 16h28",
+    "descricao": "Iniciativa visa a garantir que as demandas específicas das policiais civis sejam contempladas em ações estruturadas, para a promoção da equidade de gênero na segurança pública do DF",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/15-4-materia-pcdf4-jpeg-1?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/pcdf-cria-comite-para-o-desenvolvimento-de-politicas-publicas-para-asservidoras?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Mães atípicas e cuidadoras de pessoas com deficiência podem contar com terapia comunitária",
+    "label": "19/05/2025 às 16h27 - Atualizado em 19/05/2025 às 16h27",
+    "descricao": "A iniciativa, do Hospital Regional de Taguatinga, busca oferecer, em encontros mensais, oportunidade de cuidado integral e de conexão entre mulheres que cuidam de filhos com condições que exigem atenção especial",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/19-5-terapia-comunitaria-foto-agencia-sauide-divulgacao-2-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/maes-atipicas-e-cuidadoras-de-pessoas-com-deficiencia-podem-contar-com-terapia-comunitaria?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Museu de Arte de Brasília promove oficina de geometria para estudantes de Ceilândia",
+    "label": "19/05/2025 às 16h24 - Atualizado em 19/05/2025 às 16h36",
+    "descricao": "Atividade do MAB Educativo inspirada em Athos Bulcão aproxima jovens da arte e amplia o acesso à cultura",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-32-jpg-20?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/museu-de-arte-de-brasilia-promove-oficina-de-geometria-para-estudantes-de-ceilandia?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "4º Encontro de Autoridades de Monitoramento fortalece implementação da LAI no DF",
     "label": "19/05/2025 às 15h45 - Atualizado em 19/05/2025 às 15h45",
     "descricao": "Evento capacitou autoridades de monitoramento e preparou ações para a Semana da Transparência 2025",
@@ -19,54 +68,5 @@
     "descricao": "Estudo avalia custo-efetividade do exame RT-PCR para detecção de vírus respiratórios no SUS",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-19-at-13-57-32-1-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/docente-da-esp/df-tem-trabalho-premiado-no-v-congresso-de-biomedicina-do-centro-oeste?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Compete Brasília já investiu mais de R$ 23,1 milhões para apoiar atletas do DF em competições nacionais e internacionais",
-    "label": "19/05/2025 às 14h59 - Atualizado em 19/05/2025 às 14h59",
-    "descricao": "Programa custeia deslocamento dos esportistas para disputas no Brasil e no exterior; mais de 20 mil pessoas foram atendidas desde 2019 nas mais diversas modalidades",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-arquivo-pessoal-eduardo-henrique-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/compete-brasilia-ja-investiu-mais-de-r-231-milhoes-para-apoiar-atletas-do-df-em-competicoes-nacionais-e-internacionais?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Projetos do DF financiados pela Lei Paulo Gustavo levam acessibilidade e protagonismo a pessoas com deficiência",
-    "label": "19/05/2025 às 14h00 - Atualizado em 19/05/2025 às 14h00",
-    "descricao": "Todas as 240 propostas contempladas contam com algum tipo de inclusão, sendo 15 iniciativas de autoria de PcDs",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/conexoes-atipicas_foto-alfredo-perez-2-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/projetos-do-df-financiados-pela-lei-paulo-gustavo-levam-acessibilidade-e-protagonismo-a-pessoas-com-deficiencia?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Desligamento de energia afetará Paranoá e Recanto das Emas nesta terça-feira (20)",
-    "label": "19/05/2025 às 13h41 - Atualizado em 19/05/2025 às 13h49",
-    "descricao": "A suspensão será feita por segurança devido a serviços de manutenção da rede elétrica e poda de árvores. Confira os horários e áreas impactadas",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/manutencao-desligamento-ceb-neoenergia-foto-arquivo-agencia-brasilia-1-jpg-1?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/desligamento-de-energia-afetara-paranoa-e-recanto-das-emas-nesta-terca-feira-20-1?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Produtores rurais contam com novo programa de renegociação de dívidas",
-    "label": "19/05/2025 às 13h20 - Atualizado em 19/05/2025 às 13h21",
-    "descricao": "Até o dia 16 de julho, o ETR Acerta tem a expectativa de beneficiar cerca 700 agricultores",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/19-5-para-materia-etr-foto-matheus-h-souza-agencia-brasilia-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/produtores-rurais-contam-com-novo-programa-de-renegociacao-de-dividas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Filme 'Manas' será exibido no Cine Brasília para debater a exploração infantojuvenil",
-    "label": "19/05/2025 às 12h56 - Atualizado em 19/05/2025 às 12h56",
-    "descricao": "Evento promovido pela Sejus-DF, na próxima quinta (22), integra a campanha Maio Laranja e contará com cine-debate com a presença da diretora Marianna Brennand",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/cena-do-filme-manas_foto-divulgacao-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/filme-manas-sera-exibido-no-cine-brasilia-para-debater-a-exploracao-infantojuvenil?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Ações educativas sobre segurança no trânsito alcançaram 2,5 mil pessoas no fim de semana",
-    "label": "19/05/2025 às 12h31 - Atualizado em 19/05/2025 às 12h32",
-    "descricao": "Dentro da programação da campanha Maio Amarelo, educadores do Detran-DF estiveram em grandes eventos, como a Rua do Lazer, no Guará; o Eixão Atípico, na Asa Sul; e o Bora de Bike, no Parque da Cidade",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-19-at-09-36-20-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acoes-educativas-sobre-seguranca-no-transito-alcancaram-25-mil-pessoas-no-fim-de-semana?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Terceira edição do Brasília Game Festival recebe mais de 70 mil visitantes",
-    "label": "19/05/2025 às 11h32 - Atualizado em 19/05/2025 às 11h32",
-    "descricao": "Evento bate recorde de público e reforça o DF como referência nacional na indústria de games",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/19-5-brasilia-game-festival-foto-divulgacao-secti-df-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/terceira-edicao-do-brasilia-game-festival-recebe-mais-de-70-mil-visitantes?redirect=%2Fnoticias"
   }
 ]
