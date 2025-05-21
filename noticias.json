@@ -1,5 +1,54 @@
 [
   {
+    "titulo": "Vicente Pires recebe mutirão de limpeza",
+    "label": "21/05/2025 às 12h10 - Atualizado em 21/05/2025 às 12h10",
+    "descricao": "A iniciativa combate o descarte irregular e a proliferação do mosquito transmissor da dengue",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-02-13-at-11-40-26-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/vicente-pires-recebe-mutirao-de-limpeza?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Programa de iniciação científica abre edital para formação de banco de projetos de pesquisa",
+    "label": "21/05/2025 às 12h04 - Atualizado em 21/05/2025 às 12h05",
+    "descricao": "Edital para o processo seletivo prevê inscrições a partir de 2 de junho",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/jhonatan-cantarelle-agencia-saude-df-33-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/programa-de-iniciacao-cientifica-abre-edital-para-formacao-de-banco-de-projetos-de-pesquisa?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Escolas do DF avançam na prevenção à violência escolar",
+    "label": "21/05/2025 às 12h00 - Atualizado em 21/05/2025 às 12h01",
+    "descricao": "Segundo dados do IPEDF, cerca 87% das instituições escolares promoveu campanhas educativas, e 88% orientam famílias sobre bullying",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-5-pesquisa-ipedf2-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/escolas-do-df-avancam-na-prevencao-a-violencia-escolar?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Obras de infraestrutura no Lote 2 de Vicente Pires mudam a realidade da Colônia Agrícola Samambaia",
+    "label": "21/05/2025 às 11h59 - Atualizado em 21/05/2025 às 11h59",
+    "descricao": "Serviços de drenagem, pavimentação, calçadas, sinalização e iluminação são reforçados com a chegada da estiagem",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-5-obras-em-vicente-pires-foto-divulgacao-sodf-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/obras-de-infraestrutura-no-lote-2-de-vicente-pires-mudam-a-realidade-da-col%C3%B4nia-agr%C3%ADcola-samambaia?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Patrocinador máster da AgroBrasília 2025, BRB lança pacote de valor especial para produtores rurais",
+    "label": "21/05/2025 às 11h55 - Atualizado em 21/05/2025 às 11h55",
+    "descricao": "O banco conta com três estandes exclusivos, equipe especializada e um pacote de valor com condições diferenciadas para atender produtores rurais de todos os portes",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/brb-foto-paulo-h-carvalho-agencia-brasilia-jpeg-5?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/patrocinador-master-da-agrobrasilia-2025-brb-lanca-pacote-de-valor-especial-para-produtores-rurais?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Com novas salas, Escola Parque da Natureza e do Esporte, no Núcleo Bandeirante, amplia capacidade",
+    "label": "21/05/2025 às 11h48 - Atualizado em 21/05/2025 às 11h48",
+    "descricao": "Instituição de ensino passou por um processo de reconstrução, em 2022, onde existia um clube abandonado; investimento de mais de R$ 1 milhão na construção de seis espaços modulares possibilitou 210 novas vagas infantis",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa_1-17-jpg-6?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/com-novas-salas-escola-parque-da-natureza-e-do-esporte-no-nucleo-bandeirante-amplia-capacidade?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF investe R$ 12,4 milhões na reconstrução do Centro de Ensino Fundamental 01 da Candangolândia",
+    "label": "21/05/2025 às 11h44 - Atualizado em 21/05/2025 às 11h54",
+    "descricao": "Nesta quarta-feira (21), o governador Ibaneis Rocha assinou a ordem de serviço para início da obra, que permitirá dobrar a capacidade do centro de ensino fundamental para 1,2 mil alunos, em dois turnos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa_1-16-jpg-9?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-investe-r-124-milhoes-na-reconstrucao-do-centro-de-ensino-fundamental-01-da-candangolandia?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Cine Brasília exibe o clássico 'Hiroshima, Meu Amor', com ingresso único de R$ 5",
     "label": "21/05/2025 às 11h19 - Atualizado em 21/05/2025 às 11h19",
     "descricao": "Obra-prima do diretor Alain Resnais será exibida nesta sexta (23) e no sábado (24); esta semana estreiam na programação o thriller sul-coreano 'Uma Família Normal' e a produção franco-árabe 'Animale'",
@@ -19,54 +68,5 @@
     "descricao": "Geneticista foi responsável por implantar o teste do pezinho ampliado, que já identificou milhares de casos; profissional será homenageada no Hospital de Apoio de Brasília",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-5-geneticista-pioneira-foto-arquivo-pessoal3-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/medica-cria-o-primeiro-banco-genetico-da-rede-publica-do-df-e-transforma-diagnostico-de-doencas-raras?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Saúde mental infantojuvenil é o foco da exposição ‘Cores do Sentir’",
-    "label": "21/05/2025 às 09h13 - Atualizado em 21/05/2025 às 09h40",
-    "descricao": "Mostra na Biblioteca Nacional da República faz parte da Semana de Luta Antimanicomial",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-5-expo-cores-do-sentir-foto-sandro-araujo-agencia-saude2-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/saude-mental-infantojuvenil-e-o-foco-da-exposicao-cores-do-sentir?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Circuito da Agroindústria destaca regularização simplificada de queijarias artesanais na AgroBrasília",
-    "label": "21/05/2025 às 07h56 - Atualizado em 21/05/2025 às 09h38",
-    "descricao": "Registro Provisório facilita a legalização de queijarias artesanais e fortalece a produção familiar de queijos no DF",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-5-circuito-agroindustria-foto-divulgacao-emater-df4-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/circuito-da-agroindustria-destaca-regularizacao-simplificada-de-queijarias-artesanais-na-agrobrasilia?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Brasilienses aproveitam ampliação de grupos para se vacinar contra a gripe",
-    "label": "20/05/2025 às 19h08 - Atualizado em 20/05/2025 às 19h18",
-    "descricao": "Com estoques disponíveis nas unidades básicas de saúde, campanha busca ampliar cobertura vacinal, conter o avanço da influenza e reduzir casos graves da doença",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-ubs1-da-asa-sul-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/brasilienses-aproveitam-ampliacao-de-grupos-para-se-vacinar-contra-a-gripe?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Saúde pública do DF conta com mais de 9 mil técnicos de enfermagem",
-    "label": "20/05/2025 às 19h06 - Atualizado em 20/05/2025 às 19h06",
-    "descricao": "Profissionais cujo dia se comemora no dia 20 de maio são essenciais no acolhimento e cuidado à população",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/oliveira-simao-dos-reis-tecnico-de-enfermagem-da-uti-covid-hrsam-foto-breno-esaki_arquivo-agencia-saude-df-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/saude-publica-do-df-conta-com-mais-de-9-mil-tecnicos-de-enfermagem?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Vagas de emprego: estão abertas 567 nas agências do trabalhador, nesta quarta-feira (21)",
-    "label": "20/05/2025 às 18h56 - Atualizado em 20/05/2025 às 18h56",
-    "descricao": "Oportunidades estão distribuídas em mais de 15 RAs do DF, com salários a partir de R$ 1,5 mil",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/arquivo-agencia-brasilia-8-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/vagas-de-emprego-estao-abertas-567-nas-agencias-do-trabalhador-nesta-quarta-feira-21-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "AgroHack Ideias 2025: segunda edição da maratona que conecta inovação e agronegócio abre inscrições",
-    "label": "20/05/2025 às 18h33 - Atualizado em 20/05/2025 às 18h33",
-    "descricao": "Objetivo é impulsionar soluções tecnológicas para os desafios da produção rural",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/agrohack1-png?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/agrohack-ideias-2025-segunda-edicao-da-maratona-que-conecta-inovacao-e-agronegocio-abre-inscricoes?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Quase 1,3 milhão de contribuintes podem participar do sorteio do Nota Legal",
-    "label": "20/05/2025 às 17h56 - Atualizado em 21/05/2025 às 09h34",
-    "descricao": "Evento será nesta quarta-feira (21), com 72,6 milhões de bilhetes. Saiba como acompanhar",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/390a2647-1-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/quase-1-3-milh%C3%A3o-de-contribuintes-podem-participar-do-sorteio-do-nota-legal?redirect=%2Fnoticias"
   }
 ]
