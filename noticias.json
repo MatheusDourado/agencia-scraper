@@ -1,5 +1,54 @@
 [
   {
+    "titulo": "Tecnologia utilizada por empresa de embalagens do DF ganha destaque no Mês da Indústria",
+    "label": "22/05/2025 às 17h15 - Atualizado em 22/05/2025 às 17h16",
+    "descricao": "FAPDF e Fibra enfatizam exemplo da CoPack com o apoio da transformação digital",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/22-5-materia-fapdf4-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/tecnologia-utilizada-por-empresa-de-embalagens-do-df-ganha-destaque-no-mes-da-industria?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "PCDF devolve 430 celulares a proprietários e lança serviço de consulta de aparelhos",
+    "label": "22/05/2025 às 17h13 - Atualizado em 22/05/2025 às 17h14",
+    "descricao": "Ações estão marcadas para esta sexta (23), no Auditório da Delegacia-Geral, localizado no Complexo da Polícia Civil do Distrito Federal",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/5125624047495917105-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/pcdf-devolve-430-celulares-a-proprietarios-e-lanca-servico-de-consulta-de-aparelhos?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "FCO aprova quase R$ 100 milhões em financiamentos para impulsionar economia",
+    "label": "22/05/2025 às 17h11 - Atualizado em 22/05/2025 às 17h11",
+    "descricao": "Investimentos abrangem agronegócio, inovação, turismo e serviços em diversas regiões da Ride-DF",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_7216-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/fco-aprova-quase-r-100-milhoes-em-financiamentos-para-impulsionar-economia?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Aberta consulta pública com as regras da 16ª Conferência Distrital de Assistência Social",
+    "label": "22/05/2025 às 17h10 - Atualizado em 22/05/2025 às 17h10",
+    "descricao": "O evento terá como tema '20 anos do Suas: construção, proteção social e resistência'",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/26_03_2025_11_40_44-jpg-1?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/aberta-consulta-publica-com-as-regras-da-16-conferencia-distrital-de-assistencia-social?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Ceilândia terá nova área de habitação de interesse social para cerca de 17 mil pessoas",
+    "label": "22/05/2025 às 17h09 - Atualizado em 22/05/2025 às 17h09",
+    "descricao": "Parcelamento aprovado pelo Conplan na QNR 6 também terá moradias reservadas para pessoas com deficiência",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/22-5-conplan-foto-divulgacao-seduh-df3-png?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/ceilandia-tera-nova-area-de-habitacao-de-interesse-social-para-cerca-de-17-mil-pessoas?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF institui o Dia do Farmacêutico no Calendário Oficial de Eventos",
+    "label": "22/05/2025 às 16h28 - Atualizado em 22/05/2025 às 16h29",
+    "descricao": "Data, que passa a ser celebrada em 5 de maio, busca valorizar o papel estratégico dos profissionais dessa área, além de abrir novas oportunidades para o turismo de negócios e científico no Distrito Federal",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/camara-tecnica-de-cuidado-farmaceutico-foto_jhonatan-cantarelle_agencia-saude-df-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-institui-o-dia-do-farmaceutico-no-calendario-oficial-de-eventos?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Queda na taxa de desocupação foi destaque na conjuntura econômica do DF no quarto trimestre de 2024",
+    "label": "22/05/2025 às 16h22 - Atualizado em 22/05/2025 às 16h22",
+    "descricao": "Taxa trimestral de desocupação foi de 14,6%, enquanto a de participação da população no mercado de trabalho chegou a 65,7%",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/carteira-de-trabalho-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/queda-na-taxa-de-desocupacao-foi-destaque-na-conjuntura-economica-do-df-no-quarto-trimestre-de-2024?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Comitivas africanas conhecem modelo de alimentação escolar da rede pública do DF",
     "label": "22/05/2025 às 16h12 - Atualizado em 22/05/2025 às 16h12",
     "descricao": "Experiência que integra agricultura familiar à merenda escolar ganha destaque internacional",
@@ -15,58 +64,9 @@
   },
   {
     "titulo": "GDF abre edital para assentamento de famílias rurais no Gama",
-    "label": "22/05/2025 às 16h01 - Atualizado em 22/05/2025 às 16h01",
+    "label": "22/05/2025 às 16h01 - Atualizado em 22/05/2025 às 16h24",
     "descricao": "O objetivo do documento é selecionar candidatos interessados em firmar contrato de concessão de uso em regime de estágio probatório, no âmbito do Programa de Assentamento de Trabalhadores Rurais (PRAT)",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-22-at-15-51-37-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-abre-edital-para-assentamento-de-familias-rurais-no-gama?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Participe das reuniões preparatórias da 6ª Conferência Distrital das Cidades",
-    "label": "22/05/2025 às 15h57 - Atualizado em 22/05/2025 às 15h57",
-    "descricao": "Eventos iniciarão em 31 de maio, no Gama, e terminarão em 5 de julho, no Plano Piloto",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/interna-png-2?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/participe-das-reunioes-preparatorias-da-6-conferencia-distrital-das-cidades?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF oficializa parceria com shopping para ampliar ações de prevenção à violência contra mulheres",
-    "label": "22/05/2025 às 15h55 - Atualizado em 22/05/2025 às 15h56",
-    "descricao": "Acordo publicado nesta quinta (22) prevê capacitação de funcionários e campanha de sensibilização",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/60a83340-2e85-4ce6-acca-fc2f452b0031-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-oficializa-parceria-com-shopping-para-ampliar-acoes-de-prevencao-a-violencia-contra-mulheres?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Webinar apresenta estruturas de saneamento que serão visitadas durante o 33º Congresso da Abes",
-    "label": "22/05/2025 às 15h20 - Atualizado em 22/05/2025 às 15h21",
-    "descricao": "A iniciativa antecipa os roteiros técnicos que serão realizados durante o encontro",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-22-at-14-54-13-1-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/webinar-apresenta-estruturas-de-saneamento-que-serao-visitadas-durante-o-33-congresso-da-abes?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Transporte Por Elas: Passe Livre leva esperança a mulheres vítimas de violência no Distrito Federal",
-    "label": "22/05/2025 às 14h54 - Atualizado em 22/05/2025 às 15h52",
-    "descricao": "Nova medida do GDF garante gratuidade no transporte público para mulheres com medida protetiva ou em situação de acolhimento; ação busca quebrar barreiras e facilitar acesso a proteção, saúde e acolhimento",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-22-at-14-26-17-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/transporte-por-elas-passe-livre-leva-esperanca-a-mulheres-vitimas-de-violencia-no-distrito-federal?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Desligamento de energia afetará Planaltina nesta sexta-feira (23)",
-    "label": "22/05/2025 às 14h53 - Atualizado em 22/05/2025 às 15h23",
-    "descricao": "A suspensão será feita por segurança devido à serviços de podas e manutenção da rede elétrica. Confira os horários e áreas impactadas",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/distribuicao-foto-neoenergia-15-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/desligamento-de-energia-afetara-planaltina-nesta-sexta-feira-23-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Profissionais de saúde são capacitados para manejo de crises convulsivas",
-    "label": "22/05/2025 às 14h41 - Atualizado em 22/05/2025 às 14h41",
-    "descricao": "Conteúdo, em treinamento promovido pelo IgesDF, abordou diferenciação entre crise convulsiva e epilepsia, manejo farmacológico e condutas de segurança",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-22-at-11-28-29-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/profissionais-de-saude-sao-capacitados-para-manejo-de-crises-convulsivas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Tecnologia a serviço do cidadão: GDF inaugura centro pioneiro de inteligência artificial",
-    "label": "22/05/2025 às 13h45 - Atualizado em 22/05/2025 às 13h56",
-    "descricao": "Áreas da saúde, educação e segurança serão precursoras no programa, que visa a promover a pesquisa, o desenvolvimento e aplicação de soluções tecnológicas baseadas em IA",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa_1-19-jpg-8?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/tecnologia-a-servico-do-cidadao-gdf-inaugura-centro-pioneiro-de-inteligencia-artificial?redirect=%2Fnoticias"
   }
 ]
