@@ -1,5 +1,40 @@
 [
   {
+    "titulo": "Mostra Cinema que Educa leva mais de 3 mil estudantes ao Cine Brasília",
+    "label": "22/05/2025 às 12h05 - Atualizado em 22/05/2025 às 12h05",
+    "descricao": "Iniciativa da Secretaria de Educação promove acesso à arte e à inclusão",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-mostra-de-cinema-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/mostra-cinema-que-educa-leva-mais-de-3-mil-estudantes-ao-cine-brasilia?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Mascote do Zoológico de Brasília celebra 2 anos de vida",
+    "label": "22/05/2025 às 12h01 - Atualizado em 22/05/2025 às 12h02",
+    "descricao": "Atena, a única sobrevivente de sua ninhada, é filha dos lobos-guará Zangado e Amanda",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-22-at-11-25-14-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/mascote-do-zoologico-de-brasilia-celebra-dois-anos-de-vida?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Abertas inscrições para trilha de aprendizagem inédita sobre integridade privada",
+    "label": "22/05/2025 às 11h36 - Atualizado em 22/05/2025 às 11h37",
+    "descricao": "Voltados a servidores, os cursos vão abordar a lei nº 14.133/21 sob a ótica de governança e ética",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/egov-ph-jpg-3?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/abertas-inscricoes-para-trilha-de-aprendizagem-inedita-sobre-integridade-privada?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Escolas da rede pública celebram a Semana do Brincar até esta sexta (23)",
+    "label": "22/05/2025 às 11h28 - Atualizado em 22/05/2025 às 11h29",
+    "descricao": "Gincanas e atividades lúdicas fazem parte da programação do Centro de Educação Infantil 210 de Samambaia",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto_capa_semana_do_brincar-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/escolas-da-rede-publica-celebram-a-semana-do-brincar-ate-esta-sexta-23-?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Inscrições para o programa Pontes para o Mundo são prorrogadas até o dia 29",
+    "label": "22/05/2025 às 11h26 - Atualizado em 22/05/2025 às 11h30",
+    "descricao": "Os alunos que desejam participar do intercâmbio promovido pela Secretaria de Educação podem efetuar as inscrições nas próprias escolas",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/pontes-para-o-mundo-foto-2-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/inscri%C3%A7%C3%B5es-para-o-programa-pontes-para-o-mundo-s%C3%A3o-prorrogadas-at%C3%A9-o-dia-29?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Abertas inscrições para cursos gratuitos de formação de gestores sociais e culturais do DF",
     "label": "22/05/2025 às 10h57 - Atualizado em 22/05/2025 às 10h57",
     "descricao": "Interessados em participar do Projeto Caravana Energia da Cultura, da Neoenergia, podem se inscrever até o próximo dia 29",
@@ -33,40 +68,5 @@
     "descricao": "Evento celebra o Dia do Técnico de Enfermagem com música, reconhecimento e reflexão sobre o protagonismo no cuidado humanizado",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/22-5-semana-da-enfermagem-hrsm-foto-alberto-ruy-igesdf2-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/hospital-de-santa-maria-abre-semana-da-enfermagem-com-homenagens-e-valorizacao-da-categoria?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Expoenf 2025 celebra a enfermagem do Hospital de Base com ações de cuidado e reconhecimento",
-    "label": "22/05/2025 às 08h26 - Atualizado em 22/05/2025 às 09h18",
-    "descricao": "Programação teve oficinas, atividades de bem-estar e homenagens",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/22-5-evento-no-igesdf-foto-alberto-ruy-igesdf4-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/expoenf-2025-celebra-a-enfermagem-do-hospital-de-base-com-acoes-de-cuidado-e-reconhecimento?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Evento 'Mestres Cervejeiros' movimenta o Paranoá com cerveja artesanal, gastronomia e música ao vivo",
-    "label": "22/05/2025 às 08h05 - Atualizado em 22/05/2025 às 08h05",
-    "descricao": "São aguardadas 4 mil pessoas ao longo de dois dias do encontro e no estacionamento da administração regional",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-20-at-16-52-35-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/evento-mestres-cervejeiros-movimenta-o-paranoa-com-cerveja-artesanal-gastronomia-e-musica-ao-vivo?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Público celebra Dia Mundial da Diversidade Cultural com shows gratuitos na Praça dos Três Poderes",
-    "label": "21/05/2025 às 22h10 - Atualizado em 22/05/2025 às 09h41",
-    "descricao": "Evento, organizado pelo GDF em parceria com o Supremo Tribunal Federal, contou com palestras e shows de artistas nacionais, como Ana Castela, Bell Marques e Diogo Nogueira",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-21-at-22-04-55-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/publico-celebra-dia-mundial-da-diversidade-cultural-com-shows-gratuitos-na-praca-dos-tres-poderes?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Maio Laranja: Sessão sobre exploração infantojuvenil no Cine Brasília é alterada",
-    "label": "21/05/2025 às 20h23 - Atualizado em 22/05/2025 às 08h31",
-    "descricao": "Evento promovido pela Sejus-DF, nesta quinta-feira (22), terá a apresentação do documentário ‘Apesar de’, de Beatriz Prates",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/cine_brasilia-1-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/maio-laranja-sess%C3%A3o-sobre-explora%C3%A7%C3%A3o-infantojuvenil-no-cine-bras%C3%ADlia-%C3%A9-alterada?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Iniciativa do Brasília Ambiental é finalista do prêmio HDI Expog Brasília",
-    "label": "21/05/2025 às 20h15 - Atualizado em 21/05/2025 às 20h16",
-    "descricao": "Autarquia está entre as três instituições mais geradoras de valor à sociedade por meio da tecnologia",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_0591-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/iniciativa-do-brasilia-ambiental-e-finalista-do-premio-hdi-expog-brasilia?redirect=%2Fnoticias"
   }
 ]
