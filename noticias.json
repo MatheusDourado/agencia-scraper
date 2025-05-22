@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "Acompanhe o lançamento do Centro Integrado de Inteligência Artificial",
+    "label": "22/05/2025 às 10h20 - Atualizado em 22/05/2025 às 10h21",
+    "descricao": "Iniciativa é fruto de parceria entre a Secretaria de Ciência, Tecnologia e Inovação e o Instituto Hardware Brasil",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/22-5-ao_vivo__lancamento-do-centro-integrado-de-inteligencia-artificial-ciia-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/acompanhe-o-lancamento-do-centro-integrado-de-inteligencia-artificial?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF apresenta programa de inserção no mercado de carbono durante AgroBrasília",
+    "label": "22/05/2025 às 09h58 - Atualizado em 22/05/2025 às 09h58",
+    "descricao": "Iniciativa da Emater-DF destaca papel do campo no enfrentamento das mudanças climáticas",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-21-at-13-29-04-1-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-apresenta-programa-de-insercao-no-mercado-de-carbono-durante-agrobrasilia?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Hospital de Santa Maria abre Semana da Enfermagem com homenagens e valorização da categoria",
     "label": "22/05/2025 às 09h23 - Atualizado em 22/05/2025 às 09h36",
     "descricao": "Evento celebra o Dia do Técnico de Enfermagem com música, reconhecimento e reflexão sobre o protagonismo no cuidado humanizado",
@@ -22,7 +36,7 @@
   },
   {
     "titulo": "Público celebra Dia Mundial da Diversidade Cultural com shows gratuitos na Praça dos Três Poderes",
-    "label": "21/05/2025 às 22h10 - Atualizado em 21/05/2025 às 22h21",
+    "label": "21/05/2025 às 22h10 - Atualizado em 22/05/2025 às 09h41",
     "descricao": "Evento, organizado pelo GDF em parceria com o Supremo Tribunal Federal, contou com palestras e shows de artistas nacionais, como Ana Castela, Bell Marques e Diogo Nogueira",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-21-at-22-04-55-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/publico-celebra-dia-mundial-da-diversidade-cultural-com-shows-gratuitos-na-praca-dos-tres-poderes?redirect=%2Fnoticias"
@@ -54,19 +68,5 @@
     "descricao": "Horário de funcionamento será das 19h30 às 6h, no Centro Integrado de Educação Física (Cief), na 907 Sul. No local, eles terão acesso a café da manhã e jantar, colchões e cobertores, casacos e poderão tomar banho quente",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-tony-oliveira-1-jpg-22?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/asa-sul-tera-abrigo-contra-o-frio-para-populacao-em-situacao-de-rua?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "1º Encontro Técnico fortalece rede de atenção a pessoas desaparecidas",
-    "label": "21/05/2025 às 18h58 - Atualizado em 21/05/2025 às 18h58",
-    "descricao": "Evento defende modelo de atendimento que valorize a escuta, o cuidado e a celeridade nas respostas",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-21-at-12-38-34-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/1-encontro-tecnico-fortalece-rede-de-atencao-a-pessoas-desaparecidas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Mais de 550 vagas de emprego estão abertas nas agências do trabalhador nesta quinta-feira (22)",
-    "label": "21/05/2025 às 18h50 - Atualizado em 21/05/2025 às 18h55",
-    "descricao": "Oportunidades contemplam candidatos de diferentes níveis de escolaridade, com e sem experiência; salários chegam a R$ 5 mil",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/ton_1510-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/mais-de-550-vagas-de-emprego-estao-abertas-nas-agencias-do-trabalhador-nesta-quinta-feira-22-?redirect=%2Fnoticias"
   }
 ]
