@@ -1,14 +1,63 @@
 [
   {
+    "titulo": "Avenida Central do Núcleo Bandeirante terá mais acessibilidade",
+    "label": "23/05/2025 às 16h14 - Atualizado em 23/05/2025 às 16h15",
+    "descricao": "Segunda etapa de projeto da Secretaria de Desenvolvimento Urbano e Habitação prevê calçadas amplas, rotas acessíveis e estacionamentos reorganizados",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54054811406_ba4504a6aa_k-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/avenida-central-do-nucleo-bandeirante-tera-mais-acessibilidade?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "CED 01 do Itapoã celebra 2º lugar nas Olimpíadas dos Colégios Cívico-Militares",
+    "label": "23/05/2025 às 15h53 - Atualizado em 23/05/2025 às 15h53",
+    "descricao": "Premiação será neste sábado (24), a partir das 8h, na própria escola",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54053348491_d1e2300ef7_k-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/ced-01-do-itapoa-celebra-2-lugar-nas-olimpiadas-dos-colegios-civico-militares?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Plano Piloto receberá 450 novas lixeiras",
+    "label": "23/05/2025 às 15h50 - Atualizado em 23/05/2025 às 15h50",
+    "descricao": "Do total, cerca de 200 papeleiras ficarão em paradas de ônibus; desde abril já foram colocados 445 novos equipamentos na região",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-23-at-15-17-13-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/plano-piloto-recebera-450-novas-lixeiras?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Moradores dos becos do Gama são convocados para entrega de documentação",
+    "label": "23/05/2025 às 15h49 - Atualizado em 23/05/2025 às 15h50",
+    "descricao": "Chamamento da Codhab contempla 68 pessoas, que devem apresentar documentos para regularizar a moradia",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-codhab-gama-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/moradores-dos-becos-do-gama-sao-convocados-para-entrega-de-documentacao?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Governo do DF institui temporada oficial da colheita de soja",
+    "label": "23/05/2025 às 15h29 - Atualizado em 23/05/2025 às 16h10",
+    "descricao": "Decreto assinado pelo governador Ibaneis Rocha define os meses oficiais para o recolhimento do grão; objetivo é valorizar os produtores responsáveis por mais de 320 toneladas na safra 2024/2025",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-soja-foto-renato-alves-agencia-brasilia2-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/governo-do-df-institui-temporada-oficial-da-colheita-de-soja?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Produtores do DF conhecem modelo de propriedade leiteira sustentável durante AgroBrasília 2025",
+    "label": "23/05/2025 às 15h28 - Atualizado em 23/05/2025 às 16h08",
+    "descricao": "Visita técnica promovida pela Emater-DF reforça o papel da assistência rural na valorização do queijo artesanal do Distrito Federal",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-rota-do-queijo-artesanal-foto-lucio-bernardo-jr-agencia-brasilia-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/produtores-do-df-conhecem-modelo-de-propriedade-leiteira-sustentavel-durante-agrobrasilia-2025?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF dá início à venda direta de imóveis rurais na AgroBrasília",
+    "label": "23/05/2025 às 15h26 - Atualizado em 23/05/2025 às 15h27",
+    "descricao": "Com a medida, mais de 200 famílias poderão tomar posse das terras que já cultivam",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-materia-etr-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-d%C3%A1-in%C3%ADcio-%C3%A0-venda-direta-de-im%C3%B3veis-rurais-na-agrobras%C3%ADlia?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "GDF anuncia ações de preservação das áreas verdes nas propriedades rurais e criação do Passaporte Equestre",
-    "label": "23/05/2025 às 15h25 - Atualizado em 23/05/2025 às 15h26",
+    "label": "23/05/2025 às 15h25 - Atualizado em 23/05/2025 às 16h09",
     "descricao": "Durante participação na AgroBrasília, o governador Ibaneis Rocha assinou acordos para reforçar a sustentabilidade ambiental e facilitar o controle e transporte de animais",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-cavalos-foto-tony-oliveira-agencia-brasilia-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-anuncia-acoes-de-preservacao-das-areas-verdes-nas-propriedades-rurais-e-criacao-do-passaporte-equestre?redirect=%2Fnoticias"
   },
   {
     "titulo": "Cartas de crédito impulsionam produção agrícola do DF com juros baixos",
-    "label": "23/05/2025 às 15h24 - Atualizado em 23/05/2025 às 15h24",
+    "label": "23/05/2025 às 15h24 - Atualizado em 23/05/2025 às 16h09",
     "descricao": "Nesta sexta-feira (23), governador Ibaneis Rocha entregou, durante a AgroBrasília, dois dos 30 primeiros repasses que serão feitos este ano",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-23-at-15-15-56-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/cartas-de-credito-impulsionam-producao-agricola-do-df-com-juros-baixos?redirect=%2Fnoticias"
@@ -19,54 +68,5 @@
     "descricao": "Abordagem está prevista para ocorrer neste sábado (24) e domingo (25) e vai passar por seis pontos",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-acao-de-acolhimento-foto-divulgacao-df-legal-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/a%C3%A7%C3%A3o-de-acolhimento-da-popula%C3%A7%C3%A3o-em-situa%C3%A7%C3%A3o-de-rua-retorna-ao-plano-piloto-neste-fim-de-semana?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Segunda audiência pública do PDTU é marcada para 28 de junho",
-    "label": "23/05/2025 às 14h35 - Atualizado em 23/05/2025 às 14h35",
-    "descricao": "Objetivo é apresentar o diagnóstico do transporte e mobilidade urbana do DF elaborado a partir das oficinas realizadas nas regiões administrativas",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/22-5-materia-semob-df-tunel-rei-pele-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/segunda-audiencia-publica-do-pdtu-e-marcada-para-28-de-junho?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Brasília Kart Series agita o final de semana com corridas, simuladores gratuitos e outras atrações",
-    "label": "23/05/2025 às 14h18 - Atualizado em 23/05/2025 às 14h20",
-    "descricao": "Evento no Guará é promovido com investimento de cerca de R$ 4,5 milhões deste GDF; treinos oficiais serão nesta sexta (23), e público geral poderá participar no sábado (24) e domingo (25)",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-divulgacao-jpg-13?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/brasilia-kart-series-agita-o-final-de-semana-com-corridas-simuladores-gratuitos-e-outras-atracoes?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Ação educativa ensina como transportar pets de forma segura",
-    "label": "23/05/2025 às 14h08 - Atualizado em 23/05/2025 às 14h08",
-    "descricao": "Atividade do Detran-DF integra o Maio Amarelo 2025 e será neste sábado (24), das 9h às 13h, em Águas Claras",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-23-at-13-23-43-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-educativa-ensina-como-transportar-pets-de-forma-segura?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Governador Ibaneis Rocha anuncia R$ 18,3 milhões para pavimentar trecho de 7,7 km da DF-285",
-    "label": "23/05/2025 às 13h40 - Atualizado em 23/05/2025 às 15h21",
-    "descricao": "Anúncio foi feito nesta sexta (23) durante visita à AgroBrasília; obra vai gerar 80 empregos e beneficiar cinco mil motoristas que circulam na região que faz divisa com Minas Gerais",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-23-at-15-18-59-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/governador-ibaneis-rocha-anuncia-r-183-milhoes-para-pavimentar-trecho-de-77-km-da-df-285?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Biblioteca Nacional de Brasília abre vagas para oficinas de redação para vestibular de público 60+",
-    "label": "23/05/2025 às 13h17 - Atualizado em 23/05/2025 às 13h18",
-    "descricao": "Projeto prevê 120 vagas com foco na prova da Universidade de Brasília (UnB); aulão está marcado para o dia 31 de maio",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/53774801295_da504a8b0c_k-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/biblioteca-nacional-de-brasilia-abre-vagas-para-oficinas-de-redacao-para-vestibular-de-publico-60-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Trânsito no domingo (25) terá alterações para passeio ciclístico, corridas e congresso de engenharia sanitária",
-    "label": "23/05/2025 às 12h53 - Atualizado em 23/05/2025 às 12h53",
-    "descricao": "Eventos acontecerão no Park Way, Gama, Parque da Cidade, Eixo Monumental e Esplanada dos Ministérios",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-paulo-tavares-agencia-brasilia-jpg-6?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/tr%C3%A2nsito-no-domingo-25-ter%C3%A1-altera%C3%A7%C3%B5es-para-passeio-cicl%C3%ADstico-corridas-e-congresso-de-engenharia-sanit%C3%A1ria?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Mulheres participam de oficina de mecânica básica durante o Maio Amarelo",
-    "label": "23/05/2025 às 12h12 - Atualizado em 23/05/2025 às 12h12",
-    "descricao": "Promovido pelo DER-DF, curso foi ministrado por agentes de trânsito e contou com a presença de 40 inscritas",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-curso-der-df3-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/mulheres-participam-de-oficina-de-mecanica-basica-durante-o-maio-amarelo?redirect=%2Fnoticias"
   }
 ]
