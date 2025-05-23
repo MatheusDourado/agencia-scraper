@@ -1,10 +1,52 @@
 [
   {
+    "titulo": "GDF anuncia ações de preservação das áreas verdes nas propriedades rurais e criação do Passaporte Equestre",
+    "label": "23/05/2025 às 15h25 - Atualizado em 23/05/2025 às 15h26",
+    "descricao": "Durante participação na AgroBrasília, o governador Ibaneis Rocha assinou acordos para reforçar a sustentabilidade ambiental e facilitar o controle e transporte de animais",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-cavalos-foto-tony-oliveira-agencia-brasilia-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-anuncia-acoes-de-preservacao-das-areas-verdes-nas-propriedades-rurais-e-criacao-do-passaporte-equestre?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Cartas de crédito impulsionam produção agrícola do DF com juros baixos",
+    "label": "23/05/2025 às 15h24 - Atualizado em 23/05/2025 às 15h24",
+    "descricao": "Nesta sexta-feira (23), governador Ibaneis Rocha entregou, durante a AgroBrasília, dois dos 30 primeiros repasses que serão feitos este ano",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-23-at-15-15-56-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/cartas-de-credito-impulsionam-producao-agricola-do-df-com-juros-baixos?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Ação de acolhimento da população em situação de rua retorna ao Plano Piloto neste fim de semana",
+    "label": "23/05/2025 às 15h11 - Atualizado em 23/05/2025 às 15h11",
+    "descricao": "Abordagem está prevista para ocorrer neste sábado (24) e domingo (25) e vai passar por seis pontos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-acao-de-acolhimento-foto-divulgacao-df-legal-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/a%C3%A7%C3%A3o-de-acolhimento-da-popula%C3%A7%C3%A3o-em-situa%C3%A7%C3%A3o-de-rua-retorna-ao-plano-piloto-neste-fim-de-semana?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Segunda audiência pública do PDTU é marcada para 28 de junho",
+    "label": "23/05/2025 às 14h35 - Atualizado em 23/05/2025 às 14h35",
+    "descricao": "Objetivo é apresentar o diagnóstico do transporte e mobilidade urbana do DF elaborado a partir das oficinas realizadas nas regiões administrativas",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/22-5-materia-semob-df-tunel-rei-pele-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/segunda-audiencia-publica-do-pdtu-e-marcada-para-28-de-junho?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Brasília Kart Series agita o final de semana com corridas, simuladores gratuitos e outras atrações",
+    "label": "23/05/2025 às 14h18 - Atualizado em 23/05/2025 às 14h20",
+    "descricao": "Evento no Guará é promovido com investimento de cerca de R$ 4,5 milhões deste GDF; treinos oficiais serão nesta sexta (23), e público geral poderá participar no sábado (24) e domingo (25)",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-divulgacao-jpg-13?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/brasilia-kart-series-agita-o-final-de-semana-com-corridas-simuladores-gratuitos-e-outras-atracoes?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Ação educativa ensina como transportar pets de forma segura",
     "label": "23/05/2025 às 14h08 - Atualizado em 23/05/2025 às 14h08",
     "descricao": "Atividade do Detran-DF integra o Maio Amarelo 2025 e será neste sábado (24), das 9h às 13h, em Águas Claras",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-23-at-13-23-43-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/acao-educativa-ensina-como-transportar-pets-de-forma-segura?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Governador Ibaneis Rocha anuncia R$ 18,3 milhões para pavimentar trecho de 7,7 km da DF-285",
+    "label": "23/05/2025 às 13h40 - Atualizado em 23/05/2025 às 15h21",
+    "descricao": "Anúncio foi feito nesta sexta (23) durante visita à AgroBrasília; obra vai gerar 80 empregos e beneficiar cinco mil motoristas que circulam na região que faz divisa com Minas Gerais",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-23-at-15-18-59-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/governador-ibaneis-rocha-anuncia-r-183-milhoes-para-pavimentar-trecho-de-77-km-da-df-285?redirect=%2Fnoticias"
   },
   {
     "titulo": "Biblioteca Nacional de Brasília abre vagas para oficinas de redação para vestibular de público 60+",
@@ -26,47 +68,5 @@
     "descricao": "Promovido pelo DER-DF, curso foi ministrado por agentes de trânsito e contou com a presença de 40 inscritas",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-curso-der-df3-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/mulheres-participam-de-oficina-de-mecanica-basica-durante-o-maio-amarelo?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Santa Maria ganha mais 530 luminárias de LED",
-    "label": "23/05/2025 às 10h04 - Atualizado em 23/05/2025 às 10h05",
-    "descricao": "Programa de modernização da iluminação da CEB Ipes leva mais eficiência e qualidade de vida à cidade",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-5-materia-ceb-ipes-foto-gilberto-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/santa-maria-ganha-mais-530-lumin%C3%A1rias-de-led?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Semana da Enfermagem do HRSM é encerrada com palestras sobre valorização profissional e autocuidado",
-    "label": "23/05/2025 às 09h53 - Atualizado em 23/05/2025 às 09h54",
-    "descricao": "Evento promove troca de experiências, reflexão sobre o bem-estar da categoria e fortalecimento da liderança na enfermagem",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-22-at-15-26-30-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/semana-da-enfermagem-do-hrsm-%C3%A9-encerrada-com-palestras-sobre-valoriza%C3%A7%C3%A3o-profissional-e-autocuidado?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "CBMDF apoia Polícia Militar em operação na Esplanada dos Ministérios",
-    "label": "23/05/2025 às 09h38 - Atualizado em 23/05/2025 às 10h02",
-    "descricao": "Homem fez duas filhas de reféns e carregava objeto semelhante a uma bomba, que foi deflagrado sem que ninguém ficasse ferido",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-22-at-23-43-16-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/cbmdf-apoia-policia-militar-em-operacao-na-esplanada-dos-ministerios?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Novacap oferece curso gratuito de qualificação profissional em jardinagem",
-    "label": "23/05/2025 às 09h13 - Atualizado em 23/05/2025 às 09h13",
-    "descricao": "Capacitação ocorre de 9 a 13 de junho, no Viveiro 1, e tem foco na empregabilidade de pessoas em situação de vulnerabilidade",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_20220527_113648-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/novacap-oferece-curso-gratuito-de-qualificacao-profissional-em-jardinagem?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Eventos alteram o trânsito neste fim de semana",
-    "label": "23/05/2025 às 08h22 - Atualizado em 23/05/2025 às 09h18",
-    "descricao": "Agentes do Detran-DF farão interdições em vias de Águas Claras, Plano Piloto e Gama",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/15-4-esplanada-dos-ministerios-foto-paulo-h-carvalho-agencia-brasilia-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/eventos-alteram-o-transito-neste-fim-de-semana-1?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "MMA nacional, campanha de leite materno, teatro e cinema acessível marcam a programação do fim de semana",
-    "label": "23/05/2025 às 07h54 - Atualizado em 23/05/2025 às 07h54",
-    "descricao": "Opções gratuitas e pagas estão espalhadas por várias regiões do DF, como Samambaia, Gama, Ceilândia, Vicente Pires e Plano Piloto",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/cia-barril-aborda-os-impactos-da-adolescencia-na-vida-adulta-em-eternos-foto-de-bella-montiel-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/mma-nacional-campanha-de-leite-materno-e-cinema-acessivel-marcam-a-programacao-do-fim-de-semana?redirect=%2Fnoticias"
   }
 ]
