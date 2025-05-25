@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "Viu um poste quebrado ou um local precisando de iluminação? Saiba como acionar a manutenção",
+    "label": "25/05/2025 às 16h02 - Atualizado em 25/05/2025 às 16h02",
+    "descricao": "População pode ajudar, indicando para a CEB IPes pontos que necessitam passar por reparos; só neste ano, a companhia já trocou mais de 10 mil lâmpadas e 3 mil luminárias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/manutencao-troca-de-postes-foto-arquivo-agencia-brasilia-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/viu-um-poste-quebrado-ou-um-local-precisando-de-iluminacao-saiba-como-acionar-a-manutencao?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Ação de acolhimento atende 50 pessoas em situação de rua nesta semana",
+    "label": "25/05/2025 às 15h12 - Atualizado em 25/05/2025 às 15h27",
+    "descricao": "Operação coordenada pelo GDF passou por 21 pontos em Plano Piloto, Taguatinga e Ceilândia, oferecendo orientação e acesso a programas de assistência social",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-25-at-15-15-48-1-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-de-acolhimento-atende-50-pessoas-em-situacao-de-rua-nesta-semana?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Desligamento de energia afetará o Paranoá na segunda-feira (26)",
     "label": "25/05/2025 às 15h01 - Atualizado em 25/05/2025 às 15h02",
     "descricao": "Suspensão será feita por segurança devido a serviços de modernização da rede elétrica. Confira os horários e as áreas impactadas",
@@ -8,7 +22,7 @@
   },
   {
     "titulo": "Fruticultura cresce no DF e aposta em tecnologias para aumentar produtividade",
-    "label": "25/05/2025 às 14h50 - Atualizado em 25/05/2025 às 14h51",
+    "label": "25/05/2025 às 14h50 - Atualizado em 25/05/2025 às 15h29",
     "descricao": "Uso de tecnologia, assistência técnica gratuita e clima favorável impulsionam a produção de frutas na capital federal, que se destaca nacionalmente na cultura do maracujá",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-10-jpg-43?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/fruticultura-cresce-no-df-e-aposta-em-tecnologias-para-aumentar-produtividade?redirect=%2Fnoticias"
@@ -54,19 +68,5 @@
     "descricao": "Equipe da Unidade de Cuidados Intermediários Neonatal recebe agradecimento emocionante de mãe cuja filha se recuperou no HRSM",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/hrsm-6-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/hospital-regional-de-santa-maria-celebra-profissionais-que-transformam-vidas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Biblioteca Braille em Taguatinga oferece aulas de forró para pessoas com deficiência visual",
-    "label": "25/05/2025 às 11h22 - Atualizado em 25/05/2025 às 12h29",
-    "descricao": "Projeto da Associação Brasiliense de Deficientes Visuais (ABDV) ocorre às segundas-feiras e ajuda no desenvolvimento físico e social dos participantes; a biblioteca pública é mantida pelo GDF",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-25-at-11-28-12-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/biblioteca-braille-em-taguatinga-oferece-aulas-de-forro-para-pessoas-com-deficiencia-visual?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Corrida Tiradentes 2025 reúne três mil participantes",
-    "label": "25/05/2025 às 10h28 - Atualizado em 25/05/2025 às 12h06",
-    "descricao": "O evento também arrecadou mais de 12 toneladas de alimentos em celebração à segurança e valorização das mulheres",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-25-at-11-39-54-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/corrida-tiradentes-2025-reune-tres-mil-participantes?redirect=%2Fnoticias"
   }
 ]
