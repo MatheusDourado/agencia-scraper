@@ -1,4 +1,3 @@
-// index.js
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
@@ -23,11 +22,9 @@ loadNoticias();
 
 app.get('/noticias', (_req, res) => {
 	if (!noticiasCache.length) {
-		return res
-			.status(503)
-			.json({
-				error: 'Dados indisponíveis. Tente novamente mais tarde.',
-			});
+		return res.status(503).json({
+			error: 'Dados indisponíveis. Tente novamente mais tarde.',
+		});
 	}
 	res.json(noticiasCache);
 });

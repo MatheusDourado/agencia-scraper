@@ -1,4 +1,3 @@
-// scripts/fetchNoticias.js
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
@@ -8,7 +7,16 @@ const BASE_URL = 'https://www.agenciabrasilia.df.gov.br';
 const URL = `${BASE_URL}/noticias`;
 
 async function fetchNoticias() {
-	const { data } = await axios.get(URL);
+	const headers = {
+		'User-Agent':
+			'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
+		Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+		'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+		Referer: BASE_URL,
+		Connection: 'keep-alive',
+	};
+
+	const { data } = await axios.get(URL, { headers });
 	const $ = cheerio.load(data);
 	const lista = [];
 
@@ -31,7 +39,7 @@ async function fetchNoticias() {
 			label,
 			descricao,
 			imagem: imgSrc || null,
-			link, // <--- novo campo
+			link,
 		});
 	});
 
@@ -46,7 +54,7 @@ async function fetchNoticias() {
 		console.log(`✅ Gerado noticias.json com ${noticias.length} itens`);
 		process.exit(0);
 	} catch (err) {
-		console.error('❌ Erro ao gerar noticias.json:', err);
+		console.error('❌ Erro ao gerar noticias.json:', err.message);
 		process.exit(1);
 	}
 })();
