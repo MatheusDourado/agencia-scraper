@@ -1,39 +1,44 @@
 # .github/workflows/generate-noticias.yml
 
 permissions:
-    contents: write
+  contents: write
 
 name: Generate noticias.json
 
 on:
-    schedule:
-        - cron: '0 * * * *' # roda a cada hora
-    workflow_dispatch: # permite trigger manual
+  schedule:
+    - cron: '0 * * * *' # roda a cada hora
+  workflow_dispatch:
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v3
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v3
-              with:
-                  node-version: '18'
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-            - name: Install dependencies
-              run: npm install
+      - name: Install dependencies
+        run: npm install
 
-            - name: Run scraper to generate JSON
-              run: npm run generate-json
+      - name: Install Puppeteer dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget ca-certificates fonts-liberation libappindicator3-1 libasound2 libatk-bridge2.0-0 libatk1.0-0 libcups2 libdbus-1-3 libgdk-pixbuf2.0-0 libnspr4 libnss3 libx11-xcb1 libxcomposite1 libxdamage1 libxrandr2 xdg-utils
 
-            - name: Commit and push noticias.json
-              uses: EndBug/add-and-commit@v9
-              with:
-                  author_name: github-actions
-                  author_email: actions@github.com
-                  message: 'chore: update noticias.json'
-                  add: 'noticias.json'
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run scraper to generate JSON
+        run: npm run generate-json
+
+      - name: Commit and push noticias.json
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: actions@github.com
+          message: 'chore: update noticias.json'
+          add: 'noticias.json'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
