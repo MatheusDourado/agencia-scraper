@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "Quer desconto na conta de luz? Aproveite a Semana do Meio Ambiente",
+    "label": "03/06/2025 às 08h52 - Atualizado em 03/06/2025 às 09h32",
+    "descricao": "Até a próxima sexta-feira (6), cada embalagem depositada nas máquinas do projeto Vale Luz valerá o triplo dos pontos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/3-6-semana-do-meio-ambiente-neoenergia2-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/quer-desconto-na-conta-de-luz-aproveite-a-semana-do-meio-ambiente?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Delegação da União das Comores conhece gestão de resíduos do Hospital de Base",
+    "label": "03/06/2025 às 08h20 - Atualizado em 03/06/2025 às 08h41",
+    "descricao": "Cooperação internacional busca fortalecer sistema de saúde pública no país africano com apoio de especialistas brasileiros",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/3-6-visita-missao-comores-foto-alberto-ruy-igesdf5-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/delega%C3%A7%C3%A3o-da-uni%C3%A3o-das-comores-conhece-gest%C3%A3o-de-res%C3%ADduos-do-hospital-de-base?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Com investimento em ciclovias e paraciclos, GDF reforça mobilidade sustentável no DF",
     "label": "03/06/2025 às 07h59 - Atualizado em 03/06/2025 às 07h59",
     "descricao": "Ações visam a estimular o uso de bicicletas como meio de transporte",
@@ -14,11 +28,11 @@
     "link": "https://www.agenciabrasilia.df.gov.br/w/agencias-do-trabalhador-tem-590-vagas-abertas-nesta-terca-feira-3-?redirect=%2Fnoticias"
   },
   {
-    "titulo": "Força-tarefa no Hran realiza mais de 300 exames de espirometria",
-    "label": "02/06/2025 às 18h28 - Atualizado em 02/06/2025 às 18h28",
+    "titulo": "Hran: mais de 300 exames de espirometria",
+    "label": "02/06/2025 às 18h28 - Atualizado em 03/06/2025 às 08h39",
     "descricao": "Ação contribui para monitoramento e diagnóstico precoce de doenças respiratórias crônicas",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-jhonatan-cantarelle_agencia-saude-df-3-jpg-2?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/forca-tarefa-no-hran-realiza-mais-de-300-exames-de-espirometria?redirect=%2Fnoticias"
+    "link": "https://www.agenciabrasilia.df.gov.br/w/hran-mais-de-300-exames-de-espirometria?redirect=%2Fnoticias"
   },
   {
     "titulo": "Mais de 150 mil pessoas receberam vacina contra a gripe na rede pública após ampliação da campanha",
@@ -54,19 +68,5 @@
     "descricao": "Promovido pela UnDF, evento marca a passagem do Dia Mundial do Meio Ambiente com palestras, minicursos, oficinas e concurso fotográfico",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/imagem-fachada-do-campus-norte-da-undf-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/inscricoes-abertas-para-o-seminario-sobre-meio-ambiente-e-sustentabilidade?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Áreas do Lago Norte ficam sem fornecimento de água nesta terça-feira (3) para serviços na rede",
-    "label": "02/06/2025 às 17h20 - Atualizado em 02/06/2025 às 17h20",
-    "descricao": "Desligamento programado vai das 8h30 às 23h59; confira os locais afetados",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_8934-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/%C3%A1reas-do-lago-norte-ficam-sem-fornecimento-de-%C3%A1gua-nesta-ter%C3%A7a-feira-3-para-servi%C3%A7os-na-rede?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Abertas inscrições para o quarto período do programa FAPDF Participa",
-    "label": "02/06/2025 às 17h18 - Atualizado em 02/06/2025 às 17h18",
-    "descricao": "Chamada pública apoia qualificação e inserção internacional de estudantes e pesquisadores em eventos, cursos e visitas técnicas; interessados devem se inscrever até quinta-feira (5)",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/fapdf3-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/abertas-inscricoes-para-o-quarto-periodo-do-programa-fapdf-participa-1?redirect=%2Fnoticias"
   }
 ]
