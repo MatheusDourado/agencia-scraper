@@ -1,5 +1,40 @@
 [
   {
+    "titulo": "Região de Saúde Norte lança caderno que reúne experiências bem-sucedidas",
+    "label": "06/06/2025 às 10h27 - Atualizado em 06/06/2025 às 10h28",
+    "descricao": "Compilado traz 15 práticas inovadoras na Atenção Primária que contribuíram significativamente para o bem-estar da população",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/6-6-atencao-primaria-foto-sandro-araujo-agencia-saude-3-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/regiao-de-saude-norte-lanca-caderno-que-reune-experiencias-bem-sucedidas?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Ação de acolhimento da população em situação de rua volta ao Plano Piloto neste fim de semana",
+    "label": "06/06/2025 às 10h22 - Atualizado em 06/06/2025 às 10h24",
+    "descricao": "Abordagens estão previstas para sábado (7) e domingo (8), com passagens por dez pontos da cidade",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54341310787_71731bfbf5_k-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-de-acolhimento-da-populacao-em-situacao-de-rua-volta-ao-plano-piloto-neste-fim-de-semana-1?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF contrata 30 leitos de UTI em hospital do Gama",
+    "label": "06/06/2025 às 10h06 - Atualizado em 06/06/2025 às 10h06",
+    "descricao": "Serviços vão reforçar assistência intensiva a pacientes da rede pública",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/53606035033_e459c8e34e_c-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-contrata-30-leitos-de-uti-em-hospital-do-gama?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Confira os horários de provas para o concurso da Caesb",
+    "label": "06/06/2025 às 09h57 - Atualizado em 06/06/2025 às 09h58",
+    "descricao": "Locais dos exames, que vão preencher 82 vagas e formar cadastro reserva, serão divulgados em 16 de junho",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/concurso-publico-caesb-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/confira-os-horarios-de-provas-para-o-concurso-da-caesb?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Equipe do HRSM transforma acolhimento com almofadas que facilitam a amamentação",
+    "label": "06/06/2025 às 09h54 - Atualizado em 06/06/2025 às 10h26",
+    "descricao": "Iniciativa humaniza o cuidado e fortalece incentivo ao aleitamento materno no hospital",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/6-6-amamentacao-foto-divulgacao-igesdf-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/equipe-do-hrsm-transforma-acolhimento-com-almofadas-que-facilitam-a-amamentacao?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Taguaparque tem reforço na estrutura para receber Festa de Pentecostes",
     "label": "06/06/2025 às 09h27 - Atualizado em 06/06/2025 às 09h27",
     "descricao": "Novacap reformou o asfalto e o estacionamento, além de promover outros serviços",
@@ -8,7 +43,7 @@
   },
   {
     "titulo": "Feira do Livro de Brasília 2025 recebe estudantes da rede pública na Semana do Meio Ambiente",
-    "label": "06/06/2025 às 09h20 - Atualizado em 06/06/2025 às 09h21",
+    "label": "06/06/2025 às 09h20 - Atualizado em 06/06/2025 às 09h50",
     "descricao": "Edição exalta a contribuição da leitura para a preservação ambiental, com destaque para o bioma do Cerrado",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-1-jpg-83?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/feira-do-livro-de-brasilia-2025-recebe-estudantes-da-rede-publica-na-semana-do-meio-ambiente?redirect=%2Fnoticias"
@@ -33,40 +68,5 @@
     "descricao": "Na atividade os alunos do Colégio Militar Tiradentes da PMDF refletiram sobre a preservação do Cerrado",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-05-at-17-45-00-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/estudantes-comemoram-dia-mundial-do-meio-ambiente-plantando-mudas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Encontro reúne mais de 100 participantes para debater tecnologia e inovação no Distrito Federal",
-    "label": "05/06/2025 às 18h28 - Atualizado em 05/06/2025 às 18h28",
-    "descricao": "IPT e Biotic realizaram o evento com foco na construção de parcerias estratégicas para o desenvolvimento tecnológico sustentável do país",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-05-at-18-22-24-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/encontro-reune-mais-de-100-participantes-para-debater-tecnologia-e-inovacao-no-distrito-federal?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Agências do trabalhador têm vagas com salários de até R$ 10,8 mil nesta sexta (6)",
-    "label": "05/06/2025 às 18h26 - Atualizado em 05/06/2025 às 18h26",
-    "descricao": "São 996 oportunidades para quem procura um emprego; postos contemplam candidatos de diferentes níveis de escolaridade, com e sem experiência",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-tony-oliveira-15-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/agencias-do-trabalhador-tem-vagas-com-salarios-de-ate-r-108-mil-nesta-sexta-6-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Com investimento de R$ 117 milhões, GDF assina contratos para construção de seis novas UPAs",
-    "label": "05/06/2025 às 18h03 - Atualizado em 05/06/2025 às 18h03",
-    "descricao": "Futuras unidades de urgência ficarão nas regiões de Sol Nascente/Pôr do Sol, Taguatinga Sul, Estrutural, Água Quente, Guará e Águas Claras; sétima construção prevista, em Arapoanga, terá o contrato assinado nos próximos dias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-05-at-16-45-41-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/com-investimento-de-r-117-milhoes-gdf-assina-contratos-para-construcao-de-seis-novas-upas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Programa QualificaDF Móvel oferece 1.012 vagas para diversos cursos de qualificação profissional",
-    "label": "05/06/2025 às 17h59 - Atualizado em 05/06/2025 às 17h59",
-    "descricao": "Inscrições entre 6 e 22 de junho. O início das atividades está previsto a partir de 1º de julho",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2023-09-11-at-3-10-51-pm-1-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/programa-qualificadf-movel-oferece-1.012-vagas-para-diversos-cursos-de-qualificacao-profissional?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Trânsito em Taguatinga terá alterações para a festa de Pentecostes",
-    "label": "05/06/2025 às 17h57 - Atualizado em 05/06/2025 às 17h57",
-    "descricao": "Detran-DF reforça presença nas vias para garantir segurança viária",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-05-at-17-45-42-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/transito-em-taguatinga-tera-alteracoes-para-a-festa-de-pentecostes?redirect=%2Fnoticias"
   }
 ]
