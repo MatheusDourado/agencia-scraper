@@ -1,5 +1,33 @@
 [
   {
+    "titulo": "Águas Claras regulamenta uso de espaços esportivos públicos",
+    "label": "10/06/2025 às 17h21 - Atualizado em 10/06/2025 às 17h22",
+    "descricao": "Com a publicação no DODF, os equipamentos públicos funcionarão diariamente das 7h às 22h",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/ac-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/aguas-claras-regulamenta-uso-de-espacos-esportivos-publicos?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Jovens de 15 a 19 anos têm até sábado (14) para se vacinar contra HPV",
+    "label": "10/06/2025 às 16h50 - Atualizado em 10/06/2025 às 16h50",
+    "descricao": "Após a data, imunização volta a ser exclusiva para quem tem de 9 a 14 anos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-jhonatan-cantarelle_agencia-saude-df-1-4-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/jovens-de-15-a-19-anos-tem-ate-sabado-14-para-se-vacinar-contra-hpv?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Após reforma do pavimento rígido, via do Buraco do Tatuí é liberada",
+    "label": "10/06/2025 às 16h30 - Atualizado em 10/06/2025 às 16h30",
+    "descricao": "As obras viárias na região fazem parte de um investimento de R$ 13,5 milhões para a manutenção urbana",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/10-6-buraco-do-tatui-foto-divulgacao-der-df-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/apos-reforma-do-pavimento-rigido-via-do-buraco-do-tatui-e-liberada?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Reunião, nesta quarta (11), orienta comunidade do Lago Norte sobre aparição de onças",
+    "label": "10/06/2025 às 16h22 - Atualizado em 10/06/2025 às 16h22",
+    "descricao": "Equipe técnica da área de fauna do Brasília Ambiental vai orientar as pessoas sobre como agir em caso de avistar o animal e ressaltar que a área se trata de corredor ecológico; instituto faz monitoramento na região",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/53455694825_02e2152cf0_k-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/reuniao-nesta-quarta-11-orienta-comunidade-do-lago-norte-sobre-aparicao-de-oncas?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Caesb alcança nota máxima de conformidade tributária",
     "label": "10/06/2025 às 16h14 - Atualizado em 10/06/2025 às 16h14",
     "descricao": "Programa Sintonia da Receita Federal estimula atendimento à legislação",
@@ -14,8 +42,15 @@
     "link": "https://www.agenciabrasilia.df.gov.br/w/banda-de-musica-da-pmdf-completa-159-anos?redirect=%2Fnoticias"
   },
   {
+    "titulo": "Emergencistas garantem atendimento rápido e preciso no Hospital de Base",
+    "label": "10/06/2025 às 16h10 - Atualizado em 10/06/2025 às 16h38",
+    "descricao": "Com protocolos clínicos consolidados, especialistas qualificam atendimento nas áreas mais críticas da rede pública",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp_image_2025-06-02_at_13-40-08-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/emergencistas-garantem-atendimento-rapido-e-preciso-no-hospital-de-base?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "GDF faz entregas domiciliares de carteirinhas para pessoas com deficiência",
-    "label": "10/06/2025 às 16h05 - Atualizado em 10/06/2025 às 16h05",
+    "label": "10/06/2025 às 16h05 - Atualizado em 10/06/2025 às 16h16",
     "descricao": "Mais de 600 documentos já foram entregues em seis regiões do DF a beneficiários que não fizeram a retirada na Carreta da Inclusão; ação reforça aproximação entre Estado e famílias",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/dentro-2-16-jpg-18?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-faz-entregas-domiciliares-de-carteirinhas-para-pessoas-com-deficiencia?redirect=%2Fnoticias"
@@ -33,40 +68,5 @@
     "descricao": "Iniciativa faz alusão ao Dia Mundial de Conscientização da Violência contra a Pessoa Idosa",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/10-6-cruzeiro-foto-paulo-h-carvalho-agencia-brasilia-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/cruzeiro-ter%C3%A1-caminhada-viva-melhor-na-sexta-feira-13-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF prepara ampliação da rede de águas pluviais em Ceilândia",
-    "label": "10/06/2025 às 15h01 - Atualizado em 10/06/2025 às 15h01",
-    "descricao": "Obra da Novacap ocorre no entorno do Hospital Anchieta e visa mitigar alagamentos nas imediações da QNN 28",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-joel-rodrigues-5-2-scaled-jpg-1?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-prepara-ampliacao-da-rede-de-aguas-pluviais-em-ceilandia?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Programa Escola para as Adolescências valoriza o protagonismo estudantil",
-    "label": "10/06/2025 às 14h54 - Atualizado em 10/06/2025 às 15h05",
-    "descricao": "Iniciativa está estruturada em cinco eixos estratégicos que orientam as ações de forma integrada, com foco nas necessidades específicas dos estudantes adolescentes",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/secretaria-de-educacao-institui-programa-escola-para-as-adolescencias-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/programa-escola-para-as-adolescencias-valoriza-o-protagonismo-estudantil?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Plano Piloto, Varjão e Itapoã recebem ações de limpeza e manutenção",
-    "label": "10/06/2025 às 14h27 - Atualizado em 10/06/2025 às 14h36",
-    "descricao": "Trabalhos das equipes do GDF Presente visam a combater focos de dengue, melhorar a infraestrutura e promover o bem-estar da população por meio do trabalho conjunto dos órgãos do governo",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/gdf-itapoa-gdf-presente-polo-leste-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/plano-piloto-varjao-e-itapoa-recebem-acoes-de-limpeza-e-manutencao?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Campanha de vacinação contra influenza para profissionais de saúde chega à UPA Ceilândia I e ao HSol",
-    "label": "10/06/2025 às 14h12 - Atualizado em 10/06/2025 às 14h30",
-    "descricao": "IgesDF amplia ação nesta terça-feira (10) após imunizar 3,5 mil colaboradores no Hospital de Base e em Santa Maria",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-10-at-13-48-19-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/campanha-de-vacinacao-contra-influenza-para-profissionais-de-saude-chega-a-upa-ceilandia-i-e-ao-hsol?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Últimos dias para usar os créditos do Cartão Material Escolar de 2025",
-    "label": "10/06/2025 às 13h57 - Atualizado em 10/06/2025 às 13h57",
-    "descricao": "Mais de R$ 3 milhões ainda estão disponíveis nos cartões dos beneficiários; prazo vai até domingo (15)",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-paulo-h-carvalho-5-jpg-11?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/ultimos-dias-para-usar-os-creditos-do-cartao-material-escolar-de-2025?redirect=%2Fnoticias"
   }
 ]
