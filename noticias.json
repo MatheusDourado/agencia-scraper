@@ -1,5 +1,33 @@
 [
   {
+    "titulo": "Centro Especializado oferece atendimento multidisciplinar contra obesidade infantil",
+    "label": "13/06/2025 às 09h29 - Atualizado em 13/06/2025 às 09h30",
+    "descricao": "Tratamento envolve mudança de hábitos, inclusive de toda a família; excesso de peso traz riscos reais a crianças e adolescentes",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_8968-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/centro-especializado-oferece-atendimento-multidisciplinar-contra-obesidade-infantil?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Batalhão de Operações Especiais tem passagem de comando",
+    "label": "13/06/2025 às 09h28 - Atualizado em 13/06/2025 às 09h28",
+    "descricao": "Em solenidade na Polícia Militar, tenente-coronel Zairo Junio assume o Bope",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/13-6-solenidade-pmdf-3-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/batalhao-de-operacoes-especiais-tem-passagem-de-comando?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Reunião reforça compromisso do IgesDF com diálogo e valorização dos profissionais",
+    "label": "13/06/2025 às 09h25 - Atualizado em 13/06/2025 às 09h26",
+    "descricao": "Presidente e vice-presidente do instituto ouvem demandas dos trabalhadores e agendam novo encontro para o fim deste mês",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/9874568-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/reuniao-reforca-compromisso-do-igesdf-com-dialogo-e-valorizacao-dos-profissionais?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Campanha do Agasalho Solidário já arrecadou 4 mil itens; saiba como são preparadas as doações para quem precisa",
+    "label": "13/06/2025 às 08h14 - Atualizado em 13/06/2025 às 08h51",
+    "descricao": "Idealizada pela primeira-dama Mayara Noronha Rocha, a ação entrega cobertores, casacos, luvas, meias e blusas de manga longa, cuja distribuição é organizada na Residência Oficial de Águas Claras (ROAC); população pode doar até 17 de julho",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-34-jpg-21?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/campanha-do-agasalho-solidario-ja-arrecadou-4-mil-itens-saiba-como-sao-preparadas-as-doacoes-para-quem-precisa?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Final de semana tem mostra de filmes da América Latina, Expotchê, Feira do Livro, Agitaê e muito mais",
     "label": "13/06/2025 às 08h00 - Atualizado em 13/06/2025 às 08h03",
     "descricao": "Programação brasiliense oferece opções para todos os gostos, incluindo apresentações circenses, oficinas sobre a cultura afro-brasileira e exposições sobre a ditadura militar e o folclore",
@@ -35,38 +63,10 @@
     "link": "https://www.agenciabrasilia.df.gov.br/w/hrt-promove-passeio-de-pacientes-oncol%C3%B3gicas-%C3%A0-beira-do-lago-parano%C3%A1?redirect=%2Fnoticias"
   },
   {
-    "titulo": "Campanha do Agasalho Solidário já arrecadou 4 mil itens; saiba como são preparadas as doações para quem precisa",
-    "label": "12/06/2025 às 18h45 - Atualizado em 13/06/2025 às 08h14",
-    "descricao": "Idealizada pela primeira-dama Mayara Noronha Rocha, a ação entrega cobertores, casacos, luvas, meias e blusas de manga longa, cuja distribuição é organizada na Residência Oficial de Águas Claras (ROAC); população pode doar até 17 de julho",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-34-jpg-21?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/campanha-do-agasalho-solidario-ja-arrecadou-4-mil-itens-saiba-como-sao-preparadas-as-doacoes-para-quem-precisa?redirect=%2Fnoticias"
-  },
-  {
     "titulo": "FAPDF apoia publicação científica e participação internacional em congresso sobre diversidade e políticas públicas",
     "label": "12/06/2025 às 18h34 - Atualizado em 12/06/2025 às 18h34",
     "descricao": "Estudo com fomento da Fundação propõe modelo de inclusão social para pessoas trans",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/captura-de-tela-2025-06-12-181758-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/fapdf-apoia-publicacao-cientifica-e-participacao-internacional-em-congresso-sobre-diversidade-e-politicas-publicas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Operação fiscaliza vans escolares em Sobradinho",
-    "label": "12/06/2025 às 17h36 - Atualizado em 12/06/2025 às 17h45",
-    "descricao": "Objetivo foi prezar pela segurança das crianças que usam o serviço na cidade",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-12-at-16-37-48-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/operacao-fiscaliza-vans-escolares-em-sobradinho?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Programa de Qualidade no Trabalho terá semana comemorativa de cinco anos",
-    "label": "12/06/2025 às 17h09 - Atualizado em 12/06/2025 às 18h34",
-    "descricao": "Programação inclui ações de saúde, práticas integrativas, palestras e reconhecimento de iniciativas que promovem ambientes profissionais mais saudáveis para servidores públicos do DF",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-12-at-14-48-14-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/programa-de-qualidade-no-trabalho-tera-semana-comemorativa-de-cinco-anos?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Junho Vermelho: Hemocentro alerta para estoques críticos e convoca doadores de sangue",
-    "label": "12/06/2025 às 16h56 - Atualizado em 12/06/2025 às 17h03",
-    "descricao": "Pessoas com tipos sanguíneos negativos recebem senha preferencial até o dia 30 deste mês sem necessidade de agendamento",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-33-jpg-24?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/junho-vermelho-hemocentro-alerta-para-estoques-criticos-e-convoca-doadores-de-sangue?redirect=%2Fnoticias"
   }
 ]
