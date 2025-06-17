@@ -1,5 +1,33 @@
 [
   {
+    "titulo": "Nova iluminação leva mais segurança ao viaduto e ao balão de acesso à Estrutural",
+    "label": "17/06/2025 às 14h11 - Atualizado em 17/06/2025 às 14h11",
+    "descricao": "Local recebeu cerca de 100 lâmpadas de LED, mais eficientes e sustentáveis; em todo o DF, já foram instaladas mais de 82 mil luminárias do tipo, com investimento de R$ 300 milhões",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-02-jro_6477-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/nova-iluminacao-leva-mais-seguranca-ao-viaduto-e-ao-balao-de-acesso-a-estrutural?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Região da Feira dos Importados passará por requalificação urbana para melhorar circulação de pedestres e motoristas",
+    "label": "17/06/2025 às 14h10 - Atualizado em 17/06/2025 às 14h10",
+    "descricao": "Área total da intervenção urbana é de aproximadamente 81,3 mil m² e beneficia, além dos feirantes, atacadistas e quem vai para a Ceasa",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-tony-oliveira-16-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/regiao-da-feira-dos-importados-passara-por-requalificacao-urbana-para-melhorar-circulacao-de-pedestres-e-motoristas?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Evento discute importância do autocuidado do paciente da doença falciforme",
+    "label": "17/06/2025 às 13h58 - Atualizado em 17/06/2025 às 13h59",
+    "descricao": "Encontro, nesta quarta (18), terá palestras sobre vacinação, adesão ao tratamento, atualizações nos protocolos clínicos e neurociência do comportamento",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-sandro-araujo-agencia-saude-df-jpg-7?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/evento-discute-importancia-do-autocuidado-do-paciente-da-doenca-falciforme?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF lança Primeiro Anuário de Segurança Pública do Distrito Federal",
+    "label": "17/06/2025 às 13h38 - Atualizado em 17/06/2025 às 13h38",
+    "descricao": "Publicação será divulgada nesta quarta (18) e visa consolidar dados e análises sobre a criminalidade e as ações institucionais dos últimos dez anos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-17-at-13-32-35-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-lanca-primeiro-anuario-de-seguranca-publica-do-distrito-federal?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Campanha sobre uso consciente da água aposta no humor e no samba",
     "label": "17/06/2025 às 12h57 - Atualizado em 17/06/2025 às 12h58",
     "descricao": "Iniciativa parte de situações cotidianas para incentivar reflexão sobre segurança hídrica",
@@ -7,11 +35,11 @@
     "link": "https://www.agenciabrasilia.df.gov.br/w/campanha-sobre-uso-consciente-da-agua-aposta-no-humor-e-no-samba?redirect=%2Fnoticias"
   },
   {
-    "titulo": "Paciente do Hospital de Base com afasia recebe visita de familiares e pet",
-    "label": "17/06/2025 às 12h02 - Atualizado em 17/06/2025 às 12h02",
+    "titulo": "Visita de familiares e cachorro a paciente reforça cuidado humanizado no Hospital de Base",
+    "label": "17/06/2025 às 12h02 - Atualizado em 17/06/2025 às 13h54",
     "descricao": "Encontro, promovido pelo IgesDF no jardim externo da unidade, reforça papel dos vínculos familiares na recuperação e importância de um atendimento humanizado",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp_image_2025-06-16_at_17-48-57-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/paciente-do-hospital-de-base-com-afasia-recebe-visita-de-familiares-e-pet?redirect=%2Fnoticias"
+    "link": "https://www.agenciabrasilia.df.gov.br/w/visita-de-familiares-e-cachorro-a-paciente-refor%C3%A7a-cuidado-humanizado-no-hospital-de-base?redirect=%2Fnoticias"
   },
   {
     "titulo": "Áreas de Planaltina, Arapoanga e São Sebastião ficarão sem energia nesta quarta (18) para manutenção da rede",
@@ -40,33 +68,5 @@
     "descricao": "Iniciativa do Conselho dos Direitos da Criança e do Adolescente cria o Núcleo de Empreendedorismo Girassol e abre novas oportunidades para os jovens das regiões",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-17-at-11-08-06-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/cursos-profissionalizantes-para-jovens-de-ceilandia-e-sol-nascente-recebem-investimento-de-mais-de-r-1-milhao?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF oferece bolsas de estudo em cursos de graduação para o 2º semestre",
-    "label": "17/06/2025 às 11h35 - Atualizado em 17/06/2025 às 11h35",
-    "descricao": "Inscrições vão até 30 de junho e são disponibilizadas 62 vagas; podem participar estudantes da rede pública e servidores e empregados públicos efetivos do Governo do Distrito Federal",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-17-at-10-59-22-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-oferece-bolsas-de-estudo-em-cursos-de-gradua%C3%A7%C3%A3o-para-o-2%C2%BA-semestre?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Brasília Design Week 2025 celebra o design como linguagem de futuro",
-    "label": "17/06/2025 às 10h47 - Atualizado em 17/06/2025 às 10h47",
-    "descricao": "Evento realizado com apoio do GDF valoriza talentos locais e propõe uma ocupação sensível e inovadora dos espaços urbanos",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/1000281196-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/brasilia-design-week-2025-celebra-o-design-como-linguagem-de-futuro?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Lançada licitação para instalação de guarda-corpo no Deck Sul",
-    "label": "17/06/2025 às 10h46 - Atualizado em 17/06/2025 às 10h46",
-    "descricao": "Intervenção reforça segurança na orla do Setor de Clubes Esportivos Sul",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-16-at-15-05-40-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/lancada-licitacao-para-instalacao-de-guarda-corpo-no-deck-sul?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Homem é preso por descumprimento de medida protetiva e tentativa de feminicídio no Arapoanga",
-    "label": "17/06/2025 às 10h34 - Atualizado em 17/06/2025 às 10h35",
-    "descricao": "Policiais militares realizaram buscas e localizaram o suspeito, que havia furtado uma bicicleta, e que foi detido sem apresentar resistência",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/feminicidio_geovana-albuquerqueagencia-brasilia-jpeg-1?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/homem-%C3%A9-preso-por-descumprimento-de-medida-protetiva-e-tentativa-de-feminic%C3%ADdio-no-arapoanga?redirect=%2Fnoticias"
   }
 ]
