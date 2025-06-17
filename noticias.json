@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Hospital de Santa Maria se destaca em saúde materno-infantil",
+    "label": "17/06/2025 às 19h51 - Atualizado em 17/06/2025 às 19h52",
+    "descricao": "Centro obstétrico é reconhecido por avanços na equipe médica e na experiência das pacientes",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-17-at-19-49-11-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/hospital-de-santa-maria-se-destaca-em-saude-materno-infantil?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Pesquisa aponta que 75% dos usuários aprovam qualidade dos restaurantes comunitários no DF",
+    "label": "17/06/2025 às 19h35 - Atualizado em 17/06/2025 às 19h35",
+    "descricao": "Levantamento realizado mensalmente avalia tanto o atendimento quanto a qualidade das refeições oferecidas nas unidades",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-17-at-15-26-57-1-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/pesquisa-aponta-que-75-dos-usuarios-aprovam-qualidade-dos-restaurantes-comunitarios-no-df?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Câmeras de segurança são instaladas nas UPAs do DF",
+    "label": "17/06/2025 às 19h33 - Atualizado em 17/06/2025 às 19h34",
+    "descricao": "Cinco unidades já estão equipadas e sistema de monitoramento começa a ser testado nesta semana",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-17-at-17-45-54-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/cameras-de-seguranca-sao-instaladas-nas-upas-do-df?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF convoca interessados em se qualificar como organização social",
+    "label": "17/06/2025 às 19h32 - Atualizado em 17/06/2025 às 19h33",
+    "descricao": "Chamamento público é destinado a entidades privadas sem fins lucrativas e vale para áreas de pesquisa, saúde e educação",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/53043530656_388fabb99d_c-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-convoca-interessados-em-se-qualificar-como-organizacao-social?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "BRB convoca 50 novos analistas de TI",
+    "label": "17/06/2025 às 19h30 - Atualizado em 17/06/2025 às 19h30",
+    "descricao": "Nomeados terão carga horária de 30 horas semanais e salário de R$ 10.678,42",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/brb-jpeg-2?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/brb-convoca-50-novos-analistas-de-ti?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Governador Ibaneis Rocha apresenta projeto arquitetônico do Museu da Bíblia, no Eixo Monumental",
+    "label": "17/06/2025 às 19h29 - Atualizado em 17/06/2025 às 19h30",
+    "descricao": "Monumento com área de 15 mil metros quadrados, entre o Cruzeiro e o Setor Militar Urbano (SMU), vai preservar a memória religiosa da capital e contará com salas de exposição, espaços contemplativos, anfiteatro e paisagismo temático",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/01-capa-6-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/governador-ibaneis-rocha-apresenta-projeto-arquitetonico-do-museu-da-biblia-no-eixo-monumental?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Conferência debate saúde do trabalhador e aponta caminhos para políticas públicas no DF",
     "label": "17/06/2025 às 19h07 - Atualizado em 17/06/2025 às 19h08",
     "descricao": "Evento aborda impactos de novas relações de trabalho, doenças ocupacionais e participação social na construção de um SUS mais inclusivo",
@@ -26,47 +68,5 @@
     "descricao": "Grupo de estudantes da Centúria Patriota conheceu de perto a rotina da oficial e reforçou os laços com a corporação",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-17-at-17-55-50-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/alunos-do-colegio-militar-tiradentes-visitam-comandante-geral-da-pmdf?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Com foco em inovação, Segurança Pública do DF participa do Summit Meeting 2025",
-    "label": "17/06/2025 às 17h57 - Atualizado em 17/06/2025 às 17h58",
-    "descricao": "Evento reúne especialistas nacionais e internacionais para discutir tecnologia, gestão e o papel da IA na transformação do setor público",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/2c4bc300-00b9-4b1a-95ac-9205f6d0f604-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/com-foco-em-inovacao-seguranca-publica-do-df-participa-do-summit-meeting-2025?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Parceria amplia atendimento a vítimas de violência doméstica no DF",
-    "label": "17/06/2025 às 17h52 - Atualizado em 17/06/2025 às 17h52",
-    "descricao": "Acordo firmado entre GDF e entidade Laço Branco Brasil vai atuar em quatro regiões administrativas com atendimentos jurídicos e psicológicos",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54382759325_b2e4b24a68_o-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/parceria-amplia-atendimento-a-vitimas-de-violencia-domestica-no-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF e sociedade civil reafirmam compromisso com o desenvolvimento sustentável em reunião com o Codese-DF",
-    "label": "17/06/2025 às 17h40 - Atualizado em 17/06/2025 às 17h43",
-    "descricao": "Mais de 200 metas no plano estratégico O DF que a Gente Quer em 2040 foram apresentadas durante o evento",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/1000283241-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/ef-gdf-e-sociedade-civil-reafirmam-compromisso-com-o-desenvolvimento-sustentavel-em-reuniao-com-o-codese-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Programa oferece mil vagas para castração gratuita de cães e gatos em Taguatinga",
-    "label": "17/06/2025 às 17h10 - Atualizado em 17/06/2025 às 17h11",
-    "descricao": "Castra-DF promove saúde pública, controle populacional e bem-estar animal",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-05-27-at-11-36-03-1-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/programa-oferece-mil-vagas-para-castracao-gratuita-de-caes-e-gatos-em-taguatinga?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Hospital Regional de Planaltina amplia número de exames de imagem",
-    "label": "17/06/2025 às 16h57 - Atualizado em 17/06/2025 às 16h57",
-    "descricao": "Entre janeiro e maio deste ano, foram mais de 23 mil - 8,5% a mais na comparação ao mesmo período de 2024; ambiente reformado e integração da equipe contribuem para aumento da produtividade e rapidez nos atendimentos",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/1000040489-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/hospital-regional-de-planaltina-amplia-numero-de-exames-de-imagem?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Cras Móvel leva programas sociais aos moradores do Núcleo Rural Jardim, no Paranoá",
-    "label": "17/06/2025 às 16h52 - Atualizado em 17/06/2025 às 17h39",
-    "descricao": "As equipes multidisciplinares atenderam cerca de 30 famílias da região rural nesta terça (17), facilitando o acesso da comunidade local a programas do governo",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-1-_1-1-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/cras-movel-leva-programas-sociais-aos-moradores-do-nucleo-rural-jardim-no-paranoa?redirect=%2Fnoticias"
   }
 ]
