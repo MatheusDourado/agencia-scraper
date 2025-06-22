@@ -1,10 +1,24 @@
 [
   {
+    "titulo": "Campus Party Brasil encerra edição em Brasília com foco em inovação, tecnologia e busca por novos talentos",
+    "label": "22/06/2025 às 13h54 - Atualizado em 22/06/2025 às 14h04",
+    "descricao": "Encontro reuniu mais de 150 mil visitantes, movimentando a economia local e consolidando o DF como novo polo de eventos desse setor",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-jro_7871_1-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/campus-party-brasil-encerra-edicao-em-brasilia-com-foco-em-inovacao-tecnologia-e-busca-por-novos-talentos?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Operação DF Livre de Carcaças já retirou mais de 5 mil veículos abandonados das ruas da capital",
     "label": "22/06/2025 às 13h09 - Atualizado em 22/06/2025 às 13h09",
     "descricao": "Somente em 2024, equipes recolheram 2,8 mil carros; ação é essencial na garantia da ordem pública e também integra o plano de enfrentamento aos focos do mosquito da dengue",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/20-6-df-fora-de-carcacas-foto-matheus-h-souza-agencia-brasilia-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/operacao-df-livre-de-carcacas-ja-retirou-mais-de-5-mil-veiculos-abandonados-das-ruas-da-capital?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Terapia comunitária integrativa oferece escuta ativa e acolhimento para mulheres da área rural",
+    "label": "22/06/2025 às 12h10 - Atualizado em 22/06/2025 às 13h59",
+    "descricao": "Projeto desenvolvido pela Emater-DF busca contribuir com a saúde mental da população rural; atendimentos ocorrem uma vez por mês em diversas comunidades",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-1-4-jpg-13?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/efds-terapia-comunitaria-integrativa-oferece-escuta-ativa-e-acolhimento-para-mulheres-da-area-rural?redirect=%2Fnoticias"
   },
   {
     "titulo": "Aproveite a programação cultural deste domingo",
@@ -54,19 +68,5 @@
     "descricao": "Com a presença de especialistas internacionais e do Brasil, encontro tem como foco o marco regulatório da inteligência artificial",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-6-fapdf-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/debate-sobre-regula%C3%A7%C3%A3o-da-ia-movimenta-a-campus-party?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Parque da Cidade recebe ação de descarte consciente de eletrônicos",
-    "label": "21/06/2025 às 11h12 - Atualizado em 21/06/2025 às 12h19",
-    "descricao": "Atividade tomou conta do Estacionamento 13, contando com a participação do público e de autoridades locais",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-6-acao-no-parque-foto-paulo-h-carvalho-agencia-brasilia-capa-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/parque-da-cidade-recebe-acao-de-descarte-consciente-de-eletronicos?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "RenovaDF reforma 69 equipamentos públicos em Ceilândia",
-    "label": "21/06/2025 às 10h57 - Atualizado em 21/06/2025 às 11h11",
-    "descricao": "Turmas do programa de qualificação profissional do GDF atuaram na reforma de praças, parques infantis, quadras de esporte e mais",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-20-at-15-57-40-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/renovadf-reforma-69-equipamentos-publicos-em-ceilandia?redirect=%2Fnoticias"
   }
 ]
