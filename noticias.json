@@ -1,10 +1,24 @@
 [
   {
-    "titulo": "Biblioteca Nacional de Brasília abre, nesta segunda (23), inscrições para cursos gratuitos de inglês",
-    "label": "22/06/2025 às 14h38 - Atualizado em 22/06/2025 às 14h42",
+    "titulo": "Agências do trabalhador começam a semana com 698 vagas de emprego disponíveis",
+    "label": "22/06/2025 às 16h09 - Atualizado em 22/06/2025 às 16h09",
+    "descricao": "Interessados devem cadastrar o currículo por aplicativo ou presencialmente, em uma das agências do trabalhador",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-tony-oliveira-20-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/agencias-do-trabalhador-comecam-a-semana-com-698-vagas-de-emprego-disponiveis?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Cinema brasiliense ganha força com a Lei Paulo Gustavo e valoriza cultura popular",
+    "label": "22/06/2025 às 15h52 - Atualizado em 22/06/2025 às 15h52",
+    "descricao": "Com R$ 33,4 milhões destinados ao setor em 2023, o GDF viabiliza 120 projetos; ‘A Maldição do Mamulengo’ é um dos destaques",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/a-maldicao-do-mamulengo-foto-divulgacao-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/efds-cinema-brasiliense-ganha-forca-com-a-lei-paulo-gustavo-e-valoriza-cultura-popular?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Biblioteca Nacional de Brasília abre inscrições para cursos gratuitos de inglês",
+    "label": "22/06/2025 às 14h38 - Atualizado em 22/06/2025 às 16h13",
     "descricao": "Ao todo, são 90 vagas distribuídas entre gramática básica, conversação e inglês instrumental",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/lucio-bernardo-jr-agencia-brasilia-jpg-9?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/biblioteca-nacional-de-bras%C3%ADlia-abre-nesta-segunda-23-inscri%C3%A7%C3%B5es-para-cursos-gratuitos-de-ingl%C3%AAs?redirect=%2Fnoticias"
+    "link": "https://www.agenciabrasilia.df.gov.br/w/biblioteca-nacional-de-bras%C3%ADlia-abre-inscri%C3%A7%C3%B5es-para-cursos-gratuitos-de-ingl%C3%AAs?redirect=%2Fnoticias"
   },
   {
     "titulo": "Campus Party Brasil encerra edição em Brasília com foco em inovação, tecnologia e busca por novos talentos",
@@ -22,7 +36,7 @@
   },
   {
     "titulo": "Terapia comunitária integrativa oferece escuta ativa e acolhimento para mulheres da área rural",
-    "label": "22/06/2025 às 12h10 - Atualizado em 22/06/2025 às 13h59",
+    "label": "22/06/2025 às 12h10 - Atualizado em 22/06/2025 às 15h34",
     "descricao": "Projeto desenvolvido pela Emater-DF busca contribuir com a saúde mental da população rural; atendimentos ocorrem uma vez por mês em diversas comunidades",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-1-4-jpg-13?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/efds-terapia-comunitaria-integrativa-oferece-escuta-ativa-e-acolhimento-para-mulheres-da-area-rural?redirect=%2Fnoticias"
@@ -35,11 +49,11 @@
     "link": "https://www.agenciabrasilia.df.gov.br/w/aproveite-a-programacao-cultural-deste-domingo?redirect=%2Fnoticias"
   },
   {
-    "titulo": "Produção de pescado bate recordes no Distrito Federal",
-    "label": "21/06/2025 às 18h01 - Atualizado em 21/06/2025 às 21h00",
+    "titulo": "Produção de pescado bate recordes no DF",
+    "label": "21/06/2025 às 18h01 - Atualizado em 22/06/2025 às 16h14",
     "descricao": "No último ano, o Quadradinho produziu mais de 2 milhões de quilos de diferentes espécies, contando com o apoio de políticas públicas do GDF",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-18-at-17-00-27-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/producao-de-pescado-bate-recordes-no-distrito-federal?redirect=%2Fnoticias"
+    "link": "https://www.agenciabrasilia.df.gov.br/w/produ%C3%A7%C3%A3o-de-pescado-bate-recordes-no-df?redirect=%2Fnoticias"
   },
   {
     "titulo": "Mais de 105 km de canais criados desde 2019 garantem trabalho de pequenos produtores do DF durante a seca",
@@ -54,19 +68,5 @@
     "descricao": "Consultas regulares com especialistas ajudam a identificar doenças silenciosas e evitam complicações futuras",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-18-at-17-19-12-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/saude-dos-olhos-comeca-com-a-prevencao?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Amanda e Rafinha conquistam título feminino do Brasília Open de Futevôlei",
-    "label": "21/06/2025 às 14h27 - Atualizado em 21/06/2025 às 14h36",
-    "descricao": "Final foi disputada neste sábado (21), na Arena BRB; competição segue no domingo com as partidas da categoria masculina",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-6-futevolei-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/amanda-e-rafinha-conquistam-titulo-feminino-do-brasilia-open-de-futevolei?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Título feminino do Brasília Open de Futevôlei será definido neste sábado na Arena BRB",
-    "label": "21/06/2025 às 13h22 - Atualizado em 21/06/2025 às 13h33",
-    "descricao": "Entrada é gratuita para o público, e jogo terá transmissão ao vivo",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/21-6-esporte-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/titulo-feminino-do-brasilia-open-de-futevolei-sera-definido-neste-sabado-na-arena-brb?redirect=%2Fnoticias"
   }
 ]
