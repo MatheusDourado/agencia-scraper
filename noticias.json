@@ -1,5 +1,40 @@
 [
   {
+    "titulo": "Vacina contra a gripe: conheça os mitos e verdades",
+    "label": "24/06/2025 às 17h01 - Atualizado em 24/06/2025 às 17h02",
+    "descricao": "Secretaria de Saúde chama atenção para importância das vacinas como forma de redução da mortalidade e proteção coletiva",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/gripe-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/vacina-contra-a-gripe-conhe%C3%A7a-os-mitos-e-verdades?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Circula Cultura leva arte e diversão a São Sebastião",
+    "label": "24/06/2025 às 16h49 - Atualizado em 24/06/2025 às 16h50",
+    "descricao": "Serão três dias de atividades culturais, com apresentações musicais, feira de empreendedores e vivências artísticas para todas as idades",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/23-6-sao-sebastiao-foto-arquivo-agencia-brasilia3-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/circula-cultura-leva-arte-e-diversao-a-sao-sebastiao?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Mais de 240 novos candidatos estão habilitados para programa habitacional",
+    "label": "24/06/2025 às 16h46 - Atualizado em 24/06/2025 às 16h47",
+    "descricao": "Após cumprirem os requisitos necessários, exigidos pela legislação, esses moradores agora serão indicados a empreendimentos habitacionais em andamento",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54571270230_2fd5a978a0_o-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/mais-de-240-novos-candidatos-est%C3%A3o-habilitados-para-programa-habitacional?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Casamento Comunitário reúne 100 casais neste domingo na Concha Acústica em clima de festa junina",
+    "label": "24/06/2025 às 16h45 - Atualizado em 24/06/2025 às 16h46",
+    "descricao": "Iniciativa promovida pela Secretaria de Justiça e Cidadania deve reunir mais de 3 mil pessoas, entre noivos, convidados e autoridades, em um dos espaços mais icônicos da capital, com direito a atrações e pratos típicos das celebrações desta época do ano",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-24-at-15-54-46-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/casamento-comunitario-reune-100-casais-neste-domingo-na-concha-acustica-em-clima-de-festa-junina?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Pacientes do Hran celebram Dia da Conscientização sobre Fissura Labiopalatina",
+    "label": "24/06/2025 às 16h40 - Atualizado em 24/06/2025 às 16h45",
+    "descricao": "Hospital é referência no Centro-Oeste e tem mais de mil pessoas cadastradas no serviço especializado",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/este-ano-a-violinista-juliana-verde-concluiu-a-ultima-etapa-de-seu-tratamento-no-hran-com-a-reconstrucao-nasal-e-labial-foto-sandro-araujo-agencia-saude-df-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/pacientes-do-hran-celebram-dia-da-conscientizacao-sobre-fissura-labiopalatina?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Projeto Artesanato de BSB inaugura loja em shopping de Taguatinga",
     "label": "24/06/2025 às 15h03 - Atualizado em 24/06/2025 às 15h03",
     "descricao": "Inauguração do espaço, maior que o anterior, será nesta quarta (25), com trabalhos de 30 artesãos e manualistas selecionados pela curadoria da Secretaria de Turismo do DF",
@@ -33,40 +68,5 @@
     "descricao": "Instrução Normativa que atualiza fluxo do processo de licenciamento e autorização ambiental foi publicada no DODF desta terça-feira (24)",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-24-at-12-17-19-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/licenciamento-e-autorizacao-ambiental-passam-a-ser-pedidos-pelo-sistema-harpia?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "DF aplica mais de 594 mil doses contra gripe, mas índice é baixo entre grávidas",
-    "label": "24/06/2025 às 12h52 - Atualizado em 24/06/2025 às 13h03",
-    "descricao": "Vacina pode ser administrada em qualquer idade gestacional e até 45 dias após o parto; imunização está disponível em 164 salas de vacina nas unidades básicas de saúde (UBSs)",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2024-12-13-at-16-18-17-jpeg-1?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/df-aplica-mais-de-594-mil-doses-contra-gripe-mas-indice-e-baixo-entre-gravidas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Interrupção de energia impacta regiões do Paranoá e do Gama nesta quarta-feira (25)",
-    "label": "24/06/2025 às 12h38 - Atualizado em 24/06/2025 às 12h39",
-    "descricao": "Suspensão do serviço ocorre das 9h às 15h, para segurança das equipes e dos moradores",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-divulgacao-neoenergia-1-jpeg-4?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/interrupcao-de-energia-impacta-regioes-do-paranoa-e-do-gama-nesta-quarta-feira-25-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Plataforma digital para vagas de estágio na DPDF registra mais de mil currículos em menos de uma semana",
-    "label": "24/06/2025 às 11h29 - Atualizado em 24/06/2025 às 11h29",
-    "descricao": "Banco de Talentos da Easjur/DPDF foi lançado com o objetivo de reunir e organizar, em ambiente único e institucional, estudantes interessados em concorrer às 797 oportunidades de estágio oferecidas pela instituição",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/defensoria-foto-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/plataforma-digital-para-vagas-de-est%C3%A1gio-na-dpdf-registra-mais-de-mil-curr%C3%ADculos-em-menos-de-uma-semana?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Distrito Junino 2025 tem lançamento oficial nesta quarta-feira (25), na Sala Martins Pena",
-    "label": "24/06/2025 às 11h27 - Atualizado em 24/06/2025 às 11h27",
-    "descricao": "Investimento de R$ 10 milhões é o maior da história do DF na área; apresentações artísticas das ligas juninas vão ocorrer em julho e agosto",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/festa_junina1-1-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/distrito-junino-2025-tem-lancamento-oficial-nesta-quarta-feira-25-na-sala-martins-pena?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Fundos previdenciários do DF sobem acima da meta em maio",
-    "label": "24/06/2025 às 10h57 - Atualizado em 24/06/2025 às 10h57",
-    "descricao": "Bons resultados elevam a carteira de investimentos sob gestão do Iprev-DF para R$ 7,7 bilhões",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/iprev-atendimento1-2-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/fundos-previdenciarios-do-df-sobem-acima-da-meta-em-maio?redirect=%2Fnoticias"
   }
 ]
