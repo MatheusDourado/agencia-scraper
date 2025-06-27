@@ -1,7 +1,28 @@
 [
   {
+    "titulo": "Projeto incentiva qualificação de adolescentes em situação de vulnerabilidade em Sobradinho",
+    "label": "27/06/2025 às 13h15 - Atualizado em 27/06/2025 às 13h16",
+    "descricao": "Parceria entre a Sejus e o Instituto Epuranios viabiliza o Empoder@ Galer@, com foco em formação e inserção no mercado de trabalho",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-27-at-12-33-00-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/projeto-incentiva-qualificacao-de-adolescentes-em-situacao-de-vulnerabilidade-em-sobradinho?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "No Dia do Esporte Eletrônico no DF, Jogos da Juventude celebram a chegada dos e-sports ao programa",
+    "label": "27/06/2025 às 13h12 - Atualizado em 27/06/2025 às 13h12",
+    "descricao": "Remo virtual estreia na competição na edição que será realizada em agosto na capital federal",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/27-6-materia-sel-df-foto-leo-barrilari-cob-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/no-dia-do-esporte-eletronico-no-df-jogos-da-juventude-celebram-a-chegada-dos-e-sports-ao-programa-1?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Festival do Japão em Brasília celebra 13 anos e fortalece o turismo cultural",
+    "label": "27/06/2025 às 12h23 - Atualizado em 27/06/2025 às 12h25",
+    "descricao": "Dessa sexta (27) a domingo (29), o evento promove a integração cultural entre os dois países, valoriza o artesanato e atrai visitantes nacionais e internacionais",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/pastedimage-3-png?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/festival-do-jap%C3%A3o-em-bras%C3%ADlia-celebra-13-anos-e-fortalece-o-turismo-cultural?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Abertas inscrições para o projeto Jornada da Mulher Trabalhadora",
-    "label": "27/06/2025 às 12h20 - Atualizado em 27/06/2025 às 12h20",
+    "label": "27/06/2025 às 12h20 - Atualizado em 27/06/2025 às 12h32",
     "descricao": "Projeto oferece 420 vagas para cursos de trancista, extensão de cílios e alongamento de unhas no Riacho Fundo II e em Sobradinho II",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-01-21-at-17-49-16-2-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/abertas-inscricoes-para-o-projeto-jornada-da-mulher-trabalhadora?redirect=%2Fnoticias"
@@ -47,26 +68,5 @@
     "descricao": "Documento também traz retificação de edital anterior",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/14-10-policia-civil-foto-vinicius-de-melo-agencia-brasilia-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/publicado-resultado-final-do-concurso-para-cargos-administrativos-da-policia-civil?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Evento ‘Histórias que Acolhem’ homenageia 136 protagonistas na luta contra as drogas no DF",
-    "label": "27/06/2025 às 10h51 - Atualizado em 27/06/2025 às 10h57",
-    "descricao": "No Dia Internacional de Combate às Drogas, a Secretaria de Justiça e Cidadania celebrou histórias de superação e reconheceu instituições, profissionais e empresários que atuam com acolhimento, prevenção e reinserção social",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-27-at-10-26-00-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/evento-historias-que-acolhem-homenageia-136-protagonistas-na-luta-contra-as-drogas-no-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Com mais de 6,7 mil novas luminárias de LED, Taguatinga ultrapassa 73% de cobertura modernizada",
-    "label": "27/06/2025 às 10h49 - Atualizado em 27/06/2025 às 10h50",
-    "descricao": "Tecnologia traz mais eficiência energética, reforça a segurança e melhora a qualidade da iluminação nas vias públicas",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/image001-3-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/com-mais-de-67-mil-novas-luminarias-de-led-taguatinga-ultrapassa-73-de-cobertura-modernizada?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Imóveis com entrada a partir de R$ 13 mil estão no novo edital da Terracap",
-    "label": "27/06/2025 às 10h31 - Atualizado em 27/06/2025 às 10h31",
-    "descricao": "Um dos destaques é o residencial Aldeias do Cerrado, no Jardim Botânico",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/27-6-aldeias-do-cerrado_dany-terracap-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/imoveis-com-entrada-a-partir-de-r-13-mil-estao-no-novo-edital-da-terracap?redirect=%2Fnoticias"
   }
 ]
