@@ -1,10 +1,52 @@
 [
   {
+    "titulo": "GDF investiu mais de R$ 6 milhões para reformar moradias de famílias em situação de vulnerabilidade",
+    "label": "30/06/2025 às 14h12 - Atualizado em 30/06/2025 às 14h13",
+    "descricao": "Mais cinco famílias no Setor Oeste da Estrutural foram beneficiadas com o programa Melhorias Habitacionais, que já reformou mais de 200 moradias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/programa-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-investiu-mais-de-r-6-milhoes-para-reformar-moradias-de-familias-em-situacao-de-vulnerabilidade?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Aberto processo seletivo para vagas remanescentes da preceptoria dos programas de residência médica",
+    "label": "30/06/2025 às 14h01 - Atualizado em 30/06/2025 às 14h01",
+    "descricao": "Período de inscrição será de 7 a 18 de julho",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_0194-1920x1280-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/aberto-processo-seletivo-para-vagas-remanescentes-da-preceptoria-dos-programas-de-residencia-medica?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Zoológico de Brasília recebe mais de 7 mil votos em 24h para escolher nomes de dragões-barbudos",
+    "label": "30/06/2025 às 14h00 - Atualizado em 30/06/2025 às 14h00",
+    "descricao": "Os escolhidos foram Draco e Dragolino, agora oficialmente os nomes dos répteis do Zoo",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-30-at-12-40-50-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/zoologico-de-brasilia-recebe-mais-de-7-mil-votos-em-24h-para-escolher-nomes-de-dragoes-barbudos?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Vai sair de férias? Ambulatório do Viajante orienta sobre cuidados em viagens internacionais e nacionais",
+    "label": "30/06/2025 às 13h33 - Atualizado em 30/06/2025 às 13h33",
+    "descricao": "Serviço gratuito funciona sob agendamento. Objetivo é garantir período tranquilo e seguro à população, evitando transmissão de doenças",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/cantarelle-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/vai-sair-de-ferias-ambulatorio-do-viajante-orienta-sobre-cuidados-em-viagens-internacionais-e-nacionais?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Protagonismo feminino no campo é destaque na IV Feira do Produtor Rural",
+    "label": "30/06/2025 às 13h32 - Atualizado em 30/06/2025 às 13h32",
+    "descricao": "Evento reúne minicursos, palestras, mesas redondas, exposição de produtos agropecuários do DF e Ride, em 3 e 4 de julho, na Fazenda Água Limpa, com atividades gratuitas e abertas ao público",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/30-6-feira-agropecuaria-foto-vinicius-de-melo-smdf4-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/protagonismo-feminino-no-campo-e-destaque-na-iv-feira-do-produtor-rural?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Ações educativas de trânsito no DF chegam a mais de 2 mil de pessoas neste fim de semana",
     "label": "30/06/2025 às 13h14 - Atualizado em 30/06/2025 às 13h21",
     "descricao": "Detran-DF esteve presente no Na Praia Festival, no 32º Aniversário de São Sebastião, em bares de Planaltina e em diversos outros eventos",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/detran1-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/acoes-educativas-de-transito-no-df-chegam-a-mais-de-2-mil-de-pessoas-neste-fim-de-semana?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Qualificação fortalece atuação de 50 imigrantes empreendedores no setor de alimentos",
+    "label": "30/06/2025 às 11h49 - Atualizado em 30/06/2025 às 13h29",
+    "descricao": "Parceria da Secretaria de Justiça e Cidadania com empresa do setor de alimentos e organização da sociedade civil promove inclusão e qualificação profissional de imigrantes no DFl",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/30-6-migrantes-foto-jhonatan-vieira-sejus-df-grupo-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/qualifica%C3%A7%C3%A3o-fortalece-atua%C3%A7%C3%A3o-de-50-imigrantes-empreendedores-no-setor-de-alimentos?redirect=%2Fnoticias"
   },
   {
     "titulo": "IPEDF seleciona pesquisadores para estudo inédito sobre religiões afro-brasileiras no DF",
@@ -15,58 +57,16 @@
   },
   {
     "titulo": "Governo reajusta em até 60% valores dos repasses para custear alunos do berçário nas creches do DF",
-    "label": "30/06/2025 às 11h19 - Atualizado em 30/06/2025 às 11h56",
+    "label": "30/06/2025 às 11h19 - Atualizado em 30/06/2025 às 14h10",
     "descricao": "Iniciativa está alinhada com a meta do Governo Ibaneis Rocha de zerar fila de espera de bebês por vagas; aumento do repasse será de 59,99% para o Berçário I e de 14,28% para o Berçário II, que acolhem crianças de até 2 anos",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/01-capa-creche_1-1-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/governo-reajusta-valores-dos-repasses-para-custear-alunos-do-bercario-i-e-bercario-ii-nas-creches-do-df?redirect=%2Fnoticias"
   },
   {
     "titulo": "GDF vai construir usina fotovoltaica para atender 400 escolas públicas no DF com energia limpa",
-    "label": "30/06/2025 às 10h54 - Atualizado em 30/06/2025 às 13h25",
+    "label": "30/06/2025 às 10h54 - Atualizado em 30/06/2025 às 14h09",
     "descricao": "Com investimento de R$ 40 milhões, parceria entre CEB e Secretaria de Educação vai gerar economia de aproximadamente R$ 10 milhões por ano",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-30-at-13-19-34-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-vai-construir-usina-fotovoltaica-para-atender-400-escolas-publicas-no-df-com-energia-limpa?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Fiscalização autua 43 condutores alcoolizados no fim de semana no DF",
-    "label": "30/06/2025 às 10h23 - Atualizado em 30/06/2025 às 10h39",
-    "descricao": "As operações ocorreram em Ceilândia, Paranoá, Planaltina, Sobradinho e Taguatinga",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/op-fiscalizacao2-1-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/fiscalizacao-autua-43-condutores-alcoolizados-no-fim-de-semana-no-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Confira o cronograma do atendimento itinerante para questões de energia nesta semana",
-    "label": "30/06/2025 às 10h08 - Atualizado em 30/06/2025 às 13h14",
-    "descricao": "Administrações regionais terão suporte de serviços técnicos e comerciais da distribuidora, conforme cronograma de demanda e sem hora marcada",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/image005-1-png-1?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/confira-o-cronograma-do-atendimento-itinerante-para-quest%C3%B5es-de-energia-nesta-semana?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Ação de acolhimento da população em situação de rua ocorre nesta terça (1º/7), em Taguatinga",
-    "label": "30/06/2025 às 09h45 - Atualizado em 30/06/2025 às 11h42",
-    "descricao": "Abordagens serão realizadas em dois pontos da cidade, com apoio de diversos órgãos do GDF",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54342421284_93a6e1202a_k-jpg-3?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-de-acolhimento-da-populacao-em-situacao-de-rua-ocorre-nesta-terca-1/7-em-taguatinga?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Acompanhe a assinatura de decretos sobre berçários em creches",
-    "label": "30/06/2025 às 08h52 - Atualizado em 30/06/2025 às 11h47",
-    "descricao": "Secretaria de Educação e CEB Participações celebram convênio para o segmento",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/30-6-ao-vivo-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acompanhe-a-assinatura-de-decretos-sobre-bercarios-em-creches?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Sargento da PMDF conquista pódio em duas etapas nacionais de tiro prático",
-    "label": "30/06/2025 às 08h35 - Atualizado em 30/06/2025 às 08h52",
-    "descricao": "Em menos de duas semanas, militar obteve uma vitória e um segundo lugar em competições",
-    "imagem": null,
-    "link": "https://www.agenciabrasilia.df.gov.br/w/sargento-da-pmdf-conquista-podio-em-duas-etapas-nacionais-de-tiro-pratico?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Unidades educacionais de Sobradinho recebem novos estacionamentos e retorno para ônibus escolares",
-    "label": "30/06/2025 às 08h08 - Atualizado em 30/06/2025 às 09h47",
-    "descricao": "Obras próximas à Escola Classe 4 (EC 4) e ao Centro de Ensino Fundamental 4 (CEF 4) visam facilitar mobilidade e segurança da comunidade escolar",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-26-at-17-14-19-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/unidades-educacionais-de-sobradinho-recebem-novos-estacionamentos-e-retorno-para-onibus-escolares?redirect=%2Fnoticias"
   }
 ]
