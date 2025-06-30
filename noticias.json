@@ -1,5 +1,54 @@
 [
   {
+    "titulo": "Saúde aprimora segurança de pacientes, servidores e acompanhantes",
+    "label": "30/06/2025 às 17h19 - Atualizado em 30/06/2025 às 17h20",
+    "descricao": "Hospitais, policlínicas, bases do Samu e centros de atenção psicossocial terão vigilância eletrônica com monitoramento 24h",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/30-6-cameras-para-a-saude-foto-sandro-araujo-agencia-saude-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/saude-aprimora-seguranca-de-pacientes-servidores-e-acompanhantes?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Castra-DF realiza centenas de cirurgias gratuitas em Sobradinho e amplia acesso à saúde animal",
+    "label": "30/06/2025 às 17h13 - Atualizado em 30/06/2025 às 17h14",
+    "descricao": "Programa do GDF oferece castração, exames e cursos de capacitação profissional; cirurgias seguem até 11 de julho",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-27-at-13-39-01-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/castra-df-realiza-centenas-de-cirurgias-gratuitas-em-sobradinho-e-amplia-acesso-a-saude-animal?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Feira do Cruzeiro passa por reforma com investimento de R$ 1,7 milhão",
+    "label": "30/06/2025 às 17h11 - Atualizado em 30/06/2025 às 17h11",
+    "descricao": "Obras incluem reforma de banheiros, telhado, rede de esgoto e adequações nas normas de segurança",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/feira-permanente-do-cruzeiro-png?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/feira-do-cruzeiro-passa-por-reforma-com-investimento-de-r-17-milhao?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "IgesDF abre processo seletivo para analista de contratos e fonoaudiólogo",
+    "label": "30/06/2025 às 17h08 - Atualizado em 30/06/2025 às 17h09",
+    "descricao": "Inscrições devem ser feitas até o dia 6 de julho no site oficial do instituto",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/mg_5750-768x512-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/igesdf-abre-processo-seletivo-para-analista-de-contratos-e-fonoaudiologo?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Governança de Serviços: Órgãos apresentam resultados positivos que impactam áreas estratégicas do DF",
+    "label": "30/06/2025 às 17h07 - Atualizado em 30/06/2025 às 17h07",
+    "descricao": "Iniciativas desenvolvidas no Programa Polaris contribuíram com melhorias em setores como educação, saúde, segurança e economia",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_7057-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/governanca-de-servicos-orgaos-apresentam-resultados-positivos-que-impactam-areas-estrategicas-do-df?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Habitação: Prorrogado o prazo de inscrições para convocação pública em Santa Maria",
+    "label": "30/06/2025 às 17h00 - Atualizado em 30/06/2025 às 17h02",
+    "descricao": "Seguem abertas as inscrições para contratação de empresa de construção civil com objetivo de retomar obras paralisadas",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/copia-de-banner-2-png?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/habita%C3%A7%C3%A3o-prorrogado-o-prazo-de-inscri%C3%A7%C3%B5es-para-convoca%C3%A7%C3%A3o-p%C3%BAblica-em-santa-maria?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Brasília Ambiental recebe 300 Kits de EPIs e materiais para resgate de fauna",
+    "label": "30/06/2025 às 16h32 - Atualizado em 30/06/2025 às 16h51",
+    "descricao": "Equipamentos resultam de compensação ambiental e vão fortalecer trabalho da brigada florestal",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/27-5-brasilia-ambiental-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/brasilia-ambiental-recebe-300-kits-de-epis-e-materiais-para-resgate-de-fauna?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Publicado novo edital de auxílios estudantis da UnDF",
     "label": "30/06/2025 às 15h46 - Atualizado em 30/06/2025 às 15h47",
     "descricao": "Seleção contempla benefícios destinados à permanência, saúde mental, transporte e creche de estudantes em situação de vulnerabilidade socioeconômica; número de vagas foi ampliado",
@@ -19,54 +68,5 @@
     "descricao": "Período entre 1º de julho e 30 de setembro é destinado à supressão de plantas vivas da leguminosa no DF, para conter a ferrugem asiática",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/30-6-agricultura-foto-renato-alves-agencia-brasilia2-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/distrito-federal-inicia-vazio-sanitario-da-soja-nesta-terca-1/7-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Tecnologia e inovação movem feira de negócios em Brasília",
-    "label": "30/06/2025 às 14h42 - Atualizado em 30/06/2025 às 14h43",
-    "descricao": "Terceira edição do TIC Day reúne especialistas, startups e empreendedores no Biotic para debater novas oportunidades de mercado",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-30-at-14-02-27-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/tecnologia-e-inovacao-movem-feira-de-negocios-em-brasilia?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "PMDF recebe palestra Mais Brasileiros pela Paz, com foco em missões da ONU",
-    "label": "30/06/2025 às 14h41 - Atualizado em 30/06/2025 às 14h42",
-    "descricao": "Evento abordou a atuação brasileira em operações de paz e incentivou a participação de policiais militares do Distrito Federal nas ações da organização",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/4-4-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/pmdf-recebe-palestra-mais-brasileiros-pela-paz-com-foco-em-missoes-da-onu?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF investiu mais de R$ 6 milhões para reformar moradias de famílias em situação de vulnerabilidade",
-    "label": "30/06/2025 às 14h12 - Atualizado em 30/06/2025 às 14h40",
-    "descricao": "Mais cinco famílias no Setor Oeste da Estrutural foram beneficiadas com o programa Melhorias Habitacionais, que já reformou mais de 200 moradias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/programa-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-investiu-mais-de-r-6-milhoes-para-reformar-moradias-de-familias-em-situacao-de-vulnerabilidade?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Aberto processo seletivo para vagas remanescentes da preceptoria dos programas de residência médica",
-    "label": "30/06/2025 às 14h01 - Atualizado em 30/06/2025 às 14h01",
-    "descricao": "Período de inscrição será de 7 a 18 de julho",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_0194-1920x1280-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/aberto-processo-seletivo-para-vagas-remanescentes-da-preceptoria-dos-programas-de-residencia-medica?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Zoológico de Brasília recebe mais de 7 mil votos em 24h para escolher nomes de dragões-barbudos",
-    "label": "30/06/2025 às 14h00 - Atualizado em 30/06/2025 às 14h00",
-    "descricao": "Os escolhidos foram Draco e Dragolino, agora oficialmente os nomes dos répteis do Zoo",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-30-at-12-40-50-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/zoologico-de-brasilia-recebe-mais-de-7-mil-votos-em-24h-para-escolher-nomes-de-dragoes-barbudos?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Vai sair de férias? Ambulatório do Viajante orienta sobre cuidados em viagens internacionais e nacionais",
-    "label": "30/06/2025 às 13h33 - Atualizado em 30/06/2025 às 13h33",
-    "descricao": "Serviço gratuito funciona sob agendamento. Objetivo é garantir período tranquilo e seguro à população, evitando transmissão de doenças",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/cantarelle-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/vai-sair-de-ferias-ambulatorio-do-viajante-orienta-sobre-cuidados-em-viagens-internacionais-e-nacionais?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Protagonismo feminino no campo é destaque na IV Feira do Produtor Rural",
-    "label": "30/06/2025 às 13h32 - Atualizado em 30/06/2025 às 13h32",
-    "descricao": "Evento reúne minicursos, palestras, mesas redondas, exposição de produtos agropecuários do DF e Ride, em 3 e 4 de julho, na Fazenda Água Limpa, com atividades gratuitas e abertas ao público",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/30-6-feira-agropecuaria-foto-vinicius-de-melo-smdf4-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/protagonismo-feminino-no-campo-e-destaque-na-iv-feira-do-produtor-rural?redirect=%2Fnoticias"
   }
 ]
