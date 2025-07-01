@@ -1,10 +1,24 @@
 [
   {
-    "titulo": "Pagamento digital no transporte público do DF completa um ano com ampla adesão",
-    "label": "01/07/2025 às 15h23 - Atualizado em 01/07/2025 às 15h23",
+    "titulo": "Curso de Aperfeiçoamento de Praças tem aula inaugural",
+    "label": "01/07/2025 às 15h38 - Atualizado em 01/07/2025 às 15h38",
+    "descricao": "Capacitação terá carga de 245 horas/aula, tanto no formato presencial quanto no de Ensino a Distância (EaD)",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/1-7-aula-magna-pmdf-2-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/curso-de-aperfeicoamento-de-pracas-tem-aula-inaugural?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Projeto Ser Multiplicadores atenderá 60 crianças e adolescentes do Gama com cursos e acompanhamento psicológico",
+    "label": "01/07/2025 às 15h33 - Atualizado em 01/07/2025 às 15h33",
+    "descricao": "Parceria da Secretaria de Justiça e Cidadania, do Conselho dos Direitos da Criança e do Adolescente com organização da sociedade civil, publicada no DODF desta terça (1º), prevê ações educativas e sociais para prevenir vulnerabilidades e afirmar direitos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-01-at-14-20-05-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/projeto-ser-multiplicadores-atender%C3%A1-60-crian%C3%A7as-e-adolescentes-do-gama-com-cursos-e-acompanhamento-psicol%C3%B3gico?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Pagamento digital no transporte público do DF completa um ano com implementação em 100% das linhas",
+    "label": "01/07/2025 às 15h23 - Atualizado em 01/07/2025 às 15h30",
     "descricao": "Cartão Mobilidade já responde por mais da metade dos acessos pagos, e uso de cartões bancários mais que dobrou no período",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/cartao-no-validador-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/pagamento-digital-no-transporte-publico-do-df-completa-um-ano-com-ampla-adesao?redirect=%2Fnoticias"
+    "link": "https://www.agenciabrasilia.df.gov.br/w/pagamento-digital-no-transporte-p%C3%BAblico-do-df-completa-um-ano-com-implementa%C3%A7%C3%A3o-em-100-das-linhas?redirect=%2Fnoticias"
   },
   {
     "titulo": "CEF Arapoanga recebe caravana do 3º Prêmio Candanguinho de Poesia Infantojuvenil nesta quarta (2)",
@@ -14,11 +28,11 @@
     "link": "https://www.agenciabrasilia.df.gov.br/w/cef-arapoanga-recebe-caravana-do-3%C2%BA-pr%C3%AAmio-candanguinho-de-poesia-infantojuvenil-nesta-quarta-2-?redirect=%2Fnoticias"
   },
   {
-    "titulo": "Avenida Hélio Prates, em Taguatinga, recebe ações educativas de trânsito",
-    "label": "01/07/2025 às 14h27 - Atualizado em 01/07/2025 às 14h27",
+    "titulo": "Avenida Hélio Prates, em Taguatinga, tem ações educativas de trânsito",
+    "label": "01/07/2025 às 14h27 - Atualizado em 01/07/2025 às 16h01",
     "descricao": "Via urbana foi a que registrou mais ocorrências fatais em 2024",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/1-7-acao-na-helio-prates-foto-divulgacao-detran-df-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/avenida-helio-prates-em-taguatinga-recebe-acoes-educativas-de-transito?redirect=%2Fnoticias"
+    "link": "https://www.agenciabrasilia.df.gov.br/w/avenida-h%C3%A9lio-prates-em-taguatinga-tem-a%C3%A7%C3%B5es-educativas-de-tr%C3%A2nsito?redirect=%2Fnoticias"
   },
   {
     "titulo": "Áreas do Sol Nascente e de Samambaia ficarão sem energia nesta quarta-feira (2)",
@@ -54,19 +68,5 @@
     "descricao": "Ação resultou em R$ 687 mil em crédito tributário gerado e mais de R$ 1,6 milhão em mercadorias irregulares autuadas",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-01-at-11-03-13-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/for%C3%A7a-tarefa-de-auditores-refor%C3%A7a-combate-%C3%A0-sonega%C3%A7%C3%A3o-no-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Médicos temporários: Saúde convoca mais de 30 profissionais generalistas",
-    "label": "01/07/2025 às 11h23 - Atualizado em 01/07/2025 às 11h23",
-    "descricao": "Seleção realizada em março deste ano ofereceu 200 vagas imediatas; médicos vão reforçar atendimento em três hospitais públicos no DF",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54587221730_8fe454f4aa_k-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/medicos-temporarios-saude-convoca-mais-de-30-profissionais-generalistas?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Iniciada força-tarefa para substituição de postes no Plano Piloto",
-    "label": "01/07/2025 às 10h58 - Atualizado em 01/07/2025 às 10h58",
-    "descricao": "Ao todo, Eixinho L Sul, W1 Sul, L1 Sul e tesourinhas receberão 56 novos postes",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/image001-4-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/iniciada-forca-tarefa-para-substituicao-de-postes-no-plano-piloto?redirect=%2Fnoticias"
   }
 ]
