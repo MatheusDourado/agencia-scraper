@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Manutenção na rede interrompe fornecimento de água em áreas do Lago Sul e do Gama nesta quarta-feira (2)",
+    "label": "01/07/2025 às 10h20 - Atualizado em 01/07/2025 às 10h20",
+    "descricao": "Serviços têm como objetivo melhorar o sistema de abastecimento nas regiões",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-tony-oliveira-27-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/manutencao-na-rede-interrompe-fornecimento-de-agua-em-areas-do-lago-sul-e-do-gama-nesta-quarta-feira-2-?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Cruzeiro intensifica podas de árvores para reforçar segurança da população",
+    "label": "01/07/2025 às 10h13 - Atualizado em 01/07/2025 às 10h14",
+    "descricao": "Ações são definidas com base em vistorias técnicas e em demandas da comunidade",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/podas-de-arvores-cruzeiro-png?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/cruzeiro-intensifica-podas-de-arvores-para-refor%C3%A7ar-seguranca-da-populacao?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Ceilândia recebe, nesta quarta (2), ação de acolhimento da população em situação de rua",
+    "label": "01/07/2025 às 10h00 - Atualizado em 01/07/2025 às 10h01",
+    "descricao": "Abordagem tem previsão de passar por seis pontos da região administrativa",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/1-7-df-legal-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/ceilandia-recebe-nesta-quarta-2-acao-de-acolhimento-da-populacao-em-situacao-de-rua?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "BCG, proteção que começa na infância",
     "label": "01/07/2025 às 09h06 - Atualizado em 01/07/2025 às 09h38",
     "descricao": "Vacina, há 48 anos no Brasil, é a principal forma de prevenir as formas graves da tuberculose",
@@ -47,26 +68,5 @@
     "descricao": "Capacitação promovida pela SSP-DF reforça atuação integrada no combate à violência de gênero",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-30-at-11-14-08-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/policiais-militares-recebem-formacao-para-aprimorar-atendimento-a-mulheres-vitimas-de-violencia-no-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "PMDF inicia ciclo de instruções com foco em prevenção e indicadores",
-    "label": "30/06/2025 às 19h03 - Atualizado em 30/06/2025 às 19h04",
-    "descricao": "O evento, promovido pelo Centro de Políticas de Segurança Pública (CPSP), reúne cerca de 150 policiais no auditório do UniCEUB, em Águas Claras",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-06-30-at-17-45-47-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/pmdf-inicia-ciclo-de-instrucoes-com-foco-em-prevencao-e-indicadores?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Vagas para vendedor interno oferecem maior salário desta terça (1º) nas agências do trabalhador",
-    "label": "30/06/2025 às 18h47 - Atualizado em 30/06/2025 às 18h48",
-    "descricao": "No total, estão abertas 709 vagas em diversas regiões administrativas. Interessados podem cadastrar currículo por aplicativo ou presencialmente",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-tony-oliveira-26-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/vagas-para-vendedor-interno-oferecem-maior-salario-desta-terca-1-nas-agencias-do-trabalhador?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Desligamento de energia afetará Sobradinho e São Sebastião nesta terça-feira (1º)",
-    "label": "30/06/2025 às 18h46 - Atualizado em 30/06/2025 às 18h47",
-    "descricao": "Serviço será temporariamente suspenso pela Neoenergia por questões de segurança",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/distribuicao-foto-neoenergia-32-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/desligamento-de-energia-afetara-sobradinho-e-sao-sebastiao-nesta-terca-feira-1-?redirect=%2Fnoticias"
   }
 ]
