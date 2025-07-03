@@ -1,7 +1,42 @@
 [
   {
+    "titulo": "Povos indígenas serão homenageados pelo GDF no Noroeste neste sábado (5)",
+    "label": "03/07/2025 às 14h09 - Atualizado em 03/07/2025 às 14h09",
+    "descricao": "Aberto ao público, evento oferece serviços gratuitos, apresentações culturais e atendimentos voltados a mulheres, idosos, crianças e comunidades tradicionais",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/3-7-indigenas-capa-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/povos-indigenas-serao-homenageados-pelo-gdf-no-noroeste-neste-sabado-5-?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Palestra orienta sobre prevenção e tratamento de principais tipos de câncer tratados na rede pública do DF",
+    "label": "03/07/2025 às 14h07 - Atualizado em 03/07/2025 às 14h07",
+    "descricao": "Ciclo de apresentações capacita servidores da Saúde quanto às neoplasias malignas mais comuns e destaca ações preventivas",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/as-palestras-promovem-educacao-continuada-e-projetos-de-capacitacao-aos-servidores-da-ses-df-foto-yuri-freitas-agencia-saude-df-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/palestra-orienta-sobre-preven%C3%A7%C3%A3o-e-tratamento-de-principais-tipos-de-c%C3%A2ncer-tratados-na-rede-p%C3%BAblica-do-df?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Livro apoiado pela FAPDF reúne estudos inéditos de pesquisadores sobre sobre sistemas quânticos não estacionários",
+    "label": "03/07/2025 às 13h46 - Atualizado em 03/07/2025 às 13h46",
+    "descricao": "Obra reúne artigos de especialistas nacionais e internacionais sobre o campo da física que investiga o comportamento de partículas em movimento acelerado ou sob variações no tempo",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-livros-png?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/livro-apoiado-pela-fapdf-re%C3%BAne-estudos-in%C3%A9ditos-de-pesquisadores-sobre-sobre-sistemas-qu%C3%A2nticos-n%C3%A3o-estacion%C3%A1rios?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Dia Nacional de Combate à Discriminação Racial: políticas e ações integradas promovem igualdade no Distrito Federal",
+    "label": "03/07/2025 às 13h40 - Atualizado em 03/07/2025 às 13h40",
+    "descricao": "A Secretaria de Justiça e Cidadania é a responsável pelas políticas de promoção da igualdade racial no DF. Dentre as atividades de combate ao racismo estão os cursos de letramento racial, festival cultural e a campanha Cartão Vermelho para o Racismo, que retorna aos gramados em 12 de julho, no clássico entre Vasco e Botafogo",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-03-at-12-33-52-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/dia-nacional-de-combate-a-discriminacao-racial-politicas-e-acoes-integradas-promovem-igualdade-no-distrito-federal?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "‘Star Wars Day in Concert’ leva drones, orquestra e atividades educativas ao Planetário de Brasília",
+    "label": "03/07/2025 às 13h35 - Atualizado em 03/07/2025 às 13h35",
+    "descricao": "Evento gratuito une cultura pop, ciência e tecnologia em uma programação imersiva para todas as idades, a partir do dia 12",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/3-7-star-wars-day-arte-divulgacao-secti-df-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/star-wars-day-in-concert-leva-drones-orquestra-e-atividades-educativas-ao-planetario-de-brasilia?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Celina Leão anuncia licitação para o Pôr do Sol durante visita às obras no Sol Nascente",
-    "label": "03/07/2025 às 12h46 - Atualizado em 03/07/2025 às 12h54",
+    "label": "03/07/2025 às 12h46 - Atualizado em 03/07/2025 às 14h14",
     "descricao": "Com mais R$ 200 milhões de investimento para os novos trabalhos, GDF ultrapassa a marca de R$ 500 milhões apenas em serviços de infraestrutura e urbanização na cidade",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-03-at-12-36-08-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/celina-leao-anuncia-licitacao-para-o-por-do-sol-durante-visita-as-obras-no-sol-nascente?redirect=%2Fnoticias"
@@ -15,7 +50,7 @@
   },
   {
     "titulo": "Investimento de R$ 7,4 milhões vai levar 5 km de asfalto para escola na área rural do Sol Nascente",
-    "label": "03/07/2025 às 12h36 - Atualizado em 03/07/2025 às 12h54",
+    "label": "03/07/2025 às 12h36 - Atualizado em 03/07/2025 às 13h36",
     "descricao": "EC Córrego das Corujas receberá investimento de R$ 7,4 milhões para ter toda a sua via de acesso pavimentada; obra deve gerar 50 empregos diretos na região",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa_1-30-jpg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/investimento-de-r-74-milhoes-vai-levar-5-km-de-asfalto-para-escola-na-area-rural-do-sol-nascente?redirect=%2Fnoticias"
@@ -33,40 +68,5 @@
     "descricao": "Canais estarão fora do ar a partir das 18h de sexta (4) até a manhã de segunda (7). Alternativa é usar canais virtuais como o Whatsapp e o Portal do Cidadão",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-03-at-11-41-29-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/central-de-relacionamento-156-passara-por-manutencao-no-fim-de-semana?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Atuação médica no atendimento a autores de violência sexual é tema de debate",
-    "label": "03/07/2025 às 10h41 - Atualizado em 03/07/2025 às 10h41",
-    "descricao": "Palestra reúne profissionais de diferentes áreas para discutir abordagem ética e estratégias de prevenção para romper ciclos de agressão",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-02-at-13-10-28-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/atuacao-medica-no-atendimento-a-autores-de-violencia-sexual-e-tema-de-debate?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Com apoio do FAC, nova temporada do podcast Ossobuco resgata patrimônio imaterial do DF",
-    "label": "03/07/2025 às 10h38 - Atualizado em 03/07/2025 às 10h38",
-    "descricao": "Iniciativa destaca tradições, saberes e memórias transmitidas entre gerações ao longo da construção da capital federal",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/_zuk2354-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/com-apoio-do-fac-nova-temporada-do-podcast-ossobuco-resgata-patrimonio-imaterial-do-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Regulamentada concessão de licença para profissionais que atuam com explosivos e pirotecnia no DF",
-    "label": "03/07/2025 às 10h30 - Atualizado em 03/07/2025 às 10h30",
-    "descricao": "Com a publicação no DODF, a Polícia Civil moderniza os mecanismos de controle sobre essas atividades, com foco na segurança pública e na prevenção de acidentes",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-03-at-10-21-03-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/regulamentada-concessao-de-licenca-para-profissionais-que-atuam-com-explosivos-e-pirotecnia-no-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Divulgado resultado provisório de chamamento público para realização do programa Férias na Cultura",
-    "label": "03/07/2025 às 10h28 - Atualizado em 03/07/2025 às 10h29",
-    "descricao": "Proponentes têm até cinco dias corridos para apresentar recursos; iniciativa visa à realização de 48 colônias de férias em seis espaços culturais",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/ferias_na_cultura_arquivo_secec-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/divulgado-resultado-provisorio-de-chamamento-publico-para-realizacao-do-programa-ferias-na-cultura?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Abertas as inscrições para o projeto Enem Inclusivo e Especial 2025",
-    "label": "03/07/2025 às 10h27 - Atualizado em 03/07/2025 às 11h31",
-    "descricao": "Aulas preparatórias para alunos com deficiência ou transtornos começam em 16 de agosto",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/3-7-materia-foto-mary-leal-seedf-aula-do-projeto-enem-inclusivo-e-especial-2023-capa-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/abertas-as-inscricoes-para-o-projeto-enem-inclusivo-e-especial-2025?redirect=%2Fnoticias"
   }
 ]
