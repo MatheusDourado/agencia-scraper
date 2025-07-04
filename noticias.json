@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Tecnologia leva realidade aumentada à indústria do Distrito Federal",
+    "label": "04/07/2025 às 14h15 - Atualizado em 04/07/2025 às 14h15",
+    "descricao": "Sistema apoiado pela FAPDF combina aprendizado de máquina e dados CAD para automatizar instruções e testes em linhas de montagem manual",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/captura-de-tela-2025-07-04-125438-1-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/tecnologia-leva-realidade-aumentada-a-industria-do-distrito-federal?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Pró-Jovem Digital: GDF lança capacitação para mais de 4 mil jovens em situação de vulnerabilidade",
+    "label": "04/07/2025 às 14h12 - Atualizado em 04/07/2025 às 14h13",
+    "descricao": "Com investimento de R$ 7,9 milhões, programa oferece cursos gratuitos em inteligência artificial, marketing e redes sociais; saiba como participar",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-04-at-14-06-39-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/pro-jovem-digital-gdf-lanca-capacitacao-para-mais-de-4-mil-jovens-em-situacao-de-vulnerabilidade?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Abertas inscrições para três editais de fomento à ciência, tecnologia e inovação",
+    "label": "04/07/2025 às 13h30 - Atualizado em 04/07/2025 às 13h31",
+    "descricao": "Programa Difusão Científica apoia eventos, publicações e participação técnica no Brasil e no exterior",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2024-08-14-at-18-48-10-1-jpeg-1?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/abertas-inscricoes-para-tres-editais-de-fomento-a-ciencia-tecnologia-e-inovacao?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Operação combate estacionamento irregular em vagas especiais",
     "label": "04/07/2025 às 13h19 - Atualizado em 04/07/2025 às 13h19",
     "descricao": "Ação do Detran-DF ocorreu na região de Águas Claras e notificou 35 veículos na manhã desta sexta-feira (4)",
@@ -47,26 +68,5 @@
     "descricao": "Partida será no dia 12 de julho, na Arena BRB Estádio Mané Garrincha; trabalhadores interessados têm que fazer o cadastro nesta segunda-feira (7)",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_5081_1-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/jogo-de-futebol-vasco-da-gama-x-botafogo-tera-50-vagas-para-ambulantes?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Metrô-DF amplia horário de funcionamento no domingo da Parada do Orgulho LGBTQIA+",
-    "label": "04/07/2025 às 11h51 - Atualizado em 04/07/2025 às 12h20",
-    "descricao": "Saiba como será o funcionamento neste 6 de julho",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/3-2-metro-foto-tony-oliveira-agencia-brasilia2-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/metr%C3%B4-df-amplia-hor%C3%A1rio-de-funcionamento-no-domingo-da-parada-do-orgulho-lgbtqia-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Acompanhe o lançamento do programa Pró-Jovem Digital",
-    "label": "04/07/2025 às 11h04 - Atualizado em 04/07/2025 às 11h04",
-    "descricao": "Iniciativa, coordenada pela Secretaria de Família e Juventude, prevê cursos nas áreas de empreendedorismo digital, inteligência artificial, marketing digital, redes sociais, edição de vídeo e e-commerce",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/ao_vivo__lancamento-do-pro-jovem-digital-programa-de-capacitacao-em-empreendedorismo-digital-png?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acompanhe-o-lancamento-do-programa-pro-jovem-digital?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Vídeos produzidos em capacitação sobre cidadania no trânsito destacam a importância de desacelerar",
-    "label": "04/07/2025 às 10h45 - Atualizado em 04/07/2025 às 10h45",
-    "descricao": "Produções foram exibidas na cerimônia de formatura dos 256 alunos da quarta edição do curso e estão disponíveis no canal do Detran nas Escolas no YouTube",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/4-7-curso-detran-df-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/v%C3%ADdeos-produzidos-em-capacita%C3%A7%C3%A3o-sobre-cidadania-no-tr%C3%A2nsito-destacam-a-import%C3%A2ncia-de-desacelerar?redirect=%2Fnoticias"
   }
 ]
