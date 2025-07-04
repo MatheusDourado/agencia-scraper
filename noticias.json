@@ -1,5 +1,33 @@
 [
   {
+    "titulo": "Acompanhe o lançamento do programa Pró-Jovem Digital",
+    "label": "04/07/2025 às 11h04 - Atualizado em 04/07/2025 às 11h04",
+    "descricao": "Iniciativa, coordenada pela Secretaria de Família e Juventude, prevê cursos nas áreas de empreendedorismo digital, inteligência artificial, marketing digital, redes sociais, edição de vídeo e e-commerce",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/ao_vivo__lancamento-do-pro-jovem-digital-programa-de-capacitacao-em-empreendedorismo-digital-png?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/acompanhe-o-lancamento-do-programa-pro-jovem-digital?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Vídeos produzidos em capacitação sobre cidadania no trânsito destacam a importância de desacelerar",
+    "label": "04/07/2025 às 10h45 - Atualizado em 04/07/2025 às 10h45",
+    "descricao": "Produções foram exibidas na cerimônia de formatura dos 256 alunos da quarta edição do curso e estão disponíveis no canal do Detran nas Escolas no YouTube",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/4-7-curso-detran-df-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/v%C3%ADdeos-produzidos-em-capacita%C3%A7%C3%A3o-sobre-cidadania-no-tr%C3%A2nsito-destacam-a-import%C3%A2ncia-de-desacelerar?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Hepatite A: Saúde reforça vacinação de pessoas que usam profilaxia ao HIV",
+    "label": "04/07/2025 às 10h39 - Atualizado em 04/07/2025 às 10h39",
+    "descricao": "Imunizante está disponível na rede pública e é uma ferramenta importante na prevenção de surtos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/vacinacao-drive-thru-contra-a-covid-19-no-parque-da-cidade-estacionamento-13-vacina-coronavirus-covid-19-vacinacao-jul-2021-fotos-geovana-albuquerq-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/hepatite-a-saude-reforca-vacinacao-de-pessoas-que-usam-profilaxia-ao-hiv?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Aberta seleção para profissionais de TI e dados para projeto sobre transparência pública",
+    "label": "04/07/2025 às 10h32 - Atualizado em 04/07/2025 às 10h32",
+    "descricao": "Serão oferecidas oito bolsas remuneradas para atuação em pesquisa e desenvolvimento da nova Plataforma InfoDF 2.0",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/53381347787_f1638b3043_k-1-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/aberta-selecao-para-profissionais-de-ti-e-dados-para-projeto-sobre-transparencia-publica?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Ação de acolhimento da população em situação de rua volta ao Plano Piloto neste fim de semana",
     "label": "04/07/2025 às 10h29 - Atualizado em 04/07/2025 às 10h29",
     "descricao": "Abordagem está prevista para ocorrer neste sábado (5) e domingo (6) e irá passar por seis pontos",
@@ -14,15 +42,15 @@
     "link": "https://www.agenciabrasilia.df.gov.br/w/atendimento-presencial-do-detran-df-na-unidade-da-913-sul-esta-suspenso-nesta-sexta-4-?redirect=%2Fnoticias"
   },
   {
-    "titulo": "Festival de música instrumental, cinema acessível e cultura popular são atrações do fim de semana no DF",
-    "label": "04/07/2025 às 10h17 - Atualizado em 04/07/2025 às 10h25",
+    "titulo": "Música instrumental, cinema acessível e cultura popular são atrações do fim de semana no DF",
+    "label": "04/07/2025 às 10h17 - Atualizado em 04/07/2025 às 10h53",
     "descricao": "Programação gratuita e diversa anima a capital com shows, oficinas e sessões de cinema para todos os públicos",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/festival-brasilidade-candanga-foto-murilo-alvesso-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/festival-de-musica-instrumental-cinema-acessivel-e-cultura-popular-sao-atracoes-do-fim-de-semana-no-df?redirect=%2Fnoticias"
+    "link": "https://www.agenciabrasilia.df.gov.br/w/musica-instrumental-cinema-acessivel-e-cultura-popular-sao-atracoes-do-fim-de-semana-no-df?redirect=%2Fnoticias"
   },
   {
     "titulo": "Produção agrícola do DF movimentou mais de R$ 5,8 bilhões em 2024 com alta dos setores de frutas, flores e pecuária",
-    "label": "04/07/2025 às 08h16 - Atualizado em 04/07/2025 às 10h28",
+    "label": "04/07/2025 às 08h16 - Atualizado em 04/07/2025 às 10h31",
     "descricao": "Os dados compõem relatório anual da Emater-DF sobre os resultados de seis cadeias produtivas do campo brasiliense",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/4-7-agro-foto-matheus-h-souza-agencia-brasiliacapa-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/producao-agricola-do-df-movimentou-mais-de-r-58-bilhoes-em-2024-com-alta-dos-setores-de-frutas-flores-e-pecuaria?redirect=%2Fnoticias"
@@ -40,33 +68,5 @@
     "descricao": "Evento será dia 13 de julho; inscrições estarão abertas a partir de segunda-feira (7)",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-03-at-18-44-41-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/circuito-passeio-de-bike-detran-df-nas-ras-chega-a-vicente-pires?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Saúde se prepara para implementar tecnologia complementar no combate à dengue",
-    "label": "03/07/2025 às 18h43 - Atualizado em 03/07/2025 às 22h09",
-    "descricao": "Mosquitos modificados serão liberados para reduzir transmissão de dengue, zika e chikungunya",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/2-breno-esaki-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/saude-se-prepara-para-implementar-tecnologia-complementar-no-combate-a-dengue?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Ação coordenada no Riacho Fundo II acolhe pessoas em situação de rua",
-    "label": "03/07/2025 às 18h12 - Atualizado em 03/07/2025 às 18h12",
-    "descricao": "Operação do GDF em três pontos da cidade, nesta quinta-feira (3), ofereceu orientação e acesso a programas de assistência social",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-agencia-brasilia-jpg-2?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-coordenada-no-riacho-fundo-ii-acolhe-pessoas-em-situacao-de-rua?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Pesquisa revela perfil dos usuários de restaurantes comunitários e aponta regiões com maior demanda por novas unidades",
-    "label": "03/07/2025 às 18h08 - Atualizado em 03/07/2025 às 18h08",
-    "descricao": "Estudo mapeia hábitos, perfis e deslocamentos dos frequentadores para orientar expansão e melhorar a eficiência do serviço público no Distrito Federal",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-03-at-17-46-13-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/pesquisa-revela-perfil-dos-usuarios-de-restaurantes-comunitarios-e-aponta-regioes-com-maior-demanda-por-novas-unidades?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Semana termina com mais de mil oportunidades de emprego nas agências do trabalhador",
-    "label": "03/07/2025 às 18h00 - Atualizado em 03/07/2025 às 18h04",
-    "descricao": "Maior salário do dia é de R$ 3,5 mil, ofertado para as profissões de vendedor pracista e mecânico de veículos automotores a diesel",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/pedreiro-foto-paulo-h-carvalho-jpg-1?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/semana-termina-com-mais-de-mil-oportunidades-de-emprego-nas-agencias-do-trabalhador?redirect=%2Fnoticias"
   }
 ]
