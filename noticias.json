@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Operação combate estacionamento irregular em vagas especiais",
+    "label": "04/07/2025 às 13h19 - Atualizado em 04/07/2025 às 13h19",
+    "descricao": "Ação do Detran-DF ocorreu na região de Águas Claras e notificou 35 veículos na manhã desta sexta-feira (4)",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-04-at-11-58-29-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/operacao-combate-estacionamento-irregular-em-vagas-especiais?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Em quatro dias, fiscalização tributária autuou R$ 503 mil em rodovias do DF",
+    "label": "04/07/2025 às 13h13 - Atualizado em 04/07/2025 às 13h13",
+    "descricao": "Ações dos auditores da Secretaria de Economia também contemplaram transportadoras e outros pontos comerciais",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-04-at-12-06-20-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/em-quatro-dias-fiscalizacao-tributaria-autuou-r-503-mil-em-rodovias-do-df?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Resultado definitivo de teste de habilidade da seleção de brigadistas é divulgado",
+    "label": "04/07/2025 às 13h09 - Atualizado em 04/07/2025 às 13h09",
+    "descricao": "Aprovados são convocados para curso de formação pelo Instituto Brasília Ambiental",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img_6218-heic-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/resultado-definitivo-de-teste-de-habilidade-da-selecao-de-brigadistas-e-divulgado?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Maior feira de empreendedorismo LGBTQIAPN+ movimenta o DF neste sábado (5)",
+    "label": "04/07/2025 às 13h07 - Atualizado em 04/07/2025 às 13h07",
+    "descricao": "Com a estrutura mais ampla já montada pela Secretaria de Justiça e Cidadania, espaço no Mercado Borboleta oferece atendimentos gratuitos, serviços públicos e ações de promoção de direitos",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/4-7-evento-lgbtqiapn-sejus-df2-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/maior-feira-de-empreendedorismo-lgbtqiapn-movimenta-o-df-neste-sabado-5-?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "QualificaDF Móvel ultrapassa a marca de 15 mil certificados entregues",
+    "label": "04/07/2025 às 12h53 - Atualizado em 04/07/2025 às 13h07",
+    "descricao": "Formatura desta sexta (4) contou com a presença da governadora em exercício Celina Leão, que oficializou a conclusão da capacitação a 637 alunos de São Sebastião, Riacho Fundo II, Planaltina e P Sul",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-04-at-12-16-51-jpeg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/qualificadf-movel-ultrapassa-a-marca-de-15-mil-certificados-entregues?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Áreas de Águas Claras terão desligamento de energia neste sábado (5)",
+    "label": "04/07/2025 às 12h52 - Atualizado em 04/07/2025 às 12h52",
+    "descricao": "Fornecimento de energia será temporariamente suspenso, de 9h às 15h, para trabalhos de manutenção da rede elétrica",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/distribuicao-foto-neoenergia-35-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/aguas-claras-tera-desligamento-de-energia-neste-sabado-5-?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Jogo de futebol Vasco da Gama x Botafogo terá 50 vagas para ambulantes",
     "label": "04/07/2025 às 11h59 - Atualizado em 04/07/2025 às 11h59",
     "descricao": "Partida será no dia 12 de julho, na Arena BRB Estádio Mané Garrincha; trabalhadores interessados têm que fazer o cadastro nesta segunda-feira (7)",
@@ -8,7 +50,7 @@
   },
   {
     "titulo": "Metrô-DF amplia horário de funcionamento no domingo da Parada do Orgulho LGBTQIA+",
-    "label": "04/07/2025 às 11h51 - Atualizado em 04/07/2025 às 11h52",
+    "label": "04/07/2025 às 11h51 - Atualizado em 04/07/2025 às 12h20",
     "descricao": "Saiba como será o funcionamento neste 6 de julho",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/3-2-metro-foto-tony-oliveira-agencia-brasilia2-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/metr%C3%B4-df-amplia-hor%C3%A1rio-de-funcionamento-no-domingo-da-parada-do-orgulho-lgbtqia-?redirect=%2Fnoticias"
@@ -26,47 +68,5 @@
     "descricao": "Produções foram exibidas na cerimônia de formatura dos 256 alunos da quarta edição do curso e estão disponíveis no canal do Detran nas Escolas no YouTube",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/4-7-curso-detran-df-jpeg?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/v%C3%ADdeos-produzidos-em-capacita%C3%A7%C3%A3o-sobre-cidadania-no-tr%C3%A2nsito-destacam-a-import%C3%A2ncia-de-desacelerar?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Hepatite A: Saúde reforça vacinação de pessoas que usam profilaxia ao HIV",
-    "label": "04/07/2025 às 10h39 - Atualizado em 04/07/2025 às 10h39",
-    "descricao": "Imunizante está disponível na rede pública e é uma ferramenta importante na prevenção de surtos",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/vacinacao-drive-thru-contra-a-covid-19-no-parque-da-cidade-estacionamento-13-vacina-coronavirus-covid-19-vacinacao-jul-2021-fotos-geovana-albuquerq-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/hepatite-a-saude-reforca-vacinacao-de-pessoas-que-usam-profilaxia-ao-hiv?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Aberta seleção para profissionais de TI e dados para projeto sobre transparência pública",
-    "label": "04/07/2025 às 10h32 - Atualizado em 04/07/2025 às 10h32",
-    "descricao": "Serão oferecidas oito bolsas remuneradas para atuação em pesquisa e desenvolvimento da nova Plataforma InfoDF 2.0",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/53381347787_f1638b3043_k-1-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/aberta-selecao-para-profissionais-de-ti-e-dados-para-projeto-sobre-transparencia-publica?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Ação de acolhimento da população em situação de rua volta ao Plano Piloto neste fim de semana",
-    "label": "04/07/2025 às 10h29 - Atualizado em 04/07/2025 às 10h29",
-    "descricao": "Abordagem está prevista para ocorrer neste sábado (5) e domingo (6) e irá passar por seis pontos",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54342210101_447bc77d2e_o-3-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-de-acolhimento-da-populacao-em-situacao-de-rua-volta-ao-plano-piloto-neste-fim-de-semana-3?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Atendimento presencial do Detran-DF, na unidade da 913 Sul, está suspenso nesta sexta (4)",
-    "label": "04/07/2025 às 10h23 - Atualizado em 04/07/2025 às 10h27",
-    "descricao": "Ainda não há previsão de normalização dos serviços, interrompidos após o rompimento de fibra ótica da GDFNet",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/detran-913-sul-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/atendimento-presencial-do-detran-df-na-unidade-da-913-sul-esta-suspenso-nesta-sexta-4-?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Música instrumental, cinema acessível e cultura popular são atrações do fim de semana no DF",
-    "label": "04/07/2025 às 10h17 - Atualizado em 04/07/2025 às 10h53",
-    "descricao": "Programação gratuita e diversa anima a capital com shows, oficinas e sessões de cinema para todos os públicos",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/festival-brasilidade-candanga-foto-murilo-alvesso-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/musica-instrumental-cinema-acessivel-e-cultura-popular-sao-atracoes-do-fim-de-semana-no-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Produção agrícola do DF movimentou mais de R$ 5,8 bilhões em 2024 com alta dos setores de frutas, flores e pecuária",
-    "label": "04/07/2025 às 08h16 - Atualizado em 04/07/2025 às 10h31",
-    "descricao": "Os dados compõem relatório anual da Emater-DF sobre os resultados de seis cadeias produtivas do campo brasiliense",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/4-7-agro-foto-matheus-h-souza-agencia-brasiliacapa-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/producao-agricola-do-df-movimentou-mais-de-r-58-bilhoes-em-2024-com-alta-dos-setores-de-frutas-flores-e-pecuaria?redirect=%2Fnoticias"
   }
 ]
