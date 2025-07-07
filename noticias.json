@@ -1,5 +1,54 @@
 [
   {
+    "titulo": "GDF lança a primeira Política Estadual de Saúde Mental no Trabalho para servidores públicos no Brasil",
+    "label": "07/07/2025 às 19h15 - Atualizado em 07/07/2025 às 19h15",
+    "descricao": "A ação foi construída pelo grupo de trabalho coordenado pela Secretaria-Executiva de Valorização e Qualidade de Vida, da Secretaria de Economia, e será implementada em diversos órgãos do Distrito Federal",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/b92015ef-5e24-49e2-8f0c-4c4b9608507e-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-lanca-a-primeira-politica-estadual-de-saude-mental-no-trabalho-para-servidores-publicos-no-brasil?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Turismo Mais Brasília leva estudantes da rede pública a pontos cívicos do DF",
+    "label": "07/07/2025 às 19h14 - Atualizado em 07/07/2025 às 19h14",
+    "descricao": "CEF 04 de Ceilândia inaugurou, nesta segunda-feira (7), projeto que conta com aporte da Secretaria de Turismo; previsão é atender mais de 15 mil alunos da capital",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-jro_1390-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/turismo-mais-brasilia-leva-estudantes-da-rede-publica-a-pontos-civicos-do-df?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "GDF inicia as obras do Hospital Regional do Recanto das Emas",
+    "label": "07/07/2025 às 19h10 - Atualizado em 07/07/2025 às 19h13",
+    "descricao": "Com investimento de mais de R$ 133 milhões, unidade terá 100 leitos, centro cirúrgico e estrutura sustentável",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/hospital-jpg?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-inicia-as-obras-do-hospital-regional-do-recanto-das-emas?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Divulgado chamamento para servidores interessados em atuar na PGDF",
+    "label": "07/07/2025 às 18h57 - Atualizado em 07/07/2025 às 18h57",
+    "descricao": "Edital contempla membros efetivos e estáveis de carreiras distritais que permitam redistribuição ou disposição",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/predio-2-png?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/divulgado-chamamento-para-servidores-interessados-em-atuar-na-pgdf?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Agências do trabalhador têm vagas com salários de até R$ 3,5 mil nesta terça (8)",
+    "label": "07/07/2025 às 18h53 - Atualizado em 07/07/2025 às 18h53",
+    "descricao": "São 671 oportunidades, que contemplam candidatos de diferentes níveis de escolaridade, com e sem experiência",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/mecanico-foto-arquivo-agencia-brasilia-2-jpg-1?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/agencias-do-trabalhador-tem-vagas-com-salarios-de-ate-r-35-mil-nesta-terca-8-?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Dia da Mulher da DPDF ultrapassa a marca de dois mil atendimentos gratuitos a mulheres em situação de vulnerabilidade",
+    "label": "07/07/2025 às 18h37 - Atualizado em 07/07/2025 às 18h54",
+    "descricao": "Com ações mensais desde 2023, a iniciativa tem como principal objetivo promover dignidade, acolhimento e transformação social por meio de uma série de serviços nas áreas jurídica, de saúde, assistência social, cidadania e bem-estar",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-2-jpeg-1?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/dia-da-mulher-da-dpdf-ultrapassa-a-marca-de-dois-mil-atendimentos-gratuitos-a-mulheres-em-situacao-de-vulnerabilidade?redirect=%2Fnoticias"
+  },
+  {
+    "titulo": "Zoológico de Brasília reabre com funcionamento diário durante o mês de julho",
+    "label": "07/07/2025 às 18h31 - Atualizado em 07/07/2025 às 18h53",
+    "descricao": "Equipes de tratadores mantêm protocolo sanitário mesmo sem novos casos de gripe aviária; esta semana as visitas guiadas serão feitas todos os dias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa1-jpg-5?imageThumbnail=4",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/zoologico-de-brasilia-reabre-com-funcionamento-diario-durante-o-mes-de-julho-1?redirect=%2Fnoticias"
+  },
+  {
     "titulo": "Projeto leva aulas de boxe à ala psiquiátrica do Hospital de Base",
     "label": "07/07/2025 às 17h10 - Atualizado em 07/07/2025 às 17h10",
     "descricao": "Modalidade esportiva, aplicada de forma lúdica, ajuda a aliviar ansiedade, estresse e angústia de pacientes",
@@ -15,58 +64,9 @@
   },
   {
     "titulo": "GDF faz mais de 700 atendimentos gratuitos durante a maior feira LGBTQIAPN+ do Distrito Federal",
-    "label": "07/07/2025 às 16h46 - Atualizado em 07/07/2025 às 16h46",
+    "label": "07/07/2025 às 16h46 - Atualizado em 07/07/2025 às 19h05",
     "descricao": "Serviços de saúde, cidadania, bem-estar e inclusão foram oferecidos durante o Mercado Borboleta, tradicional evento de diversidade realizado nesse sábado (5), no Eixo Monumental",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/image-15-png-1?imageThumbnail=4",
     "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-faz-mais-de-700-atendimentos-gratuitos-durante-a-maior-feira-lgbtqiapn-do-distrito-federal?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Calculadora Verde vai medir e reduzir emissões de carbono em ações e projetos governamentais",
-    "label": "07/07/2025 às 16h18 - Atualizado em 07/07/2025 às 16h19",
-    "descricao": "Ferramenta pioneira fortalece o compromisso do GDF com o enfrentamento às emergências climáticas",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/ipedf-1-foto-sede-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/calculadora-verde-vai-medir-e-reduzir-emissoes-de-carbono-em-acoes-e-projetos-governamentais?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "GDF incentiva cultura e geração de renda com oficinas gratuitas de crochê na Estrutural",
-    "label": "07/07/2025 às 15h40 - Atualizado em 07/07/2025 às 15h41",
-    "descricao": "Projeto oferece aulas presenciais com material, transporte e certificado inclusos; inscrições estão abertas",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-07-at-15-28-21-jpeg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-incentiva-cultura-e-geracao-de-renda-com-oficinas-gratuitas-de-croche-na-estrutural?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Empresas são credenciadas para atuar no serviço de patinetes compartilhados no DF",
-    "label": "07/07/2025 às 15h39 - Atualizado em 07/07/2025 às 15h39",
-    "descricao": "Operadoras vão se reunir com a Secretaria de Transporte e Mobilidade para definir os projetos e as áreas de atuação",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/7-7-patinetes-foto-divulgacao-semob-df-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/empresas-sao-credenciadas-para-atuar-no-servico-de-patinetes-compartilhados-no-df?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Estreia do Distrito Junino 2025 leva muita dança e alegria a Riacho Fundo II e Brazlândia",
-    "label": "07/07/2025 às 15h19 - Atualizado em 07/07/2025 às 15h19",
-    "descricao": "Primeiro fim de semana do maior circuito junino do DF reuniu grande público com apresentações de quadrilhas e shows ao vivo de forró",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/si-bobia-a-gente-pimba1-jpg?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/estreia-do-distrito-junino-2025-leva-muita-danca-e-alegria-a-riacho-fundo-ii-e-brazlandia?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Endereços em Águas Claras e no Lago Sul ficarão sem energia nesta terça (8) para modernização da rede",
-    "label": "07/07/2025 às 15h13 - Atualizado em 07/07/2025 às 15h13",
-    "descricao": "A interrupção temporária ocorrerá para garantir a segurança das equipes durante os serviços",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/manutencao-desligamento-ceb-neoenergia-foto-arquivo-agencia-brasilia-3-jpg-2?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/enderecos-em-aguas-claras-e-no-lago-sul-ficarao-sem-energia-na-terca-8-para-modernizacao-da-rede?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Com crescimento recorde no turismo no primeiro semestre, DF se consolida como destino em alta",
-    "label": "07/07/2025 às 13h30 - Atualizado em 07/07/2025 às 13h38",
-    "descricao": "Gestão estratégica de fomento ao turismo cultural, gastronômico, cívico e de negócios, faz da capital destino em alta para visitantes do Brasil e exterior",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-42-jpg-22?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/com-crescimento-recorde-no-turismo-no-primeiro-semestre-df-se-consolida-como-destino-em-alta?redirect=%2Fnoticias"
-  },
-  {
-    "titulo": "Inscrições para 5º Prêmio de Artesanato e 4º Prêmio de Manualistas do DF vão até sexta (11)",
-    "label": "07/07/2025 às 13h26 - Atualizado em 07/07/2025 às 13h26",
-    "descricao": "Secretaria de Turismo, BRB e Sebrae-DF vão premiar criatividade, inovação e tradição dos artistas de Brasília, impulsionando o setor com maior visibilidade para o artesanato local",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/7-7-premiacoes-setur-df-png?imageThumbnail=4",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/inscri%C3%A7%C3%B5es-para-5%C2%BA-pr%C3%AAmio-de-artesanato-e-4%C2%BA-pr%C3%AAmio-de-manualistas-do-df-v%C3%A3o-at%C3%A9-sexta-11-?redirect=%2Fnoticias"
   }
 ]
