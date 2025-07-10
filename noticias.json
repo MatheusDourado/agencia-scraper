@@ -1,5 +1,54 @@
 [
   {
+    "titulo": "Adasa esclarece que incidente no Rio do Sal não afeta abastecimento do DF",
+    "data": "10/07/2025 às 11h38 - Atualizado em 10/07/2025 às 11h38",
+    "descricao": "O deslizamento de resíduos do aterro para o Córrego Santa Bárbara segue em direção ao norte do país",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/adasa-esclarece-que-incidente-no-rio-do-sal-nao-afeta-abastecimento-do-df?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/fachada-adasa-3-jpg?imageThumbnail=4"
+  },
+  {
+    "titulo": "GDF inova com tecnologia em paradas de ônibus para consulta de horários do transporte público em tempo real",
+    "data": "10/07/2025 às 11h25 - Atualizado em 10/07/2025 às 11h51",
+    "descricao": "Fase de testes começa no Plano Piloto; passageiros poderão verificar linhas e tempo estimado de chegada dos coletivos por meio de QR Code",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-inova-com-tecnologia-em-paradas-de-onibus-para-consulta-de-horarios-do-transporte-publico-em-tempo-real?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-1-png?imageThumbnail=4"
+  },
+  {
+    "titulo": "Operação Sossego apreende sete motocicletas em Taguatinga",
+    "data": "10/07/2025 às 11h17 - Atualizado em 10/07/2025 às 11h17",
+    "descricao": "Ação realizada na noite de quarta-feira (9), na via LJ 01, cinco flagrou motociclistas não habilitados e dois com o direito de dirigir suspenso",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/opera%C3%A7%C3%A3o-sossego-apreende-sete-motocicletas-em-taguatinga?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/sossego-5-jpeg?imageThumbnail=4"
+  },
+  {
+    "titulo": "Comunidade participa de audiência pública sobre licenciamento ambiental da Arine Sucupira",
+    "data": "10/07/2025 às 11h03 - Atualizado em 10/07/2025 às 11h24",
+    "descricao": "Estudo de Impacto Ambiental foi apresentado no encontro, promovido pelo Brasília Ambiental na terça-feira (8)",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/comunidade-participa-de-audi%C3%AAncia-p%C3%BAblica-sobre-licenciamento-ambiental-da-arine-sucupira?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/10-7-audiencia-publica-brasilia-ambiental-jpg?imageThumbnail=4"
+  },
+  {
+    "titulo": "Aula de robótica para torneios inspira alunos do Gama em competições nacionais",
+    "data": "10/07/2025 às 10h45 - Atualizado em 10/07/2025 às 10h45",
+    "descricao": "Projeto do CEF 01 reúne 50 alunos e coleciona prêmios e classificações em torneios como a OBR",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/aula-de-robotica-para-torneios-inspira-alunos-do-gama-em-competicoes-nacionais?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/aula-robotica-cef-01-gama-capa-jpg?imageThumbnail=4"
+  },
+  {
+    "titulo": "GDF repudia ato de agressão contra profissionais da rede pública de saúde",
+    "data": "10/07/2025 às 10h31 - Atualizado em 10/07/2025 às 10h31",
+    "descricao": "Qualquer forma de violência contra servidores públicos é inaceitável e será tratada com o máximo rigor",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-repudia-ato-de-agress%C3%A3o-contra-profissionais-da-rede-p%C3%BAblica-de-sa%C3%BAde?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-07-10-at-10-16-38-jpeg?imageThumbnail=4"
+  },
+  {
+    "titulo": "Maior campeonato de skate street, festival inclusivo e Férias no Ateliê do MAB animam o fim de semana na capital",
+    "data": "10/07/2025 às 08h08 - Atualizado em 10/07/2025 às 08h46",
+    "descricao": "Com programação gratuita, julho oferece opções de cultura, esporte e lazer para todas as idades",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/maior-campeonato-de-skate-street-festival-inclusivo-e-ferias-no-atelie-do-mab-animam-o-fim-de-semana-na-capital?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/street-league-skateboarding-sls-spot-takeover-jpeg?imageThumbnail=4"
+  },
+  {
     "titulo": "Dia da Saúde Ocular: Vigilante do Metrô de Brasília recupera 90% da visão após cirurgia no Hospital de Base",
     "data": "10/07/2025 às 07h55 - Atualizado em 10/07/2025 às 08h03",
     "descricao": "Caso registrado pela equipe de oftalmologia da unidade hospitalar reforça importância do diagnóstico precoce e do acesso ao atendimento especializado",
@@ -8,7 +57,7 @@
   },
   {
     "titulo": "Aberto pregão para aquisição de tomógrafos",
-    "data": "09/07/2025 às 19h36 - Atualizado em 09/07/2025 às 19h37",
+    "data": "09/07/2025 às 19h36 - Atualizado em 10/07/2025 às 11h54",
     "descricao": "Investimento de R$ 30,5 milhões reforçará diagnóstico por imagem na rede pública do Distrito Federal",
     "link": "https://www.agenciabrasilia.df.gov.br/w/aberto-pregao-para-aquisicao-de-tomografos?redirect=%2Fnoticias",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/hcb-exames-de-imagem_mg_4476-jpg-1?imageThumbnail=4"
@@ -19,54 +68,5 @@
     "descricao": "Evento, que conta com aporte do Fundo de Apoio à Cultura (FAC-DF), tem como objetivo dar visibilidade a artistas com deficiência; programação segue até 3 de agosto",
     "link": "https://www.agenciabrasilia.df.gov.br/w/festival-trilha-da-inclusao-comeca-nesta-quinta-10-com-exposicao-de-artes-visuais?redirect=%2Fnoticias",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto_-mateus-falcao-1-_1-jpg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Workshop alinha ações do programa Adote uma Praça",
-    "data": "09/07/2025 às 19h17 - Atualizado em 09/07/2025 às 19h18",
-    "descricao": "Encontro entre Secretaria de Projetos Especiais e administrações regionais esclareceu dúvidas e traçou estratégias",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/workshop-alinha-acoes-do-programa-adote-uma-praca?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/9-7-materia-sepe-df-jpg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Viver 60 +: Mais de 50 pessoas idosas participam de oficina de jardinagem",
-    "data": "09/07/2025 às 19h17 - Atualizado em 10/07/2025 às 08h11",
-    "descricao": "Iniciativa da Secretaria de Justiça e Cidadania, em parceria com a Escola de Paisagismo de Brasília, oferece capacitação prática, bem-estar e inclusão social por meio do cultivo de plantas em vasos",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/viver-60-mais-de-50-pessoas-idosas-participam-de-oficina-de-jardinagem?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/9-7-materia-sejus-foto-jhonatan-vieira-sejus-df2-jpeg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Agências do trabalhador têm 945 vagas de emprego abertas nesta quinta (10)",
-    "data": "09/07/2025 às 19h11 - Atualizado em 09/07/2025 às 19h26",
-    "descricao": "Interessados devem cadastrar o currículo no aplicativo da Carteira de Trabalho Digital ou ir a uma das 14 agências do trabalhador, das 8h às 17h, durante a semana",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/agencias-do-trabalhador-tem-945-vagas-de-emprego-abertas-nesta-quinta-10-?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/foto-tony-oliveira-28-jpg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Programa de saúde mental contempla estudantes da rede pública",
-    "data": "09/07/2025 às 18h58 - Atualizado em 09/07/2025 às 18h59",
-    "descricao": "Iniciativa da Secretaria de Educação promove acolhimento, prevenção e desenvolvimento socioemocional nas escolas",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/programa-de-saude-mental-contempla-estudantes-da-rede-publica?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/9-7-materia-educacao-foto-felipe-noronha-seedf-jpg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Visitantes das unidades penais do DF poderão utilizar armários guarda-volumes",
-    "data": "09/07/2025 às 18h44 - Atualizado em 09/07/2025 às 19h20",
-    "descricao": "Iniciativa garante mais conforto, segurança e dignidade às famílias dos custodiados",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/visitantes-das-unidades-penais-do-df-poderao-utilizar-armarios-guarda-volumes?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/9-7-armarios-foto-divulgacao-seape-df3-jpeg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Um ano após modernização, 100% das passagens do transporte público do DF são pagas digitalmente",
-    "data": "09/07/2025 às 18h43 - Atualizado em 09/07/2025 às 20h58",
-    "descricao": "Mudança no sistema de pagamento de passagens começou em julho do ano passado. Atualmente, pagamento em dinheiro não é aceito em nenhuma linha urbana de ônibus ou no metrô",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/um-ano-apos-modernizacao-100-das-passagens-do-transporte-publico-do-df-sao-pagas-digitalmente?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/1-1-jpg-14?imageThumbnail=4"
-  },
-  {
-    "titulo": "GDF alinha ações do Programa Acolhe DF em reunião com secretariado",
-    "data": "09/07/2025 às 18h21 - Atualizado em 09/07/2025 às 20h57",
-    "descricao": "Governadora em exercício, Celina Leão, reforça compromisso com a busca ativa e reinserção de pessoas em situação de rua",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/gdf-alinha-acoes-do-programa-acolhe-df-em-reuniao-com-secretariado?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/capa-1-6-jpg-6?imageThumbnail=4"
   }
 ]
