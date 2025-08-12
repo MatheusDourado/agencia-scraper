@@ -1,5 +1,54 @@
 [
   {
+    "titulo": "Agosto Lilás: transporte gratuito para mulheres vítimas de violência será estendido para núcleos de atendimento no DF",
+    "data": "12/08/2025 às 15h25 - Atualizado em 12/08/2025 às 15h25",
+    "descricao": "Parceria entre Secretaria de Segurança e empresa de transporte por aplicativo oferece voucher de R$ 40 para aquelas que buscam atendimento; serviço já é oferecido em delegacias especializadas",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/agosto-lilas-transporte-gratuito-para-mulheres-vitimas-de-violencia-sera-estendido-para-nucleos-de-atendimento-no-df?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/29313217034_409b6161de_c-jpg?imageThumbnail=4"
+  },
+  {
+    "titulo": "Acompanhe a posse dos conselheiros de juventude do Distrito Federal",
+    "data": "12/08/2025 às 15h23 - Atualizado em 12/08/2025 às 15h23",
+    "descricao": "Seis conselheiros foram eleitos diretamente pelos jovens com idades entre 16 e 29 anos de idade; Conjuve tem outros 12 membros indicados pelo GDF e pela sociedade civil",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/acompanhe-a-posse-dos-conselheiros-de-juventude-do-distrito-federal?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/ao_vivo__posse-conjuve-png?imageThumbnail=4"
+  },
+  {
+    "titulo": "DF tem ações de proteção a crianças e adolescentes no ambiente virtual desde 2024",
+    "data": "12/08/2025 às 15h15 - Atualizado em 12/08/2025 às 15h22",
+    "descricao": "Capacitações, campanhas e ações educativas previnem exposição e adultização infantil na internet",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/df-tem-acoes-de-protecao-a-criancas-e-adolescentes-no-ambiente-virtual-desde-2024?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-08-12-at-14-47-02-jpeg?imageThumbnail=4"
+  },
+  {
+    "titulo": "Primeira turma EAD do curso LAI na Prática bate recorde de inscrições",
+    "data": "12/08/2025 às 15h14 - Atualizado em 12/08/2025 às 15h14",
+    "descricao": "Capacitação promovida pela Controladoria-Geral do DF e Egov atraiu mais de 800 inscrições e reforça o interesse dos servidores pelo assunto",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/primeira-turma-ead-do-curso-lai-na-pratica-bate-recorde-de-inscricoes?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/4-10-egov-jpeg?imageThumbnail=4"
+  },
+  {
+    "titulo": "Passarela do Anexo do Buriti recebe feira pet",
+    "data": "12/08/2025 às 15h11 - Atualizado em 12/08/2025 às 15h11",
+    "descricao": "Com orientações sobre posse responsável, evento promove adoção e apadrinhamento de animais, das 9h às 16h",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/passarela-do-anexo-do-buriti-recebe-feira-pet?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/img-20250812-wa0036-jpg?imageThumbnail=4"
+  },
+  {
+    "titulo": "Inscrições abertas para o 14º Circuito de Ciências do Distrito Federal",
+    "data": "12/08/2025 às 15h06 - Atualizado em 12/08/2025 às 15h06",
+    "descricao": "Evento da rede pública incentiva protagonismo estudantil e soluções criativas para desafios reais; nesta edição, serão contemplados trabalhos que dialoguem com ideias sustentáveis de preservação hídrica",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/inscricoes-abertas-para-o-14-circuito-de-ciencias-do-distrito-federal?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/fotos-andre-amendoeiraseedf-jpg?imageThumbnail=4"
+  },
+  {
+    "titulo": "Aluno do COP de Samambaia conquista medalha nacional em competição aquática no Lago Paranoá",
+    "data": "12/08/2025 às 14h24 - Atualizado em 12/08/2025 às 14h39",
+    "descricao": "Isaque Alecrim participa do projeto Futuro Campeão e ficou em segundo lugar no festival Rei e Rainha do Mar; iniciativa da Secretaria de Esporte e Lazer atende 230 crianças e adolescentes em nove centros olímpicos e paralímpicos",
+    "link": "https://www.agenciabrasilia.df.gov.br/w/aluno-do-cop-de-samambaia-conquista-medalha-nacional-em-competicao-aquatica-no-lago-paranoa?redirect=%2Fnoticias",
+    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/12-8-cops-foto-joel-rodrigues-agencia-brasilia-jpeg?imageThumbnail=4"
+  },
+  {
     "titulo": "Postos do Cadastro Único completam três anos, com mais de 464 mil atendimentos e aumento de famílias inscritas",
     "data": "12/08/2025 às 14h03 - Atualizado em 12/08/2025 às 14h03",
     "descricao": "Unidades da Secretaria de Desenvolvimento Social foram criadas para agilizar o atendimento às famílias que utilizam a plataforma para acessar programas sociais",
@@ -15,58 +64,9 @@
   },
   {
     "titulo": "Hospital de Base aplica técnica inédita em cirurgias cardíacas",
-    "data": "12/08/2025 às 13h49 - Atualizado em 12/08/2025 às 13h49",
+    "data": "12/08/2025 às 13h49 - Atualizado em 12/08/2025 às 15h13",
     "descricao": "Procedimento pioneiro visa rápida recuperação do paciente e reduz o risco de complicações",
     "link": "https://www.agenciabrasilia.df.gov.br/w/hospital-de-base-aplica-tecnica-inedita-em-cirurgias-cardiacas?redirect=%2Fnoticias",
     "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-08-02-at-10-37-38-jpeg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Concurso cultural para reeducandos reforça a arte como caminho para a ressocialização",
-    "data": "12/08/2025 às 13h03 - Atualizado em 12/08/2025 às 13h03",
-    "descricao": "Tema desta edição é 'Recomeçar é possível: o poder de uma nova chance'; inscrições vão até 10 de setembro",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/concurso-cultural-para-reeducandos-reforca-a-arte-como-caminho-para-a-ressocializacao?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/concurso-cultural-funap-1-png?imageThumbnail=4"
-  },
-  {
-    "titulo": "Áreas de Arapoanga, Guará e Planaltina ficarão sem energia na quarta (13) para serviços na rede",
-    "data": "12/08/2025 às 12h55 - Atualizado em 12/08/2025 às 12h55",
-    "descricao": "A interrupção temporária ocorrerá das 10h às 16h para garantir a segurança das equipes em serviço",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/areas-de-arapoanga-guara-e-planaltina-ficarao-sem-energia-na-quarta-13-para-servicos-na-rede?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/fotos-joel-rodrigues-1-jpg-1?imageThumbnail=4"
-  },
-  {
-    "titulo": "Rede pública do DF destaca-se na Olimpíada Brasileira de Astronomia 2025",
-    "data": "12/08/2025 às 12h12 - Atualizado em 12/08/2025 às 12h12",
-    "descricao": "Com 34 medalhas de ouro, estudantes alcançam o melhor resultado da história da competição",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/rede-publica-do-df-destaca-se-na-olimpiada-brasileira-de-astronomia-2025?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/12-8-oba-foto-andre-amendoeira-seedf2-jpg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Ação de acolhimento à população em situação de rua ocorre nesta quarta (13) em Ceilândia",
-    "data": "12/08/2025 às 11h46 - Atualizado em 12/08/2025 às 11h46",
-    "descricao": "Abordagem está prevista para passar por nove pontos na região administrativa",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/acao-de-acolhimento-a-populacao-em-situacao-de-rua-ocorre-nesta-quarta-13-em-ceilandia?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/54342421284_93a6e1202a_k-1-jpg-1?imageThumbnail=4"
-  },
-  {
-    "titulo": "Defensoria nas Escolas chega a Brazlândia",
-    "data": "12/08/2025 às 11h25 - Atualizado em 12/08/2025 às 11h25",
-    "descricao": "Nona edição do projeto, executado em parceria com a Secretaria de Educação do DF, será na quinta (14) e na sexta-feira (15), no Centro Educacional 02",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/defensoria-nas-escolas-chega-a-brazlandia?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/dfe4-jpeg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Paranoá tem novo plano de ocupação para ambulantes",
-    "data": "12/08/2025 às 11h13 - Atualizado em 12/08/2025 às 11h13",
-    "descricao": "Documento trará mais ordem e transparência para os comerciantes, e mais segurança para a população",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/paranoa-tem-novo-plano-de-ocupacao-para-ambulantes?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/whatsapp-image-2025-08-12-at-10-22-40-jpeg?imageThumbnail=4"
-  },
-  {
-    "titulo": "Palestra ‘Desafio não é brincadeira’ alerta sobre riscos digitais e integra programação do Agosto Lilás",
-    "data": "12/08/2025 às 11h09 - Atualizado em 12/08/2025 às 11h14",
-    "descricao": "Iniciativa do GDF oferece prevenção contra crimes e desafios perigosos nas redes sociais em escolas, igrejas e comunidades",
-    "link": "https://www.agenciabrasilia.df.gov.br/w/palestra-desafio-nao-e-brincadeira-alerta-sobre-riscos-digitais-e-integra-programacao-do-agosto-lilas?redirect=%2Fnoticias",
-    "imagem": "https://www.agenciabrasilia.df.gov.br/documents/d/guest/12-8-foto-henrique-araujo-smdf-jpeg?imageThumbnail=4"
   }
 ]
