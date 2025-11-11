@@ -1,9 +1,4 @@
-# .github/workflows/generate-noticias.yml
-
-permissions:
-  contents: write
-
-name: Generate noticias.json
+name: Gerar JSON de Notícias
 
 on:
   schedule:
@@ -11,34 +6,37 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
+          cache: 'npm'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Instalar dependências
+        run: npm install --production
 
-      - name: Install Puppeteer dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y wget ca-certificates fonts-liberation libappindicator3-1 libasound2t64 libatk-bridge2.0-0 libatk1.0-0 libcups2 libdbus-1-3 libgdk-pixbuf2.0-0 libnspr4 libnss3 libx11-xcb1 libxcomposite1 libxdamage1 libxrandr2 xdg-utils
-
-      - name: Run scraper to generate JSON
+      - name: Executar scraper
         run: npm run generate-json
+        timeout-minutes: 3
 
-      - name: Commit and push noticias.json
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: actions@github.com
-          message: 'chore: update noticias.json'
-          add: 'noticias.json'
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit e Push
+        run: |
+          git config user.name "GitHub Bot"
+          git config user.email "bot@github.com"
+          
+          if git diff --quiet noticias.json; then
+            echo "Sem mudanças"
+          else
+            git add noticias.json
+            git commit -m "Update: Notícias atualizadas"
+            git push
+          fi
