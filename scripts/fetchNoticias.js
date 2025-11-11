@@ -1,111 +1,113 @@
-const puppeteer = require('puppeteer-extra');
-const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+const axios = require('axios');
+const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
 
-puppeteer.use(StealthPlugin());
-
 const URL = 'https://www.agenciabrasilia.df.gov.br/noticias';
 const OUTPUT = path.join(__dirname, '../noticias.json');
-const TIMEOUT = 60000; // 60 segundos
+
+// Headers realistas para evitar bloqueios
+const headers = {
+	'User-Agent':
+		'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+	Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+	'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
+	'Cache-Control': 'no-cache',
+	Pragma: 'no-cache',
+	Referer: 'https://www.agenciabrasilia.df.gov.br/',
+};
 
 async function scrapeNoticias() {
-    let browser;
-    try {
-        browser = await puppeteer.launch({
-            args: ['--no-sandbox', '--disable-setuid-sandbox'],
-            headless: true,
-        });
+	try {
+		console.log(`🔄 Buscando notícias de ${URL}...`);
 
-        const page = await browser.newPage();
-        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36');
+		const response = await axios.get(URL, {
+			headers,
+			timeout: 15000, // 15 segundos
+			maxRedirects: 5,
+		});
 
-        // Carrega a página só até o DOM estar disponível (muito mais rápido e menos problema com recursos pendentes)
-        await page.goto(URL, { waitUntil: 'domcontentloaded', timeout: TIMEOUT });
+		const $ = cheerio.load(response.data);
+		const noticias = [];
 
-        // Espera o seletor do card aparecer (até 20s, ajusta se quiser)
-        await page.waitForSelector('.content-card-result', { timeout: 20000 });
+		// Ajusta os seletores conforme necessário
+		$('.content-card-result a.card-result').each((index, element) => {
+			try {
+				const $card = $(element);
 
-        // Faz o scraping
-        const listaNoticias = await page.evaluate(() => {
-            const cards = document.querySelectorAll('.content-card-result a.card-result');
-            const noticias = [];
+				const titulo = $card.find('h3')?.text()?.trim() || '';
+				const data = $card.find('label')?.text()?.trim() || '';
+				const descricao =
+					$card.find('.font-weight-regular')?.text()?.trim() || '';
 
-            cards.forEach(card => {
-                const titulo = card.querySelector('h3')?.textContent?.trim() || '';
-                const data = card.querySelector('label')?.textContent?.trim() || '';
-                const descricao = card.querySelector('.font-weight-regular')?.textContent?.trim() || '';
-                let link = card.getAttribute('href');
-                let imagem = '';
+				let link = $card.attr('href') || '';
+				let imagem = $card.find('.col-md-3 img')?.attr('src') || '';
 
-                // Pega imagem se tiver
-                const imgElem = card.querySelector('.col-md-3 img');
-                if (imgElem) {
-                    imagem = imgElem.getAttribute('src') || '';
-                    // Se vier relativa, cola o domínio
-                    if (imagem && !imagem.startsWith('http')) {
-                        imagem = 'https://www.agenciabrasilia.df.gov.br' + imagem;
-                    }
-                }
+				// Corrige URLs relativas
+				if (link && !link.startsWith('http')) {
+					link = `https://www.agenciabrasilia.df.gov.br${link}`;
+				}
+				if (imagem && !imagem.startsWith('http')) {
+					imagem = `https://www.agenciabrasilia.df.gov.br${imagem}`;
+				}
 
-                // Corrige link relativo
-                if (link && !link.startsWith('http')) {
-                    link = 'https://www.agenciabrasilia.df.gov.br' + link;
-                }
+				if (titulo && link) {
+					// Valida se tem pelo menos título e link
+					noticias.push({
+						titulo,
+						data,
+						descricao,
+						link,
+						imagem,
+					});
+				}
+			} catch (error) {
+				console.warn(
+					`⚠️ Erro ao processar card ${index}:`,
+					error.message,
+				);
+			}
+		});
 
-                noticias.push({
-                    titulo,
-                    data,
-                    descricao,
-                    link,
-                    imagem
-                });
-            });
+		if (noticias.length === 0) {
+			throw new Error(
+				'❌ Nenhuma notícia encontrada! Verifique os seletores CSS.',
+			);
+		}
 
-            return noticias;
-        });
+		// Salva JSON
+		fs.writeFileSync(OUTPUT, JSON.stringify(noticias, null, 2), 'utf8');
+		console.log(`✅ ${noticias.length} notícias salvas com sucesso!`);
 
-        // Se não encontrou nada, faz log do HTML pra debug
-        if (!listaNoticias.length) {
-            const html = await page.content();
-            fs.writeFileSync(path.join(__dirname, '../pagina_debug.html'), html, 'utf8');
-            console.error('⚠️ Nenhuma notícia encontrada! HTML salvo em pagina_debug.html para diagnóstico.');
-
-            // Não salva JSON vazio! Dá erro e sai
-            throw new Error('Nenhuma notícia encontrada na página. Abortando para evitar JSON vazio.');
-        }
-
-        // Salva o JSON normalmente
-        fs.writeFileSync(OUTPUT, JSON.stringify(listaNoticias, null, 2), 'utf8');
-        console.log(`✅ ${listaNoticias.length} notícias coletadas com sucesso!`);
-
-        await browser.close();
-        process.exit(0);
-
-    } catch (err) {
-        if (browser) await browser.close();
-        console.error('❌ Erro durante o scraping:', err);
-        process.exit(1);
-    }
+		return noticias;
+	} catch (error) {
+		console.error('❌ Erro durante o scraping:', error.message);
+		throw error;
+	}
 }
 
-// Opcional: tenta rodar duas vezes antes de desistir (pode ser útil pra problemas transitórios)
-async function runWithRetry(maxTries = 2) {
-    for (let i = 1; i <= maxTries; i++) {
-        try {
-            console.log(`Tentativa ${i} de ${maxTries}`);
-            await scrapeNoticias();
-            break;
-        } catch (err) {
-            if (i === maxTries) {
-                console.error('Falhou em todas as tentativas 😭');
-                process.exit(1);
-            } else {
-                console.warn('Tentando novamente...');
-                await new Promise(r => setTimeout(r, 4000));
-            }
-        }
-    }
+// Retry automático com backoff exponencial
+async function runWithRetry(maxTries = 3) {
+	for (let i = 1; i <= maxTries; i++) {
+		try {
+			console.log(`\n📍 Tentativa ${i} de ${maxTries}`);
+			await scrapeNoticias();
+			process.exit(0);
+			return;
+		} catch (err) {
+			if (i === maxTries) {
+				console.error(`\n❌ Falhou em todas as ${maxTries} tentativas`);
+				process.exit(1);
+			}
+
+			const delay = Math.pow(2, i) * 1000; // Backoff: 2s, 4s, 8s
+			console.log(
+				`⏳ Aguardando ${delay}ms antes da próxima tentativa...`,
+			);
+			await new Promise((r) => setTimeout(r, delay));
+		}
+	}
 }
 
-runWithRetry(2);
+runWithRetry(3);
+    
