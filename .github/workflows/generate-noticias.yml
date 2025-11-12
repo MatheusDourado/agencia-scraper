@@ -5,38 +5,49 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write   # precisa disso pra dar git push com o GITHUB_TOKEN
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+    env:
+      NODE_OPTIONS: --dns-result-order=ipv4first  # força IPv4 primeiro
+
     steps:
       - name: Checkout repositório
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
 
+      - name: Teste de conectividade (IPv4)
+        run: curl -I --ipv4 --connect-timeout 10 --max-time 20 https://www.agenciabrasilia.df.gov.br/noticias || true
+
       - name: Instalar dependências
-        run: npm install --production
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install --no-audit --no-fund 
+          fi
 
       - name: Executar scraper
         run: npm run generate-json
-        timeout-minutes: 3
+        timeout-minutes: 7
 
       - name: Commit e Push
         run: |
           git config user.name "GitHub Bot"
           git config user.email "bot@github.com"
-          
           if git diff --quiet noticias.json; then
             echo "Sem mudanças"
           else
             git add noticias.json
-            git commit -m "Update: Notícias atualizadas"
+            git commit -m "chore: update noticias.json [skip ci]"
             git push
           fi
+ 
