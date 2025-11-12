@@ -2,6 +2,8 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
+require('dns').setDefaultResultOrder('ipv4first');
+
 
 const URL = 'https://www.agenciabrasilia.df.gov.br/noticias';
 const OUTPUT = path.join(__dirname, '../noticias.json');
